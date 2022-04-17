@@ -1,0 +1,24 @@
+# vocab-cmn-food-condiments.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+辣椒醬 辣椒酱 [la4 jiao1 jiang4] /chili sauce/
+蒜蓉辣醬 蒜蓉辣酱 [suan4 rong2 la4 jiang4] /garlic sauce/
+辣根醬 辣根酱 [la4 gen1 jiang4] /horseradish sauce/
+番茄醬 番茄酱 [fan1 qie2 jiang4] /ketchup/
+蛋黃醬 蛋黄酱 [dan4 huang2 jiang4] /mayonnaise/
+芥末醬 芥末酱 [jie4 mo5 jiang4] /mustard/
+是拉差香甜辣椒醬 是拉差香甜辣椒酱 [shi4 la1 cha1 xiang1 tian2 la4 jiao1 jiang4] /sriracha hot chili sauce/
+是拉差辣椒醬 是拉差辣椒酱 [shi4 la1 cha1 la4 jiao1 jiang4] /sriracha hot chili sauce/
+塔巴斯科辣椒醬 塔巴斯科辣椒酱 [ta3 ba1 si1 ke1 la4 jiao1 jiang4] /Tabasco sauce/
+辣醬油 辣酱油 [la4 jiang4 you2] /Worcester sauce/
+辣醬油 辣酱油 [la4 jiang4 you2] /Worcestershire sauce/

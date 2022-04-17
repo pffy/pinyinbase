@@ -1,0 +1,26 @@
+# vocab-cmn-food-desserts.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+草莓布丁 草莓布丁 [cao3 mei2 bu4 ding1] /Strawberry Pudding/
+哈密​​瓜布丁 哈密​​瓜布丁 [ha1 mi4 ​​ gua1 bu4 ding1] /Honeydew Pudding/
+雞蛋布丁 鸡蛋布丁 [ji1 dan4 bu4 ding1] /Egg Pudding/
+焦糖布丁 焦糖布丁 [jiao1 tang2 bu4 ding1] /Caramel Pudding/
+咖啡凍 咖啡冻 [ka1 fei1 dong4] /Coffee Pudding/
+綠茶凍 绿茶冻 [luu4 cha2 dong4] /Green Tea Pudding/
+摩卡布丁 摩卡布丁 [mo2 ka3 bu4 ding1] /Mocha Pudding/
+牛奶布丁 牛奶布丁 [niu2 nai3 bu4 ding1] /Milk Pudding/
+巧克力布丁 巧克力布丁 [qiao3 ke4 li4 bu4 ding1] /Chocolate Pudding/
+芋頭布丁 芋头布丁 [yu4 tou5 bu4 ding1] /Taro Pudding/
+刨冰 刨冰 [bao4 bing1] /shaved ice/
+巧克力撻 巧克力挞 [qiao3 ke4 li4 ta4] /chocolate tart/
+巧克力派 巧克力派 [qiao3 ke4 li4 pai4] /chocolate pie/

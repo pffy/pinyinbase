@@ -1,0 +1,16 @@
+# vocab-cmn-health-med-medicines.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿司匹林 阿司匹林 [a1 si1 pi3 lin2] /aspirin/
+布洛芬 布洛芬 [bu4 luo4 fen1] /ibuprofen/
+萘普生 萘普生 [nai4 pu3 sheng1] /naproxen/

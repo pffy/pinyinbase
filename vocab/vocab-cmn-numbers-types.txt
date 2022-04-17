@@ -1,0 +1,19 @@
+# vocab-cmn-numbers-types.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+實數 实数 [shi2 shu4] /real number/
+整數 整数 [zheng3 shu4] /integer number/
+有理數 有理数 [you3 li3 shu4] /rational number/
+無理數 无理数 [wu2 li3 shu4] /irrational number/
+虛數 虚数 [xu1 shu4] /imaginary number/
+複數 复数 [fu4 shu4] /complex number/

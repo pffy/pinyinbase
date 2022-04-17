@@ -1,0 +1,63 @@
+# vocab-cmn-geo-us-states-capitals.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+奧爾巴尼 奥尔巴尼 [ao4 er3 ba1 ni2] /Albany/
+安那波利斯 安那波利斯 [an1 na4 bo1 li4 si1] /Annapolis/
+亞特蘭大 亚特兰大 [ya4 te4 lan2 da4] /Atlanta/
+奧古斯塔 奥古斯塔 [ao4 gu3 si1 ta3] /Augusta/
+奧斯汀 奥斯汀 [ao4 si1 ting1] /Austin/
+巴吞魯日 巴吞鲁日 [ba1 tun1 lu3 ri4] /Baton Rouge/
+俾斯麥 俾斯麥 [bi3 si1 mai4] /Bismarck/
+博伊西 博伊西 [bo2 yi1 xi1] /Boise/
+波士頓 波士顿 [bo1 shi4 dun4] /Boston/
+卡森城 卡森城 [ka3 sen1 cheng2] /Carson City/
+查爾斯頓 查尔斯顿 [cha2 er3 si1 dun4] /Charleston/
+夏延 夏延 [xia4 yan2] /Cheyenne/
+哥倫比亞 哥伦比亚 [ge1 lun2 bi3 ya4] /Columbia/
+哥倫布 哥伦布 [ge1 lun2 bu4] /Columbus/
+康科德 康科德 [kang1 ke1 de2] /Concord/
+丹佛 丹佛 [dan1 fo2] /Denver/
+德梅因 德梅因 [de2 mei2 yin1] /Des Moines/
+多佛 多佛 [duo1 fo2] /Dover/
+法蘭克福 法兰克福 [fa3 lan2 ke4 fu2] /Frankfort/
+哈里斯堡 哈里斯堡 [ha1 li3 si1 bao3] /Harrisburg/
+哈特福 哈特福 [ha1 te4 fu2] /Hartford/
+赫勒拿 赫勒拿 [he4 le4 na2] /Helena/
+檀香山 檀香山 [tan2 xiang1 shan1] /Honolulu/
+印第安納波利斯 印第安納波利斯 [yin4 di4 an1 na4 bo1 li4 si1] /Indianapolis/
+傑克遜 杰克逊 [jie2 ke4 xun4] /Jackson/
+杰斐遜城 杰斐逊城 [jie2 fei3 xun4 cheng2] /Jefferson City/
+朱諾 朱诺 [zhu1 nuo4] /Juneau/
+蘭辛 兰辛 [lan2 xin1] /Lansing/
+林肯 林肯 [lin2 ken3] /Lincoln/
+小石城 小石城 [xiao3 shi2 cheng2] /Little Rock/
+麥迪遜 麦迪逊 [mai4 di2 xun4] /Madison/
+蒙哥馬利 蒙哥马利 [meng2 ge1 ma3 li4] /Montgomery/
+蒙彼利埃 蒙彼利埃 [meng2 bi3 li4 ai1] /Montpelier/
+納什維爾 纳什维尔 [na4 shen2 wei2 er3] /Nashville/
+奧克拉荷馬市 奧克拉荷马市 [ao4 ke4 la1 he2 ma3 shi4] /Oklahoma City/
+奧林匹亞 奥林匹亚 [ao4 lin2 pi3 ya4] /Olympia/
+鳳凰城 凤凰城 [feng4 huang2 cheng2] /Phoenix/
+皮爾 皮尔 [pi2 er3] /Pierre/
+普羅維登斯 普罗维登斯 [pu3 luo2 wei2 deng1 si1] /Providence/
+羅利 罗利 [luo2 li4] /Raleigh/
+里士滿 里士满 [li3 shi4 man3] /Richmond/
+薩克拉門托 萨克拉门托 [sa4 ke4 la1 men2 tuo1] /Sacramento/
+塞勒姆 塞勒姆 [sai1 le4 mu3] /Salem/
+鹽湖城 盐湖城 [yan2 hu2 cheng2] /Salt Lake City/
+聖菲 圣菲 [sheng4 fei1] /Santa Fe/
+斯普林菲爾德 斯普林菲尔德 [si1 pu3 lin2 fei1 er3 de2] /Springfield/
+聖保羅 圣保罗 [sheng4 bao3 luo2] /St. Paul/
+塔拉赫西 塔拉赫西 [ta3 la1 he4 xi1] /Tallahassee/
+托皮卡 托皮卡 [tuo1 pi2 ka3] /Topeka/
+特倫頓 特伦顿 [te4 lun2 dun4] /Trenton/

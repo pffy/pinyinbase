@@ -1,0 +1,18 @@
+# vocab-cmn-food-smoothies.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+芋頭冰沙 芋头冰沙 [yu4 tou5 bing1 sha1] /taro smoothie/
+西瓜冰沙 西瓜冰沙 [xi1 gua1 bing1 sha1] /watermelon smoothie/
+草莓冰沙 草莓冰沙 [cao3 mei2 bing1 sha1] /strawberry smoothie/
+芒果奶昔 芒果奶昔 [mang2 guo3 nai3 xi1] /mango smoothie/
+百香果冰沙 百香果冰沙 [bai3 xiang1 guo3 bing1 sha1] /passion fruit smoothie/

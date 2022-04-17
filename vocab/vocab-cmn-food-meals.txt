@@ -1,0 +1,20 @@
+# vocab-cmn-food-meals.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+早餐 早餐 [zao3 can1] /breakfast/
+午餐 午餐 [wu3 can1] /lunch/
+晚餐 晚餐 [wan3 can1] /dinner/
+早午餐 早午餐 [zao3 wu3 can1] /brunch/
+小吃 小吃 [xiao3 chi1] /snack/
+下午茶 下午茶 [xia4 wu3 cha2] /high tea/
+點心 点心 [dian3 xin5] /dim sum/

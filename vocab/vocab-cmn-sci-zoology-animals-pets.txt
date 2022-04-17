@@ -1,0 +1,19 @@
+# vocab-cmn-sci-zoology-animals-pets.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+狗 狗 [gou3] /dog/
+貓 猫 [mao1] /cat/
+鳥 鸟 [niao3] /bird/
+倉鼠 仓鼠 [cang1 shu3] /hamster/
+鸚鵡 鹦鹉 [ying1 wu3] /parrot/
+豚鼠 豚鼠 [tun2 shu3] /guinea pig/

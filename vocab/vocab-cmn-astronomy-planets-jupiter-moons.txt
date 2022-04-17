@@ -1,0 +1,17 @@
+# vocab-cmn-astronomy-planets-jupiter-moons.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+木衛一 木卫一 [mu4 wei4 yi1] /Io/
+木衛二 木卫二 [mu4 wei4 er4] /Europa/
+木衛三 木卫三 [mu4 wei4 san1] /Ganymede/
+木衛四 木卫四 [mu4 wei4 si4] /Callisto/

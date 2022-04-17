@@ -1,0 +1,15 @@
+# vocab-cmn-news-when.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+同時 同时 [tong2 shi2] /simultaneously/
+同一時間 同一时间 [tong2 yi1 shi2 jian1] /simultaneously/

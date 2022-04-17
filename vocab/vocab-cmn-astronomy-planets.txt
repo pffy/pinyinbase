@@ -1,0 +1,22 @@
+# vocab-cmn-astronomy-planets.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+水星 水星 [shui3 xing1] /Mercury/
+金星 金星 [jin1 xing1] /Venus/
+地球 地球 [di4 qiu2] /Earth/
+火星 火星 [huo3 xing1] /Mars/
+木星 木星 [mu4 xing1] /Jupiter/
+土星 土星 [tu3 xing1] /Saturn/
+海王星 海王星 [hai3 wang2 xing1] /Neptune/
+天王星 天王星 [tian1 wang2 xing1] /Uranus/
+冥王星 冥王星 [ming2 wang2 xing1] /Pluto/

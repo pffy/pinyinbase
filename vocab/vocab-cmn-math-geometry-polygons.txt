@@ -1,0 +1,21 @@
+# vocab-cmn-math-geometry-polygons.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+三角形 三角形 [san1 jiao3 xing2] /triangle/
+四邊形 四边形 [si4 bian1 xing2] /quadrilateral/
+五邊形 五边形 [wu3 bian1 xing2] /pentagon/
+六邊形 六边形 [liu4 bian1 xing2] /hexagon/
+七邊形 七边形 [qi1 bian1 xing2] /heptagon/
+八邊形 八边形 [ba1 bian1 xing2] /octagon/
+九邊形 九边形 [jiu3 bian1 xing2] /nonagon/
+十邊形 十边形 [shi2 bian1 xing2] /decagon/

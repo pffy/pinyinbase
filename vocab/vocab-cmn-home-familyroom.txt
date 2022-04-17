@@ -1,0 +1,23 @@
+# vocab-cmn-home-familyroom.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+沙發 沙发 [sha1 fa1] /sofa/
+電視 电视 [dian4 shi4] /television/
+燈 灯 [deng1] /lamp/
+檯燈 台灯 [tai2 deng1] /table lamp/
+落地燈 落地灯 [luo4 di4 deng1] /floor lamp/
+椅子 椅子 [yi3 zi5] /chair/
+臥榻 卧榻 [wo4 ta4] /couch/
+窗簾 窗帘 [chuang1 lian2] /curtains/
+百葉窗 百叶窗 [bai3 ye4 chuang1] /window blinds/
+壁爐 壁炉 [bi4 lu2] /fireplace/

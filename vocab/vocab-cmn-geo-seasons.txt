@@ -1,0 +1,17 @@
+# vocab-cmn-geo-seasons.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+春天 春天 [chun1 tian1] /spring/
+夏天 夏天 [xia4 tian1] /summer/
+秋天 秋天 [qiu1 tian1] /autumn/
+冬天 冬天 [dong1 tian1] /winter/

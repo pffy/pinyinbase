@@ -1,0 +1,16 @@
+# vocab-cmn-sports-training-equipment.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+舉重 举重 [ju3 zhong4] /free weights/
+槓鈴 杠铃 [gang4 ling2] /barbells/
+啞鈴 哑铃 [ya3 ling2] /dumbells/

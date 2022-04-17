@@ -1,0 +1,178 @@
+# vocab-cmn-food-drinks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+冰淇淋紅茶 冰淇淋红茶 [bing1 qi2 lin2 hong2 cha2] /Ice cream tea/
+冬瓜茶 冬瓜茶 [dong1 gua1 cha2] /Tropical Fruit Tea/
+冬瓜尬檸檬 冬瓜尬柠檬 [dong1 gua1 ga4 ning2 meng2] /Lemon Tropical Fruit Tea/
+冬瓜尬鮮奶 冬瓜尬鲜奶 [dong1 gua1 ga4 xian1 nai3] /MilkTropical Fruit Tea/
+分享紅茶 分享红茶 [fen1 xiang3 hong2 cha2] /Share tea/
+分享咖啡 分享咖啡 [fen1 xiang3 ka1 fei1] /Share coffee/
+分享綠茶 分享绿茶 [fen1 xiang3 luu4 cha2] /Share of green tea/
+焦糖奶茶 焦糖奶茶 [jiao1 tang2 nai3 cha2] /Caramel Milk Tea/
+乳霜芒果綠 乳霜芒果绿 [ru3 shuang1 mang2 guo3 luu4] /Cream Mango Green/
+仙草凍尬鮮奶 仙草冻尬鲜奶 [xian1 cao3 dong4 ga4 xian1 nai3] /Milk Herb Jelly/
+一番烤茶 一番烤茶 [yi1 fan1 kao3 cha2] /Roasted Tea/
+仙波奶綠 仙波奶绿 [xian1 bo1 nai3 luu4] /Herb Jelly Green Milk/
+仙草甘茶 仙草甘茶 [xian1 cao3 gan1 cha2] /Herb Jelly sweet tea/
+冰鎮鐵觀音 冰镇铁观音 [bing1 zhen4 tie3 guan1 yin1] /Iced Tieguanyin/
+冷山青茶 冷山青茶 [leng3 shan1 qing1 cha2] /Mountain Green Tea Espresso/
+北海道奶茶 北海道奶茶 [bei3 hai3 dao4 nai3 cha2] /Hokkaido Milk Tea/
+十勝紅豆珍奶 十胜红豆珍奶 [shi2 sheng4 hong2 dou4 zhen1 nai3] /Red Bean Pearl Milk Tea/
+卡布奇諾 卡布奇诺 [ka3 bu4 qi2 nuo4] /Cappuccino/
+古早冬瓜茶 古早冬瓜茶 [gu3 zao3 dong1 gua1 cha2] /Tropical Fruit Tea/
+可可亞 可可亚 [ke3 ke3 ya4] /Cocoa/
+可可漂浮冰沙 可可漂浮冰沙 [ke3 ke3 piao1 fu2 bing1 sha1] /Cocoa floating smoothies/
+咖啡冰沙 咖啡冰沙 [ka1 fei1 bing1 sha1] /Coffee Smoothie/
+哈密​​瓜奶茶 哈密​​瓜奶茶 [ha1 mi4 ​​ gua1 nai3 cha2] /Honeydew Milk Tea/
+多多綠茶 多多绿茶 [duo1 duo1 luu4 cha2] /Yakult green tea/
+嫩紅櫻桃茶 嫩红樱桃茶 [nen4 hong2 ying1 tao2 cha2] /Nenhong cherry tea/
+宇治金時冰沙 宇治金时冰沙 [yu3 zhi4 jin1 shi2 bing1 sha1] /Matcha Red Bean Smoothie/
+宇治金時奶茶 宇治金时奶茶 [yu3 zhi4 jin1 shi2 nai3 cha2] /Matcha Red Bean Milk Tea/
+宇治金時抹茶冰沙 宇治金时抹茶冰沙 [yu3 zhi4 jin1 shi2 mo3 cha2 bing1 sha1] /The Uji Gold matcha smoothie/
+安溪鐵觀音 安溪铁观音 [an1 xi1 tie3 guan1 yin1] /Tieguanyin Espresso/
+密瓜冰沙 密瓜冰沙 [mi4 gua1 bing1 sha1] /Honeydew Smoothie/
+寒天奇異果冰茶 寒天奇异果冰茶 [han2 tian1 qi2 yi4 guo3 bing1 cha2] /The cold days kiwifruit iced tea/
+巧克力奶茶 巧克力奶茶 [qiao3 ke4 li4 nai3 cha2] /Chocolate Milk Tea/
+布丁奶茶 布丁奶茶 [bu4 ding1 nai3 cha2] /Pudding milk tea/
+手感芋頭牛奶 手感芋头牛奶 [shou3 gan3 yu4 tou5 niu2 nai3] /Taro milk/
+抹茶拿鐵 抹茶拿铁 [mo3 cha2 na2 tie3] /Matcha Latte/
+抹茶泡鮮奶 抹茶泡鲜奶 [mo3 cha2 pao4 xian1 nai3] /Matcha bubble milk/
+招牌凍鮮奶 招牌冻鲜奶 [zhao1 pai5 dong4 xian1 nai3] /Herbal Jelly With Fresh Milk/
+招牌咖啡冰沙 招牌咖啡冰沙 [zhao1 pai5 ka1 fei1 bing1 sha1] /Signs coffee smoothies/
+招牌日出珍奶 招牌日出珍奶 [zhao1 pai5 ri4 chu1 zhen1 nai3] /Premium PearlMilk Tea/
+招牌烤奶 招牌烤奶 [zhao1 pai5 kao3 nai3] /Roasted Milk Tea/
+招牌烤奶凍 招牌烤奶冻 [zhao1 pai5 kao3 nai3 dong4] /Herbal Jelly Roasted Milk Tea/
+招牌珍珠奶綠 招牌珍珠奶绿 [zhao1 pai5 zhen1 zhu1 nai3 luu4] /The signature pearl milk green/
+招牌珍珠奶茶 招牌珍珠奶茶 [zhao1 pai5 zhen1 zhu1 nai3 cha2] /Sign pearl milk tea/
+拿堤咖啡 拿堤咖啡 [na2 ti2 ka1 fei1] /Take embankment coffee/
+拿鐵 拿铁 [na2 tie3] /Latte/
+摩卡 摩卡 [mo2 ka3] /Mocha/
+文山青茶 文山青茶 [wen2 shan1 qing1 cha2] /Wenshan green tea/
+日月潭奶茶 日月潭奶茶 [ri4 yue4 tan2 nai3 cha2] /Premium Milk Tea/
+日月潭紅茶 日月潭红茶 [ri4 yue4 tan2 hong2 cha2] /Premium Black Tea/
+普洱菊花茶 普洱菊花茶 [pu3 er3 ju2 hua1 cha2] /Chrysanthemum Pu-Erh Espresso/
+東方美人 东方美人 [dong1 fang1 mei3 ren2] /Formosa Oolong Espresso/
+東方美人茶 东方美人茶 [dong1 fang1 mei3 ren2 cha2] /Oriental Beauty Tea/
+桂圓紅棗茶 桂圆红枣茶 [gui4 yuan2 hong2 zao3 cha2] /Longan & Red Date Juice/
+桂花奶綠 桂花奶绿 [gui4 hua1 nai3 luu4] /Osmanthus milk green/
+桂花烏梅 桂花乌梅 [gui4 hua1 wu1 mei2] /Special Smoke Plum Tea/
+桂花釀茶 桂花酿茶 [gui4 hua1 niang4 cha2] /Osmanthus brewing tea/
+梅子冰沙 梅子冰沙 [mei2 zi5 bing1 sha1] /Plum smoothie/
+梅子冰茶 梅子冰茶 [mei2 zi5 bing1 cha2] /Plum Ice Tea/
+梅子綠茶 梅子绿茶 [mei2 zi5 luu4 cha2] /Plum Green Tea/
+梅果綠茶 梅果绿茶 [mei2 guo3 luu4 cha2] /Plum fruit, green tea/
+梅釀香柚茶 梅酿香柚茶 [mei2 niang4 xiang1 you4 cha2] /Plum stuffed Xiangyou tea/
+椰香奶茶 椰香奶茶 [ye2 xiang1 nai3 cha2] /Coconut Milk Tea/
+榛果奶茶 榛果奶茶 [zhen1 guo3 nai3 cha2] /Hazelnut Milk Tea/
+榛果拿鐵 榛果拿铁 [zhen1 guo3 na2 tie3] /Hazelnut Latte/
+樂活水果綠茶 乐活水果绿茶 [le4 huo2 shui3 guo3 luu4 cha2] /Broadwood fruit green tea/
+橙香綠茶 橙香绿茶 [cheng2 xiang1 luu4 cha2] /Orange fragrant green tea/
+檸檬優格冰沙 柠檬优格冰沙 [ning2 meng2 you1 ge2 bing1 sha1] /Lemon Yogurt Smoothie/
+檸檬冰沙 柠檬冰沙 [ning2 meng2 bing1 sha1] /Lemon smoothie/
+檸檬多多綠茶 柠檬多多绿茶 [ning2 meng2 duo1 duo1 luu4 cha2] /Lemon Yakult green tea/
+檸檬汁 柠檬汁 [ning2 meng2 zhi1] /Lemon juice/
+檸檬汁 柠檬汁 [ning2 meng2 zhi1] /Lemon Juice/
+檸檬青茶 柠檬青茶 [ning2 meng2 qing1 cha2] /Lemon green tea/
+櫻花煎茶 樱花煎茶 [ying1 hua1 jian1 cha2] /Sakura Sencha Espresso/
+水果奶奶 水果奶奶 [shui3 guo3 nai3 nai5] /Grandma Fruit/
+水蜜桃冰沙 水蜜桃冰沙 [shui3 mi4 tao2 bing1 sha1] /Peach Smoothie/
+水蜜桃天堂茶 水蜜桃天堂茶 [shui3 mi4 tao2 tian1 tang2 cha2] /Peach paradise tea/
+油沏綠茶 油沏绿茶 [you2 qi1 luu4 cha2] /Oil brew green tea/
+洋甘菊茶 洋甘菊茶 [yang2 gan1 ju2 cha2] /Chamomile tea/
+清涼薄荷茶 清凉薄荷茶 [qing1 liang2 bo4 he5 cha2] /Refreshing mint tea/
+潽爾菊花茶 潽尔菊花茶 [pu3 er3 ju2 hua1 cha2] /The Pu Er chrysanthemum tea/
+烏龍奶綠 乌龙奶绿 [wu1 long2 nai3 luu4] /Oolong Milk Green/
+烏龍奶綠 乌龙奶绿 [wu1 long2 nai3 luu4] /OoLong Milk Tea/
+烏龍綠茶 乌龙绿茶 [wu1 long2 luu4 cha2] /Oolong Tea/
+焦糖奶茶 焦糖奶茶 [jiao1 tang2 nai3 cha2] /Caramel Latte/
+焦糖瑪琪朵 焦糖玛琪朵 [jiao1 tang2 ma3 qi2 duo3] /Caramel Maggie duo/
+熱帶水果紅茶 热带水果红茶 [re4 dai4 shui3 guo3 hong2 cha2] /Tropical fruit tea/
+玄米奶綠 玄米奶绿 [xuan2 mi3 nai3 luu4] /Brown Rice Green Milk Tea/
+玄米玉露 玄米玉露 [xuan2 mi3 yu4 lu4] /Genmaicha Espresso/
+玄米綠茶 玄米绿茶 [xuan2 mi3 luu4 cha2] /Brown Rice Green Tea/
+玫瑰花綠茶 玫瑰花绿茶 [mei2 gui1 hua1 luu4 cha2] /Rose Green Tea/
+珍珠奶茶 珍珠奶茶 [zhen1 zhu1 nai3 cha2] /Pearl Milk Tea/
+現打綠豆沙 现打绿豆沙 [xian4 da3 luu4 dou4 sha1] /Now playing green bean/
+番茄汁 番茄汁 [fan1 qie2 zhi1] /Tomato juice/
+百香多多綠茶 百香多多绿茶 [bai3 xiang1 duo1 duo1 luu4 cha2] /Yakult Fresh Passion Juice Green Tea/
+百香果冰沙 百香果冰沙 [bai3 xiang1 guo3 bing1 sha1] /Passion Fruit Smoothie/
+百香綠茶 百香绿茶 [bai3 xiang1 luu4 cha2] /Tropical Fruit Tea/
+相思奶綠 相思奶绿 [xiang1 si1 nai3 luu4] /Acacia milk green/
+紅棗桂圓茶 红枣桂圆茶 [hong2 zao3 gui4 yuan2 cha2] /Chinese Jujube Longan Tea/
+紅茶拿鐵 红茶拿铁 [hong2 cha2 na2 tie3] /Black Tea Latte/
+紅葡萄柚綠茶 红葡萄柚绿茶 [hong2 pu2 tao5 you4 luu4 cha2] /Red grapefruit green tea/
+綠精靈粒粒橙 绿精灵粒粒橙 [luu4 jing1 ling2 li4 li4 cheng2] /Mint Orange Juice with Pulp/
+綠茶拿鐵 绿茶拿铁 [luu4 cha2 na2 tie3] /Jasmine Green Tea Latte/
+美式咖啡 美式咖啡 [mei3 shi4 ka1 fei1] /American coffee/
+美式咖啡 美式咖啡 [mei3 shi4 ka1 fei1] /Long Black/
+胚芽奶茶 胚芽奶茶 [pei1 ya2 nai3 cha2] /Malt Milk Tea/
+芋頭奶茶 芋头奶茶 [yu4 tou5 nai3 cha2] /Taro Milk Tea/
+芒果冰沙 芒果冰沙 [mang2 guo3 bing1 sha1] /Mango Smoothie/
+芒果汁 芒果汁 [mang2 guo3 zhi1] /Mango juice/
+芒果漂浮冰沙 芒果漂浮冰沙 [mang2 guo3 piao1 fu2 bing1 sha1] /Mango floating smoothies/
+芒果牛奶 芒果牛奶 [mang2 guo3 niu2 nai3] /Mango milk/
+芒果綠茶 芒果绿茶 [mang2 guo3 luu4 cha2] /Mango Green Tea/
+茉香奶綠 茉香奶绿 [mo4 xiang1 nai3 luu4] /Jasmine Green Milk Tea/
+茉香綠茶 茉香绿茶 [mo4 xiang1 luu4 cha2] /Jasmine Green Tea/
+茶太奶茶 茶太奶茶 [cha2 tai4 nai3 cha2] /Assam Milk Tea/
+草莓優格冰沙 草莓优格冰沙 [cao3 mei2 you1 ge2 bing1 sha1] /Strawberry Yogurt Smoothie/
+草莓冰沙 草莓冰沙 [cao3 mei2 bing1 sha1] /Strawberry Smoothie/
+荔枝多多 荔枝多多 [li4 zhi1 duo1 duo1] /Lychee Yaleto with Jelly/
+荔枝奶茶 荔枝奶茶 [li4 zhi1 nai3 cha2] /Lychee Milk Tea/
+葡玉優沛蕾 葡玉优沛蕾 [pu2 yu4 you2 pei4 lei3] /Grape Yaleto with Jelly/
+葡玉金饌 葡玉金馔 [pu2 yu4 jin1 zhuan4] /Grape Juice with Jelly/
+葡萄柚汁 葡萄柚汁 [pu2 tao5 you4 zhi1] /Grapefruit juice/
+蕎麥香柚茶 荞麦香柚茶 [qiao2 mai4 xiang1 you4 cha2] /Buckwheat Xiangyou tea/
+薄荷奶茶 薄荷奶茶 [bo4 he5 nai3 cha2] /Mint Milk Tea/
+薑母茶 姜母茶 [jiang1 mu3 cha2] /Ginger Tea/
+蘋果汁 苹果汁 [ping2 guo3 zhi1] /Apple juice/
+蘋果牛奶 苹果牛奶 [ping2 guo3 niu2 nai3] /Apple milk/
+蜂蜜奶茶 蜂蜜奶茶 [feng1 mi4 nai3 cha2] /Honey Milk Tea/
+蜂蜜柚子茶 蜂蜜柚子茶 [feng1 mi4 you4 zi5 cha2] /Honey Pomelo Juice/
+蜂蜜檸檬汁 蜂蜜柠檬汁 [feng1 mi4 ning2 meng2 zhi1] /Honey and lemon juice/
+蜂蜜檸檬蘆薈 蜂蜜柠檬芦荟 [feng1 mi4 ning2 meng2 lu2 hui4] /Honey Lemon Aloe/
+蜂蜜蘆薈 蜂蜜芦荟 [feng1 mi4 lu2 hui4] /Honey aloe/
+蜜茶 蜜茶 [mi4 cha2] /Honey tea/
+蜜香烏龍綠茶 蜜香乌龙绿茶 [mi4 xiang1 wu1 long2 luu4 cha2] /Honey Oolong green tea/
+西柚粒粒橙 西柚粒粒橙 [xi1 you4 li4 li4 cheng2] /Grapefruit and Orange juice with pulp/
+西瓜汁 西瓜汁 [xi1 gua1 zhi1] /Watermelon juice/
+西瓜牛奶 西瓜牛奶 [xi1 gua1 niu2 nai3] /Watermelon milk/
+野柑桔桂香茶 野柑桔桂香茶 [ye3 gan1 ju2 gui4 xiang1 cha2] /Wild citrus cinnamon tea/
+金桔檸檬冰沙 金桔柠檬冰沙 [jin1 ju2 ning2 meng2 bing1 sha1] /Kumquat lemon smoothie/
+金桔檸檬汁 金桔柠檬汁 [jin1 ju2 ning2 meng2 zhi1] /Kumquat Lemon Juice/
+金桔檸檬綠茶 金桔柠檬绿茶 [jin1 ju2 ning2 meng2 luu4 cha2] /Kumquat Lemon Green Tea/
+鐵觀音拿鐵 铁观音拿铁 [tie3 guan1 yin1 na2 tie3] /Tieguanyin Tea Latte/
+阿薩姆紅茶 阿萨姆红茶 [a1 sa4 mu3 hong2 cha2] /Assam Black Tea/
+阿里山金萱 阿里山金萱 [a1 li3 shan1 jin1 xuan1] /JinShyuan Oolong Espresso/
+青蘋果冰沙 青苹果冰沙 [qing1 ping2 guo3 bing1 sha1] /Green Apple Smoothie/
+韓國峰蜜柚子茶 韩国峰蜜柚子茶 [han2 guo2 feng1 mi4 you4 zi5 cha2] /Han Guofeng honey citron tea/
+香檳葡萄冰沙 香槟葡萄冰沙 [xiang1 bin1 pu2 tao5 bing1 sha1] /Grape Smoothie/
+香瓜汁 香瓜汁 [xiang1 gua1 zhi1] /Cantaloupe juice/
+香瓜漂浮冰沙 香瓜漂浮冰沙 [xiang1 gua1 piao1 fu2 bing1 sha1] /Cantaloupe floating smoothies/
+香瓜牛奶 香瓜牛奶 [xiang1 gua1 niu2 nai3] /Cantaloupe milk/
+香草奶茶 香草奶茶 [xiang1 cao3 nai3 cha2] /Vanilla Milk Tea/
+香草拿鐵 香草拿铁 [xiang1 cao3 na2 tie3] /Vanilla Latte/
+香草鮮奶茶 香草鲜奶茶 [xiang1 cao3 xian1 nai3 cha2] /Vanilla milk tea/
+香蕉冰沙 香蕉冰沙 [xiang1 jiao1 bing1 sha1] /Banana Smoothie/
+香蕉奶茶 香蕉奶茶 [xiang1 jiao1 nai3 cha2] /Banana Milk Tea/
+香蕉巧克力冰沙 香蕉巧克力冰沙 [xiang1 jiao1 qiao3 ke4 li4 bing1 sha1] /Banana Chocolate Smoothie/
+香蕉牛奶 香蕉牛奶 [xiang1 jiao1 niu2 nai3] /Banana milk/
+鮮奶綠珍珠 鲜奶绿珍珠 [xian1 nai3 luu4 zhen1 zhu1] /Milk Green Pearl/
+鮮奶茶珍珠 鲜奶茶珍珠 [xian1 nai3 cha2 zhen1 zhu1] /Milk tea pearls/
+鮮桔茶 鲜桔茶 [xian1 ju2 cha2] /Kumquat Juice/
+鳳梨汁 凤梨汁 [feng4 li2 zhi1] /Pineapple juice/
+鳳梨漂浮冰沙 凤梨漂浮冰沙 [feng4 li2 piao1 fu2 bing1 sha1] /Pineapple floating smoothies/
+鳳梨牛奶 凤梨牛奶 [feng4 li2 niu2 nai3] /Pineapple milk/
+黑嘉麗玫果茶 黑嘉丽玫果茶 [hei1 jia1 li4 mei2 guo3 cha2] /Black Jia Limei nectar/
+黑條晶鑽 黑条晶钻 [hei1 tiao2 jing1 zhan1] /Crystal diamond black bars/
+黑糖老薑茶 黑糖老姜茶 [hei1 tang2 lao3 jiang1 cha2] /Brown sugar and ginger tea/

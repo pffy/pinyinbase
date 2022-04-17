@@ -1,0 +1,15 @@
+# vocab-cmn-flowers.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+蘭花 兰花 [lan2 hua1] /orchid/
+蒲公英 蒲公英 [pu2 gong1 ying1] /dandelion/

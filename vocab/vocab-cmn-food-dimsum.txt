@@ -1,0 +1,31 @@
+# vocab-cmn-food-dimsum.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+咖哩魚蛋 咖喱鱼蛋 [ga1 li2 yu2 dan4] /curry fish balls/
+炸雞翅 炸鸡翅 [zha2 ji1 chi4] /fried chicken wings/
+炸薯條 炸薯条 [zha2 shu3 tiao2] /deep fried french fries/
+春捲 春卷 [chun1 juan3] /spring roll/
+南翔小籠包 南翔小笼包 [nan2 xiang2 xiao3 long2 bao1] /Steamed Pork Dumpling/
+新鮮蝦餃 新鲜虾饺 [xin1 xian1 xia1 jiao3] /Steamed Shrimp Dumpling/
+香菇豬肉燒賣 香菇猪肉烧卖 [xiang1 gu1 zhu1 rou4 shao1 mai4] /Steamed Pork Dumpling with Mushroom/
+豉汁蒸排骨 豉汁蒸排骨 [chi3 zhi1 zheng1 pai2 gu3] /Steamed Spare Rib with Black Bean Sauce/
+豉汁蒸鳳爪 豉汁蒸凤爪 [chi3 zhi1 zheng1 feng4 zhao3] /Steamed Chicken Feet with Black Bean Sauce/
+蒜蓉蝦春捲 蒜蓉虾春卷 [suan4 rong2 xia1 chun1 juan3] /Garlic Shrimp Spring Roll/
+蜜汁義燒包 蜜汁义烧包 [mi4 zhi1 yi4 shao1 bao1] /Steamed BBQ Bun/
+糯米鷄 糯米鸡 [nuo4 mi3 ji1] /Sticky Rice Wrap/
+潮洲粉菓 潮洲粉果 [chao2 zhou1 fen3 guo3] /Steamed Chiuzhou Style Dumpling/
+素菜春捲 素菜春卷 [su4 cai4 chun1 juan3] /Veggie Spring Roll/
+臘味蘿蔔糕 腊味萝卜糕 [la4 wei4 luo2 bo5 gao1] /Turnip Cake with Preserved Pork/
+香煎芋頭糕 香煎芋头糕 [xiang1 jian1 yu4 tou5 gao1] /Pan Fried Taro Cake/
+煎脆肉窩貼 煎脆肉窝贴 [jian1 cui4 rou4 wo1 tie1] /Pan Fried Pot Sticker/
+豉油皇煎腸粉 豉油皇煎肠粉 [chi3 you2 huang2 jian1 chang2 fen3] /Pan Fried Rice Roll with Soy Sauce/

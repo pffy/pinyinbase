@@ -1,0 +1,31 @@
+# vocab-cmn-news-what.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+表示 表示 [biao3 shi4] /announcement/
+表能 表能 [biao3 neng2] /assessment/
+形容 形容 [xing2 rong2] /description/
+受傷 受伤 [shou4 shang1] /injured/
+爬出 爬出 [pa2 chu1] /climbed out/
+原因 原因 [yuan2 yin1] /cause/
+車禍 车祸 [che1 huo4] /car accident/
+交通堵塞 交通堵塞 [jiao1 tong1 du3 se4] /traffic jam/
+地震 地震 [di4 zhen4] /earthquake/
+新聞報道 新闻报道 [xin1 wen2 bao4 dao4] /news report/
+報道 报道 [bao4 dao4] /report/
+嚴重 严重 [yan2 zhong4] /serious/
+高速公路 高速公路 [gao1 su4 gong1 lu4] /highway/
+高速公路 高速公路 [gao1 su4 gong1 lu4] /freeway/
+高速公路 高速公路 [gao1 su4 gong1 lu4] /expressway/
+公共道路 公共道路 [gong1 gong4 dao4 lu4] /public road/
+公路 公路 [gong1 lu4] /public road/
+警方調查 警方调查 [jing3 fang1 diao4 cha2] /police investigation/

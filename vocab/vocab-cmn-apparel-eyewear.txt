@@ -1,0 +1,21 @@
+# vocab-cmn-apparel-eyewear.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+眼鏡 眼镜 [yan3 jing4] /glasses/
+老花鏡 老花镜 [lao3 hua1 jing4] /reading glasses/
+單片眼鏡 单片眼镜 [dan1 pian4 yan3 jing4] /monocle/
+雙光鏡 双光镜 [shuang1 guang1 jing4] /bifocals/
+太陽鏡 太阳镜 [tai4 yang5 jing4] /sunglasses/
+眼鏡 眼镜 [yan3 jing4] /prescription glasses/
+近視太陽鏡 近视太阳镜 [jin4 shi4 tai4 yang5 jing4] /prescription sunglasses/
+隱形眼鏡 隐形眼镜 [yin3 xing2 yan3 jing4] /contact lenses/

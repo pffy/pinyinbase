@@ -1,0 +1,17 @@
+# vocab-cmn-ent-artists.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+劉德華 刘德华 [liu2 de2 hua2] /Andy Lau/
+鄭秀文 郑秀文 [zheng4 xiu4 wen2] /Sammi Cheng/
+周杰倫 周杰伦 [zhou1 jie2 lun2] /Jay Chou/
+李玟 李玟 [li3 wen2] /Coco Lee/

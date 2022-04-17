@@ -1,0 +1,104 @@
+# vocab-cmn-geo-hk-food-pieandtart.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白雪公主 白雪公主 [bai2 xue3 gong1 zhu3] /Snow White Cake/
+比薩餅 比萨饼 [bi3 sa4 bing3] /Pizza Pie/
+叉燒批 叉烧批 [cha1 shao1 pi1] /BBQ Pork Pie/
+叉燒酥 叉烧酥 [cha1 shao1 su1] /BBQ Pork Crisp/
+純鮮奶方包 纯鲜奶方包 [chun2 xian1 nai3 fang1 bao1] /White Bread/
+純鮮奶方包 纯鲜奶方包 [chun2 xian1 nai3 fang1 bao1] /White Bread/
+脆脆曲奇朱古力 脆脆曲奇朱古力 [cui4 cui4 qu1 qi2 zhu1 gu3 li4] /Chocolate Chip Cookie Cup/
+脆脆軟心朱古力切餅 脆脆软心朱古力切饼 [cui4 cui4 ruan3 xin1 zhu1 gu3 li4 qie1 bing3] /Flourless Chocolate Cake Slice/
+脆朱森林 脆朱森林 [cui4 zhu1 sen1 lin2] /Chocolate Black Forest Cake/
+丹麥海鮮批 丹麦海鲜批 [dan1 mai4 hai3 xian1 pi1] /Seafood Danish/
+丹麥吞拿魚 丹麦吞拿鱼 [dan1 mai4 tun1 na2 yu2] /Tuna Danish/
+德國芝士餅 德国芝士饼 [de2 guo2 zhi1 shi4 bing3] /German Style Cheesecake/
+法式粟米批 法式粟米批 [fa3 shi4 su4 mi3 pi1] /French Corn Pie/
+咖哩牛肉批 咖喱牛肉批 [ga1 li2 niu2 rou4 pi1] /Curry Beef Pie/
+甘荀方包 甘荀方包 [gan1 xun2 fang1 bao1] /Carrot Bread/
+果心趣卷 果心趣卷 [guo3 xin1 qu4 juan3] /Fun Roll/
+黑森林蛋糕 黑森林蛋糕 [hei1 sen1 lin2 dan4 gao1] /Black Forest Chocolate Cake/
+黑朱古力曲奇 黑朱古力曲奇 [hei1 zhu1 gu3 li4 qu1 qi2] /Dark Chocolate Cookies/
+火腿粟米卷 火腿粟米卷 [huo3 tui3 su4 mi3 juan3] /Ham and Corn Roll/
+雞批 鸡批 [ji1 pi1] /Chicken Pie/
+精裝提拉米蘇 精装提拉米苏 [jing1 zhuang1 ti2 la1 mi3 su1] /Hard Crispy Tiramisu/
+咖啡曲奇 咖啡曲奇 [ka1 fei1 qu1 qi2] /Coffee Cookies/
+藍啤梨批 蓝啤梨批 [lan2 pi2 li2 pi1] /Blueberry Pie/
+藍啤梨酥 蓝啤梨酥 [lan2 pi2 li2 su1] /Blueberry Crisp/
+藍啤梨孖鬆 蓝啤梨孖松 [lan2 pi2 li2 zi1 song1] /Blueberry Mamon/
+栗子忌廉蛋糕 栗子忌廉蛋糕 [li4 zi5 ji4 lian2 dan4 gao1] /Chestnut Cream Cake/
+栗子撻 栗子挞 [li4 zi5 ta4] /Chestnut  Tart/
+芒果蛋糕 芒果蛋糕 [mang2 guo3 dan4 gao1] /Mango Cake/
+芒果撻 芒果挞 [mang2 guo3 ta4] /Mango Tart/
+芒果雪山 芒果雪山 [mang2 guo3 xue3 shan1] /Mango Snow Cup/
+美國蘋果批 美国苹果批 [mei3 guo2 ping2 guo3 pi1] /American Apple Pie/
+美式焗芝士切餅 美式焗芝士切饼 [mei3 shi4 ju2 zhi1 shi4 qie1 bing3] /American Style Baked Cheesecake/
+美式螺絲肉汁批 美式螺丝肉汁批 [mei3 shi4 luo2 si1 rou4 zhi1 pi1] /American Style Biscuit and Gravy Pie/
+美式芝士餅 美式芝士饼 [mei3 shi4 zhi1 shi4 bing3] /American Style Cheesecake/
+迷你叉燒酥 迷你叉烧酥 [mi2 ni3 cha1 shao1 su1] /Mini BBQ Pork Crisps/
+迷你腸仔酥 迷你肠仔酥 [mi2 ni3 chang2 zi3 su1] /Mini Sausage Crisps/
+迷你咖哩牛肉酥 迷你咖喱牛肉酥 [mi2 ni3 ga1 li2 niu2 rou4 su1] /Mini Beef Curry Crisps/
+迷你果撻 迷你果挞 [mi2 ni3 guo3 ta4] /Mini Fruit Tart/
+迷你芒果朱古力餅 迷你芒果朱古力饼 [mi2 ni3 mang2 guo3 zhu1 gu3 li4 bing3] /Mini Mango Chocolate Cake/
+迷你牛角酥 迷你牛角酥 [mi2 ni3 niu2 jiao3 su1] /Mini Croissants/
+迷你吞拿魚酥 迷你吞拿鱼酥 [mi2 ni3 tun1 na2 yu2 su1] /Mini Tuna Crisps/
+迷你雜啤梨朱古力餅 迷你杂啤梨朱古力饼 [mi2 ni3 za2 pi2 li2 zhu1 gu3 li4 bing3] /Mini Mixed Berries Chocolate Cake/
+蜜汁豬頸肉批 蜜汁猪颈肉批 [mi4 zhi1 zhu1 jing3 rou4 pi1] /Honey Pork Pie/
+蘑菇球 蘑菇球 [mo2 gu5 qiu2] /Mushroom Ball/
+蘑菇撻 蘑菇挞 [mo2 gu5 ta4] /Mushroom Tart/
+南瓜批 南瓜批 [nan2 gua1 pi1] /Pumpkin Pie/
+檸檬提子卷 柠檬提子卷 [ning2 meng2 ti2 zi5 juan3] /Lemon Raisin Roll/
+牛乳布甸 牛乳布甸 [niu2 ru3 bu4 dian4] /Milk Pudding Cup/
+牛油曲奇 牛油曲奇 [niu2 you2 qu1 qi2] /Butter Cookies/
+紐約芝士餅 纽约芝士饼 [niu3 yue1 zhi1 shi4 bing3] /New York Style Cheesecake/
+排包 排包 [pai2 bao1] /Dinner Rolls/
+蘋果酥 苹果酥 [ping2 guo3 su1] /Apple Crisp/
+蘋果提子孖鬆 苹果提子孖松 [ping2 guo3 ti2 zi5 zi1 song1] /Apple Raisin Mamon/
+葡式咖哩海鮮批 葡式咖喱海鲜批 [pu2 shi4 ga1 li2 hai3 xian1 pi1] /Portugese Curried Seafood Pie/
+肉鬆方包 肉松方包 [rou4 song1 fang1 bao1] /Shredded Pork Bread/
+肉鬆酥 肉松酥 [rou4 song1 su1] /Shredded Beef/
+什果蛋糕 什果蛋糕 [shen2 guo3 dan4 gao1] /Fruit Cake/
+什果撻 什果挞 [shen2 guo3 ta4] /Fruit Tart/
+士多啤梨蛋糕 士多啤梨蛋糕 [shi4 duo1 pi2 li2 dan4 gao1] /Strawberry Cake/
+士多啤梨撻 士多啤梨挞 [shi4 duo1 pi2 li2 ta4] /Strawberry Tart/
+水晶熊啤啤 水晶熊啤啤 [shui3 jing1 xiong2 pi2 pi2] /Crystal Teddy Bear Cake/
+蒜茸多士 蒜茸多士 [suan4 rong2 duo1 shi4] /Garlic Toast/
+特濃朱古力蛋糕 特浓朱古力蛋糕 [te4 nong2 zhu1 gu3 li4 dan4 gao1] /Double Chocolate Cake/
+特濃朱古力孖鬆 特浓朱古力孖松 [te4 nong2 zhu1 gu3 li4 zi1 song1] /Double Chocolate Mamon/
+提子條 提子条 [ti2 zi5 tiao2] /Raisin Bars/
+鴕鳥肉批 鸵鸟肉批 [tuo2 niao3 rou4 pi1] /Ostrich Pie/
+西米布甸 西米布甸 [xi1 mi3 bu4 dian4] /Tapioca Custard Cup/
+鮮芒果布甸 鲜芒果布甸 [xian1 mang2 guo3 bu4 dian4] /Fresh Mango Pudding Cup/
+鮮奶撻 鲜奶挞 [xian1 nai3 ta4] /Custard Tart/
+香蔥雞角 香葱鸡角 [xiang1 cong1 ji1 jiao3] /Chicken and Chive Turnovers/
+新提子方包 新提子方包 [xin1 ti2 zi5 fang1 bao1] /Raisin Bread/
+杏仁曲奇 杏仁曲奇 [xing4 ren2 qu1 qi2] /Almond Cookies/
+杏仁朱古力曲奇 杏仁朱古力曲奇 [xing4 ren2 zhu1 gu3 li4 qu1 qi2] /Almond Chocolate Cookies/
+燕麥方包 燕麦方包 [yan4 mai4 fang1 bao1] /Oatmeal Bread/
+燕麥提子曲奇 燕麦提子曲奇 [yan4 mai4 ti2 zi5 qu1 qi2] /Oatmeal Raisin Cookies/
+楊枝甘露 杨枝甘露 [yang2 zhi1 gan1 lu4] /Mango Pomelo Sago Cup/
+楊枝甘露切餅 杨枝甘露切饼 [yang2 zhi1 gan1 lu4 qie1 bing3] /Mango Pomelo Sago Cake Slice/
+椰香紫米方包 椰香紫米方包 [ye2 xiang1 zi3 mi3 fang1 bao1] /Coconut Glutinous Rice Bread/
+椰香紫米紐紋 椰香紫米纽纹 [ye2 xiang1 zi3 mi3 niu3 wen2] /Coconut Glutinous Twist/
+意大利芝士杯 意大利芝士杯 [yi4 da4 li4 zhi1 shi4 bei1] /Italian Cheesecake Cup/
+意大利芝士餅 意大利芝士饼 [yi4 da4 li4 zhi1 shi4 bing3] /Italian Style Cheesecake/
+意大利芝士切餅 意大利芝士切饼 [yi4 da4 li4 zhi1 shi4 qie1 bing3] /Italian Style Cheesecake Slice/
+意大利芝士撻 意大利芝士挞 [yi4 da4 li4 zhi1 shi4 ta4] /Italian Cheesecake Tart/
+意式咖啡蛋糕 意式咖啡蛋糕 [yi4 shi4 ka1 fei1 dan4 gao1] /Italian Coffee Cake/
+雲石雲呢拿杯 云石云呢拿杯 [yun2 shi2 yun2 ne5 na2 bei1] /Vanilla Marble Swirl Cup/
+芝士吞拿魚批 芝士吞拿鱼批 [zhi1 shi4 tun1 na2 yu2 pi1] /Cheese Tuna Pie/
+芝士鮮奶撻 芝士鲜奶挞 [zhi1 shi4 xian1 nai3 ta4] /Cheese Custard Tart/
+芝心甘荀卷 芝心甘荀卷 [zhi1 xin1 gan1 xun2 juan3] /Cheese-filled Carrot Roll/
+朱古力脆心蛋糕 朱古力脆心蛋糕 [zhu1 gu3 li4 cui4 xin1 dan4 gao1] /Chocolate Crispy Cake/
+朱古力曲奇 朱古力曲奇 [zhu1 gu3 li4 qu1 qi2] /Chocolate Cookies/
+朱古力鮮奶撻 朱古力鲜奶挞 [zhu1 gu3 li4 xian1 nai3 ta4] /Milk Chocolate Tart/

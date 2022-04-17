@@ -1,0 +1,20 @@
+# vocab-cmn-sports-wintersports.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+滑雪 滑雪 [hua2 xue3] /skiing/
+滑雪板 滑雪板 [hua2 xue3 ban3] /skis/
+雪杖 雪杖 [xue3 zhang4] /ski pole/
+滑雪面具 滑雪面具 [hua2 xue3 mian4 ju4] /ski mask/
+滑雪鏡 滑雪镜 [hua2 xue3 jing4] /ski goggles/
+滑雪手套 滑雪手套 [hua2 xue3 shou3 tao4] /ski gloves/
+滑雪鞋 滑雪鞋 [hua2 xue3 xie2] /ski shoes/

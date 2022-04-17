@@ -1,0 +1,15 @@
+# vocab-cmn-geo-int-un.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+聯合國 联合国 [lian2 he2 guo2] /United Nations/
+世界衛生組織 世界卫生组织 [shi4 jie4 wei4 sheng1 zu3 zhi1] /World Health Organization/

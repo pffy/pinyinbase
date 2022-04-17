@@ -1,0 +1,154 @@
+# vocab-cmn-geo-hk-newterritories.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+凹頭 凹头 [ao1 tou2] /Au Tau/
+赤鱲角 赤鱲角 [chi4 lie4 jiao3] /Chek Lap Kok/
+長洲 长洲 [chang2 zhou1] /Cheung Chau/
+芝麻灣 芝麻湾 [zhi1 ma5 wan1] /Chi Ma Wan/
+第一城 第一城 [di4 yi1 cheng2] /City One/
+清水灣 清水湾 [qing1 shui3 wan1] /Clear Water Bay/
+禁區 禁区 [jin4 qu1] /Closed Area/
+愉景灣 愉景湾 [yu2 jing3 wan1] /Discovery Bay/
+粉嶺 粉岭 [fen3 ling2] /Fanling/
+火炭 火炭 [huo3 tan4] /Fo Tan/
+虎地 虎地 [hu3 di4] /Fu Tei/
+黃金海岸 黄金海岸 [huang2 jin1 hai3 an4] /Gold Coast/
+廈村 厦村 [sha4 cun1] /Ha Tsuen/
+坑口 坑口 [keng1 kou3] /Hang Hau/
+坑口村 坑口村 [keng1 kou3 cun1] /Hang Hau Village/
+恆安村 恒安村 [heng2 an1 cun1] /Heng On Estate/
+蠔湧 蚝涌 [ci4 yong3] /Ho Chung/
+海下灣 海下湾 [hai3 xia4 wan1] /Hoi Ha Wan/
+康樂園 康乐园 [kang1 le4 yuan2] /Hong Lok Yuen/
+洪聖爺 洪圣爷 [hong2 sheng4 ye2] /Hung Shing Yeh/
+離島區 离岛区 [li2 dao3 qu1] /Islands District/
+垃圾島 垃圾岛 [la1 ji1 dao3] /Junk Island/
+錦龍苑 锦龙苑 [jin3 long2 yuan4] /Kam Lung Court/
+錦田 锦田 [jin3 tian2] /Kam Tin/
+錦英苑 锦英苑 [jin3 ying1 yuan4] /Kam Ying Court/
+滘西洲 滘西洲 [jiao4 xi1 zhou1] /Kau Sai Chau/
+九肚山 九肚山 [jiu3 du4 shan1] /Kau To Shan/
+企嶺下老圍 企岭下老围 [qi4 ling2 xia4 lao3 wei2] /Kei Ling Ha Lo Wai/
+橋咀洲 桥咀洲 [qiao2 ju3 zhou1] /Kiu Tsui Chau/
+葵涌 葵涌 [kui2 yong3] /Kwai Chung/
+葵芳 葵芳 [kui2 fang1] /Kwai Fong Estate/
+葵興地產 葵兴地产 [kui2 xing4 di4 chan3] /Kwai Hing Estate/
+葵青區 葵青区 [kui2 qing1 qu1] /Kwai Tsing District/
+軍地 军地 [jun1 di4] /Kwan Tei/
+古洞 古洞 [gu3 dong4] /Kwu Tung/
+荔景 荔景 [li4 jing3] /Lai King/
+林村 林村 [lin2 cun1] /Lam Tsuen/
+南丫島 南丫岛 [nan2 ya1 dao3] /Lamma Island/
+大嶼山 大屿山 [da4 yu3 shan1] /Lantau Island/
+流浮山 流浮山 [liu2 fu2 shan1] /Lau Fau Shan/
+瀝源村 沥源村 [li4 yuan2 cun1] /Lek Yuen Estate/
+糧船灣 粮船湾 [liang2 chuan2 wan1] /Leung Shuen Wan/
+蘆須城 芦须城 [lu2 xu1 cheng2] /Lo So Shing/
+老圍 老围 [lao3 wei2] /Lo Wai/
+羅湖 罗湖 [luo2 hu2] /Lo Wu/
+日出康城 日出康城 [ri4 chu1 kang1 cheng2] /LOHAS Park/
+落馬洲 落马洲 [luo4 ma3 zhou1] /Lok Ma Chau/
+朗屏 朗屏 [lang3 ping2] /Long Ping Estate/
+龍鼓灘 龙鼓滩 [long2 gu3 tan1] /Lung Kwu Tan/
+馬料水 马料水 [ma3 liao4 shui3] /Ma Liu Shui/
+馬鞍山 马鞍山 [ma3 an1 shan1] /Ma On Shan/
+馬灣 马湾 [ma3 wan1] /Ma Wan/
+米埔 米埔 [mi3 pu3] /Mai Po/
+文錦渡 文锦渡 [wen2 jin3 du4] /Man Kam To/
+孟公屋 孟公屋 [meng4 gong1 wu1] /Mang Kung Uk/
+匡湖居 匡湖居 [kuang1 hu2 ju1] /Marina Cove/
+模達 模达 [mo2 da2] /Mo Tat/
+梅窩 梅窝 [mei2 wo1] /Mui Wo/
+黃泥湧 黄泥涌 [huang2 ni2 yong3] /Nai Chung/
+昂坪 昂坪 [ang2 ping2] /Ngong Ping/
+北區 北区 [bei3 qu1] /North District/
+東北大嶼山 东北大屿山 [dong1 bei3 da4 yu3 shan1] /Northeast Lantau Island/
+白角 白角 [bai2 jiao3] /Pak Kok/
+白沙洲 白沙洲 [bai2 sha1 zhou1] /Pak Sha Chau/
+白石角落 白石角落 [bai2 shi2 jiao3 luo4] /Pak Shek Kok/
+八鄉 八乡 [ba1 xiang1] /Pat Heung/
+八仙嶺 八仙岭 [ba1 xian1 ling2] /Pat Sin Leng/
+坪洲 坪洲 [ping2 zhou1] /Peng Chau/
+竹篙灣 竹篙湾 [zhu2 gao1 wan1] /Penny's Bay/
+卡貝亞 卡贝亚 [ka3 bei4 ya4] /Pik Uk/
+平洲 平洲 [ping2 zhou1] /Ping Chau/
+坪輋 坪輋 [ping2 ju1] /Ping Che/
+屏山 屏山 [ping2 shan1] /Ping Shan/
+寶湖 宝湖 [bao3 hu2] /Plover Cove/
+寶林 宝林 [bao3 lin2] /Po Lam/
+布袋澳 布袋澳 [bu4 dai4 ao4] /Po Toi O/
+貝澳 贝澳 [bei4 ao4] /Pui O/
+西貢 西贡 [xi1 gong4] /Sai Kung/
+西貢區 西贡区 [xi1 gong4 qu1] /Sai Kung District/
+新墟 新墟 [xin1 xu1] /San Hui/
+新田 新田 [xin1 tian2] /San Tin/
+科技園 科技园 [ke1 ji4 yuan2] /Science Park/
+沙頭角 沙头角 [sha1 tou2 jiao3] /Sha Tau Kok/
+沙田 沙田 [sha1 tian2] /Sha Tin/
+沙田區 沙田区 [sha1 tian2 qu1] /Sha Tin District/
+沙田圍 沙田围 [sha1 tian2 wei2] /Sha Tin Wai/
+深井 深井 [shen1 jing3] /Sham Tseng/
+深灣 深湾 [shen1 wan1] /Sham Wan/
+十八鄉 十八乡 [shi2 ba1 xiang1] /Shap Pat Heung/
+十四鄉 十四乡 [shi2 si4 xiang1] /Shap Sze Heung/
+石崗 石岗 [shi2 gang3] /Shek Kong/
+石門 石门 [shi2 men2] /Shek Mun/
+上水 上水 [shang4 shui3] /Sheung Shui/
+水濱村 水滨村 [shui3 bin1 cun1] /Shui Bin Tsuen/
+小蠔灣 小蚝湾 [xiao3 ci4 wan1] /Siu Ho Wan/
+兆康苑 兆康苑 [zhao4 kang1 yuan4] /Siu Hong Court/
+小欖 小榄 [xiao3 lan3] /Siu Lam/
+小瀝源 小沥源 [xiao3 li4 yuan2] /Siu Lek Yuen/
+掃管笏 扫管笏 [sao3 guan3 hu4] /So Kwun Wat/
+索罟灣 索罟湾 [suo3 gu3 wan1] /Sok Kwu Wan/
+打鼓嶺新村 打鼓岭新村 [da3 gu3 ling2 xin1 cun1] /Ta Ku Ling San Tsuen/
+打鼓嶺 打鼓岭 [da3 gu3 ling2] /Ta Kwu Ling/
+大坳門 大坳门 [da4 ao1 men2] /Tai Au Mun/
+大蠔 大蚝 [da4 ci4] /Tai Ho/
+大欖湧 大榄涌 [da4 lan3 yong3] /Tai Lam Chung/
+大埔 大埔 [da4 bu4] /Tai Po/
+大埔區 大埔区 [da4 bu4 qu1] /Tai Po District/
+大埔工業村 大埔工业村 [da4 bu4 gong1 ye4 cun1] /Tai Po Industrial Estate/
+大埔滘 大埔滘 [da4 bu4 jiao4] /Tai Po Kau/
+大埔仔 大埔仔 [da4 bu4 zi3] /Tai Po Tsai/
+大塘 大塘 [da4 tang2] /Tai Tong/
+大圍 大围 [da4 wei2] /Tai Wai/
+太和 太和 [tai4 he2] /Tai Wo/
+天水圍 天水围 [tian1 shui3 wei2] /Tin Shui Wai/
+汀九 汀九 [ting1 jiu3] /Ting Kau/
+汀角 汀角 [ting1 jiao3] /Ting Kok/
+調景嶺 调景岭 [diao4 jing3 ling2] /Tiu Keng Leng/
+井欄樹 井栏树 [jing3 lan2 shu4] /Tseng Lan Shue/
+將軍澳 将军澳 [jiang1 jun1 ao4] /Tseung Kwan O/
+將軍澳工業村 将军澳工业村 [jiang1 jun1 ao4 gong1 ye4 cun1] /Tseung Kwan O Industrial Estate/
+青龍頭 青龙头 [qing1 long2 tou2] /Tsing Lung Tau/
+青衣 青衣 [qing1 yi1] /Tsing Yi/
+荃灣 荃湾 [quan2 wan1] /Tsuen Wan/
+荃灣區 荃湾区 [quan2 wan1 qu1] /Tsuen Wan District/
+屯門 屯门 [tun2 men2] /Tuen Mun/
+屯門區 屯门区 [tun2 men2 qu1] /Tuen Mun District/
+對面海 对面海 [dui4 mian4 hai3] /Tui Min Hoi/
+東涌 东涌 [dong1 yong3] /Tung Chung/
+東龍洲 东龙洲 [dong1 long2 zhou1] /Tung Lung Chau/
+東澳 东澳 [dong1 ao4] /Tung O/
+桐梓 桐梓 [tong2 zi3] /Tung Tsz/
+禾輋村 禾輋村 [he2 ju1 cun1] /Wo Che Estate/
+烏溪沙 乌溪沙 [wu1 xi1 sha1] /Wu Kai Sha/
+陰澳 阴澳 [yin1 ao4] /Yam O/
+洋洲 洋洲 [yang2 zhou1] /Yeung Chau/
+鹽田仔 盐田仔 [yan2 tian2 zi3] /Yim Tin Tsai/
+元朗 元朗 [yuan2 lang3] /Yuen Long/
+元朗區 元朗区 [yuan2 lang3 qu1] /Yuen Long District/
+元朗市 元朗市 [yuan2 lang3 shi4] /Yuen Long Town/
+榕樹下 榕树下 [rong2 shu4 xia4] /Yung Shue Ha/
+榕樹灣 榕树湾 [rong2 shu4 wan1] /Yung Shue Wan/

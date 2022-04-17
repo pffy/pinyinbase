@@ -1,0 +1,43 @@
+# vocab-cmn-finance-stocks-dow30.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+３Ｍ ３Ｍ [zzzzz0] /3M/
+美國運通 美国运通 [mei3 guo2 yun4 tong1] /American Express/
+蘋果 苹果 [ping2 guo3] /Apple/
+波音 波音 [bo1 yin1] /Boeing/
+卡特彼勒 卡特彼勒 [ka3 te4 bi3 le4] /Caterpillar/
+雪佛龍 雪佛龙 [xue3 fo2 long2] /Chevron/
+思科系統 思科系统 [si1 ke1 xi4 tong3] /Cisco Systems/
+可口可樂 可口可乐 [ke3 kou3 ke3 le4] /Coca-Cola/
+杜邦 杜邦 [du4 bang1] /DuPont/
+埃克森美孚 埃克森美孚 [ai1 ke4 sen1 mei3 fu2] /ExxonMobil/
+通用電氣 通用电气 [tong1 yong4 dian4 qi4] /General Electric/
+高盛 高盛 [gao1 sheng4] /Goldman Sachs/
+家得寶 家得宝 [jia1 de5 bao3] /The Home Depot/
+英特爾 英特尔 [ying1 te4 er3] /Intel/
+ＩＢＭ ＩＢＭ [zzzzz0] /IBM/
+強生 强生 [jiang4 sheng1] /Johnson & Johnson/
+摩根大通 摩根大通 [mo2 gen1 da4 tong1] /JPMorgan Chase/
+麥當勞 麦当劳 [mai4 dang1 lao2] /McDonald's/
+默克 默克 [mo4 ke4] /Merck/
+微軟 微软 [wei1 ruan3] /Microsoft/
+耐克 耐克 [nai4 ke4] /Nike/
+輝瑞 辉瑞 [hui1 rui4] /Pfizer/
+寶潔 宝洁 [bao3 jie2] /Procter & Gamble/
+旅行家 旅行家 [luu3 hang2 jia1] /Travelers/
+聯合健康保險 联合健康保险 [lian2 he2 jian4 kang1 bao3 xian3] /UnitedHealth Group/
+聯合技術 联合技术 [lian2 he2 ji4 shu4] /United Technologies/
+威瑞森 威瑞森 [wei1 rui4 sen1] /Verizon/
+Ｖｉｓａ Ｖｉｓａ [zzzzz0] /Visa/
+沃爾瑪 沃尔玛 [wo4 er3 ma3] /Wal-Mart/
+華特迪士尼 华特迪士尼 [hua2 te4 di2 shi4 ni2] /Walt Disney/

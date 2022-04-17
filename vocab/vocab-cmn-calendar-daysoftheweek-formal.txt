@@ -1,0 +1,20 @@
+# vocab-cmn-calendar-daysoftheweek-formal.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+禮拜一 礼拜一 [li3 bai4 yi1] /Monday/
+禮拜二 礼拜二 [li3 bai4 er4] /Tuesday/
+禮拜三 礼拜三 [li3 bai4 san1] /Wednesday/
+禮拜四 礼拜四 [li3 bai4 si4] /Thursday/
+禮拜五 礼拜五 [li3 bai4 wu3] /Friday/
+禮拜六 礼拜六 [li3 bai4 liu4] /Saturday/
+禮拜天 礼拜天 [li3 bai4 tian1] /Sunday/

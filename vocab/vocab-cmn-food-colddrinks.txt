@@ -1,0 +1,17 @@
+# vocab-cmn-food-colddrinks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+奶昔 奶昔 [nai3 xi1] /milkshake/
+冰水 冰水 [bing1 shui3] /ice water/
+汽水 汽水 [qi4 shui3] /soft drink/
+檸檬水 柠檬水 [ning2 meng2 shui3] /lemonade/

@@ -1,0 +1,15 @@
+# vocab-cmn-edu-library.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+圖書卡 图书卡 [tu2 shu1 ka3] /library card/
+圖書館 图书馆 [tu2 shu1 guan3] /library/

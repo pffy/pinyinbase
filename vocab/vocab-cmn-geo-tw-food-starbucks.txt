@@ -1,0 +1,105 @@
+# vocab-cmn-geo-tw-food-starbucks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿里山烏龍茶 阿里山乌龙茶 [a1 li3 shan1 wu1 long2 cha2] /Alishan Oolong Tea/
+碧螺春 碧螺春 [bi4 luo2 chun1] /Bi Luo Chun Green Tea/
+冰茶密斯朵 冰茶密斯朵 [bing1 cha2 mi4 si1 duo3] /Iced Tea Misto/
+冰焦糖瑪奇朵 冰焦糖玛奇朵 [bing1 jiao1 tang2 ma3 qi2 duo3] /Iced Caramel Macchiato/
+冰經典紅茶那堤 冰经典红茶那堤 [bing1 jing1 dian3 hong2 cha2 na4 ti2] /Iced Black Tea Latte/
+冰經典巧克力 冰经典巧克力 [bing1 jing1 dian3 qiao3 ke4 li4] /Iced Signature Chocolate/
+冰玫瑰蜜香茶那堤 冰玫瑰蜜香茶那堤 [bing1 mei2 gui1 mi4 xiang1 cha2 na4 ti2] /Iced Rose Fancy Tea Latte/
+冰美式咖啡 冰美式咖啡 [bing1 mei3 shi4 ka1 fei1] /Iced Caffé Americano/
+冰摩卡 冰摩卡 [bing1 mo2 ka3] /Iced Caffé Mocha/
+冰摩卡可可亞咖啡 冰摩卡可可亚咖啡 [bing1 mo2 ka3 ke3 ke3 ya4 ka1 fei1] /Iced Duo Cocoa Mocha/
+冰抹茶那堤 冰抹茶那堤 [bing1 mo3 cha2 na4 ti2] /Iced Green Tea Latte/
+冰那堤 冰那堤 [bing1 na4 ti2] /Iced Caffé Latte/
+冰濃焦糖那堤 冰浓焦糖那堤 [bing1 nong2 jiao1 tang2 na4 ti2] /Iced Dark Caramel Latte/
+冰搖茶 冰摇茶 [bing1 yao2 cha2] /Iced Shaken Tea/
+冰搖檸檬茶 冰摇柠檬茶 [bing1 yao2 ning2 meng2 cha2] /Iced Shaken Lemon Tea/
+茶密斯朵 茶密斯朵 [cha2 mi4 si1 duo3] /Tea Misto/
+長條蜂蜜蛋糕 长条蜂蜜蛋糕 [chang2 tiao2 feng1 mi4 dan4 gao1] /Starbucks Honey Loaf Cake/
+長條黑森林蛋糕 长条黑森林蛋糕 [chang2 tiao2 hei1 sen1 lin2 dan4 gao1] /Black Forest Cake/
+長條咖啡巧克力松露蛋糕 长条咖啡巧克力松露蛋糕 [chang2 tiao2 ka1 fei1 qiao3 ke4 li4 song1 lu4 dan4 gao1] /Coffee Chocolate Truffle Cake/
+地瓜堅果三明治 地瓜坚果三明治 [di4 gua1 jian1 guo3 san1 ming2 zhi4] /Sweet Potato & Nuts Sandwich/
+地中海海鮮沙拉 地中海海鲜沙拉 [di4 zhong1 hai3 hai3 xian1 sha1 la1] /Mediterranean Shrimp Salad/
+東方美人 东方美人 [dong1 fang1 mei3 ren2] /Oriental Beauty Oolong Tea/
+兒童熱可可 儿童热可可 [er2 tong2 re4 ke3 ke3] /Kid's Hot Chocolate/
+法式烤火腿三明治 法式烤火腿三明治 [fa3 shi4 kao3 huo3 tui3 san1 ming2 zhi4] /Ham & Cheese Sandwich/
+黑摩卡可可碎片星冰樂 黑摩卡可可碎片星冰乐 [hei1 mo2 ka3 ke3 ke3 sui4 pian4 xing1 bing1 le4] /Dark Mocha Frappuccino Blended Beverage/
+黑森林蛋糕 黑森林蛋糕 [hei1 sen1 lin2 dan4 gao1] /Black Forest Cake/
+黑森林蛋糕 黑森林蛋糕 [hei1 sen1 lin2 dan4 gao1] /Black Forest Cake/
+紅玉紅茶 红玉红茶 [hong2 yu4 hong2 cha2] /Ruby Black Tea/
+胡麻牛蒡帕里尼 胡麻牛蒡帕里尼 [hu2 ma2 niu2 bang4 pa4 li3 ni2] /Sesame Burdock Pork Panini/
+火腿蛋片三明治 火腿蛋片三明治 [huo3 tui3 dan4 pian4 san1 ming2 zhi4] /Ham & Egg Sandwich/
+焦糖可可碎片星冰樂 焦糖可可碎片星冰乐 [jiao1 tang2 ke3 ke3 sui4 pian4 xing1 bing1 le4] /Caramel Java Chip Frappuccino Blended Beverage/
+焦糖瑪奇朵 焦糖玛奇朵 [jiao1 tang2 ma3 qi2 duo3] /Caramel Macchiato/
+焦糖星冰樂 焦糖星冰乐 [jiao1 tang2 xing1 bing1 le4] /Caramel Frappuccino Blended Beverage/
+經典紅茶那堤 经典红茶那堤 [jing1 dian3 hong2 cha2 na4 ti2] /Black Tea Latte/
+經典巧克力 经典巧克力 [jing1 dian3 qiao3 ke4 li4] /Signature Hot Chocolate/
+經典乳酪蛋糕 经典乳酪蛋糕 [jing1 dian3 ru3 lao4 dan4 gao1] /Classic Cheese Cake/
+經典總匯三明治 经典总汇三明治 [jing1 dian3 zong3 hui4 san1 ming2 zhi4] /Club Sandwich/
+咖啡巧克力松露蛋糕 咖啡巧克力松露蛋糕 [ka1 fei1 qiao3 ke4 li4 song1 lu4 dan4 gao1] /Coffee Chocolate Truffle Cake/
+咖啡巧克力松露蛋糕 咖啡巧克力松露蛋糕 [ka1 fei1 qiao3 ke4 li4 song1 lu4 dan4 gao1] /Coffee Chocolate Truffle Cake/
+咖啡星冰樂 咖啡星冰乐 [ka1 fei1 xing1 bing1 le4] /Coffee Frappuccino Blended Beverage/
+卡布奇諾 卡布奇诺 [ka3 bu4 qi2 nuo4] /Cappuccino/
+烤雞蘿蔓沙拉 烤鸡萝蔓沙拉 [kao3 ji1 luo2 man4 sha1 la1] /Roast Chicken With Romaine Salad/
+可麗露 可丽露 [ke3 li4 lu4] /Canelé/
+藍莓貝果乳酪 蓝莓贝果乳酪 [lan2 mei2 bei4 guo3 ru3 lao4] /Blueberry Bagel with Cream Cheese/
+樂活沙拉 乐活沙拉 [le4 huo2 sha1 la1] /Salad/
+樂活水果杯 乐活水果杯 [le4 huo2 shui3 guo3 bei1] /Seasonal Fruit Cup/
+裡肌乳酪三明治 里肌乳酪三明治 [li3 ji1 ru3 lao4 san1 ming2 zhi4] /Pork Tenderloin & Cheese Sandwich/
+芒果戚風蛋糕 芒果戚风蛋糕 [mang2 guo3 qi1 feng1 dan4 gao1] /Mango Chiffon Cake/
+芒果乳酪蛋糕 芒果乳酪蛋糕 [mang2 guo3 ru3 lao4 dan4 gao1] /Mango Cheese Cake/
+芒果乳酪夏洛特蛋糕 芒果乳酪夏洛特蛋糕 [mang2 guo3 ru3 lao4 xia4 luo4 te4 dan4 gao1] /Mango Cheese Charlotte Cake/
+玫瑰蜜香茶那堤 玫瑰蜜香茶那堤 [mei2 gui1 mi4 xiang1 cha2 na4 ti2] /Rose Fancy Tea Latte/
+美式咖啡 美式咖啡 [mei3 shi4 ka1 fei1] /Caffé Americano/
+摩卡 摩卡 [mo2 ka3] /Caffé Mocha/
+摩卡可可碎片星冰樂 摩卡可可碎片星冰乐 [mo2 ka3 ke3 ke3 sui4 pian4 xing1 bing1 le4] /Java Chip Frappuccino Blended Beverage/
+摩卡可可亞咖啡 摩卡可可亚咖啡 [mo2 ka3 ke3 ke3 ya4 ka1 fei1] /Duo Cocoa Mocha/
+摩卡星冰樂 摩卡星冰乐 [mo2 ka3 xing1 bing1 le4] /Mocha Frappuccino Blended Beverage/
+抹茶那堤 抹茶那堤 [mo3 cha2 na4 ti2] /Green Tea Latte/
+墨西哥風香辣三明治 墨西哥风香辣三明治 [mo4 xi1 ge1 feng1 xiang1 la4 san1 ming2 zhi4] /Mexican Style Spicy Pork Focaccia/
+那堤 那堤 [na4 ti2] /Caffé Latte/
+檸檬蛋糕 柠檬蛋糕 [ning2 meng2 dan4 gao1] /Lemon Cake/
+檸檬蛋糕 柠檬蛋糕 [ning2 meng2 dan4 gao1] /Lemon Cake/
+檸檬塔 柠檬塔 [ning2 meng2 ta3] /Lemon Tart/
+檸檬塔 柠檬塔 [ning2 meng2 ta3] /Lemon Tart/
+牛奶蜂蜜吐司 牛奶蜂蜜吐司 [niu2 nai3 feng1 mi4 tu3 si1] /Honey & Milk Toast/
+濃粹那堤 浓粹那堤 [nong2 cui4 na4 ti2] /Ristretto Bianco/
+濃焦糖那堤 浓焦糖那堤 [nong2 jiao1 tang2 na4 ti2] /Dark Caramel Latte/
+濃縮咖啡 浓缩咖啡 [nong2 suo1 ka1 fei1] /Espresso/
+濃縮康寶藍 浓缩康宝蓝 [nong2 suo1 kang1 bao3 lan2] /Espresso Con Panna/
+濃縮瑪奇朵 浓缩玛奇朵 [nong2 suo1 ma3 qi2 duo3] /Espresso Macchiato/
+濃縮星冰樂 浓缩星冰乐 [nong2 suo1 xing1 bing1 le4] /Espresso Frappuccino Blended Beverage/
+培根蛋起司三明治 培根蛋起司三明治 [pei2 gen1 dan4 qi3 si1 san1 ming2 zhi4] /Fried Eggs with Bacon and Cheese Sandwich/
+葡萄乾乳酪貝果 葡萄干乳酪贝果 [pu2 tao5 gan1 ru3 lao4 bei4 guo3] /Plain Bagel With Raisin & Cream Cheese/
+起司裡肌可頌 起司里肌可颂 [qi3 si1 li3 ji1 ke3 song4] /Cheese & Pork Tenderloin Croissant/
+起司牛肉可頌 起司牛肉可颂 [qi3 si1 niu2 rou4 ke3 song4] /Cheese & Beef Croissant/
+青蔥牛肉乳酪三明治 青葱牛肉乳酪三明治 [qing1 cong1 niu2 rou4 ru3 lao4 san1 ming2 zhi4] /Fried Beef With Green Onion Cheese Sandwich/
+青蔬沙拉米捲餅 青蔬沙拉米卷饼 [qing1 shu1 sha1 la1 mi3 juan3 bing3] /Vegetables & Salami Tortilla Wrap With Salsa Sauce/
+軟法麵包 软法面包 [ruan3 fa3 mian4 bao1] /Cheesy Bread/
+雙果巧拼 双果巧拼 [shuang1 guo3 qiao3 pin1] /Seasonal Fruits/
+提拉米蘇千層薄餅 提拉米苏千层薄饼 [ti2 la1 mi3 su1 qian1 ceng2 bao2 bing3] /Tiramisu Mille Crépes/
+田園雞肉帕里尼 田园鸡肉帕里尼 [tian2 yuan2 ji1 rou4 pa4 li3 ni2] /Mixed Vegetables & Chicken Panini/
+鮮蔬鮪魚三明治 鲜蔬鲔鱼三明治 [xian1 shu1 wei3 yu2 san1 ming2 zhi4] /Tuna & Vegetables Sandwich/
+香蕉巧克力蛋糕 香蕉巧克力蛋糕 [xiang1 jiao1 qiao3 ke4 li4 dan4 gao1] /Banana Chocolate Cake/
+香蕉巧克力蛋糕 香蕉巧克力蛋糕 [xiang1 jiao1 qiao3 ke4 li4 dan4 gao1] /Banana Chocolate Cake/
+洋芋培根帕里尼 洋芋培根帕里尼 [yang2 yu4 pei2 gen1 pa4 li3 ni2] /Potato & Bacon Panini/
+義式嫩雞丹麥三明治 义式嫩鸡丹麦三明治 [yi4 shi4 nen4 ji1 dan1 mai4 san1 ming2 zhi4] /Italian Tender Chicken Danish Sandwich/
+義式乳酪菠菜鹹派 义式乳酪菠菜咸派 [yi4 shi4 ru3 lao4 bo1 cai4 xian2 pai4] /Spinach Ricotta Basket/
+印度茶那堤 印度茶那堤 [yin4 du4 cha2 na4 ti2] /Chai Tea Latte/
+櫻桃番茄杯 樱桃番茄杯 [ying1 tao2 fan1 qie2 bei1] /Cherry and Tomato Cup/
+柚香慕斯蛋糕 柚香慕斯蛋糕 [you4 xiang1 mu4 si1 dan4 gao1] /Pomelo Mousse Cake/
+炸雞青蔬捲餅 炸鸡青蔬卷饼 [zha2 ji1 qing1 shu1 juan3 bing3] /Fried Chicken & Vegetables Tortilla Wrap/
+招牌火腿起司帕里尼 招牌火腿起司帕里尼 [zhao1 pai5 huo3 tui3 qi3 si1 pa4 li3 ni2] /Ham & Cheese Panini/
+中盃那堤 中杯那堤 [zhong1 bei1 na4 ti2] /Tall Latte/

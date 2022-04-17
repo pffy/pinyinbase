@@ -1,0 +1,25 @@
+# vocab-cmn-astrology-signs.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白羊宮 白羊宫 [bai2 yang2 gong1] /Aries/
+金牛宮 金牛宫 [jin1 niu2 gong1] /Taurus/
+雙子宮 双子宫 [shuang1 zi3 gong1] /Gemini/
+巨蟹宮 巨蟹宫 [ju4 xie4 gong1] /Cancer/
+獅子宮 狮子宫 [shi1 zi5 gong1] /Leo/
+室女宮 室女宫 [shi4 nuu3 gong1] /Virgo/
+天秤宮 天秤宫 [tian1 cheng4 gong1] /Libra/
+天蠍宮 天蝎宫 [tian1 xie1 gong1] /Scorpio/
+人馬宮 人马宫 [ren2 ma3 gong1] /Sagittarius/
+摩羯宮 摩羯宫 [mo2 jie2 gong1] /Capricorn/
+寶瓶宮 宝瓶宫 [bao3 ping2 gong1] /Aquarius/
+雙魚宮 双鱼宫 [shuang1 yu2 gong1] /Pisces/

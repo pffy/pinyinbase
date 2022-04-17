@@ -1,0 +1,17 @@
+# vocab-cmn-politics-elections.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+候選人 候选人 [hou4 xuan3 ren2] /candidate/
+選舉 选举 [xuan3 ju3] /election/
+連任 连任 [lian2 ren4] /re-election/
+現任 现任 [xian4 ren4] /incumbent/

@@ -1,0 +1,23 @@
+# vocab-cmn-tech-journalists.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+傑夫·賈維斯 杰夫·贾维斯 [jie2 fu1 · jia3 wei2 si1] /Jeff Jarvis/
+麥康瑞 麦康瑞 [mai4 kang1 rui4] /Rebecca McKinnon/
+莫斯柏格 莫斯柏格 [mo4 si1 bai3 ge2] /Walt Mossberg/
+史威瑟 史威瑟 [shi3 wei1 se4] /Kara Swisher/
+卡拉·斯維什爾 卡拉·斯维什尔 [ka3 la1 · si1 wei2 shen2 er3] /Kara Swisher/
+莫博士 莫博士 [mo4 bo2 shi4] /Walt Mossberg/
+斯韋舍爾 斯韦舍尔 [si1 wei2 she3 er3] /Kara Swisher/
+德沃夏克 德沃夏克 [de2 wo4 xia4 ke4] /John C. Dvorak/
+拉波特 拉波特 [la1 bo1 te4] /Leo Laporte/
+利奧·拉普爾特 利奥·拉普尔特 [li4 ao4 · la1 pu3 er3 te4] /Leo Laporte/

@@ -1,0 +1,19 @@
+# vocab-cmn-food-sandwiches.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+金槍魚三明治 金枪鱼三明治 [jin1 qiang1 yu2 san1 ming2 zhi4] /tuna sandwich/
+火雞三明治 火鸡三明治 [huo3 ji1 san1 ming2 zhi4] /turkey sandwich/
+奶酪三明治 奶酪三明治 [nai3 lao4 san1 ming2 zhi4] /cheese sandwich/
+烤牛肉三明治 烤牛肉三明治 [kao3 niu2 rou4 san1 ming2 zhi4] /roast beef sandwich/
+花生醬果凍三明治 花生酱果冻三明治 [hua1 sheng1 jiang4 guo3 dong4 san1 ming2 zhi4] /peanut butter jelly sandwich/
+火腿三明治 火腿三明治 [huo3 tui3 san1 ming2 zhi4] /ham sandwich/

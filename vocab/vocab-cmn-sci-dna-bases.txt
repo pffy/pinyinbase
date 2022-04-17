@@ -1,0 +1,17 @@
+# vocab-cmn-sci-dna-bases.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+腺嘌呤 腺嘌呤 [xian4 piao4 ling4] /adenine/
+鳥嘌呤 鸟嘌呤 [niao3 piao4 ling4] /guanine/
+胞嘧啶 胞嘧啶 [bao1 mi4 ding4] /cytosine/
+胸腺嘧啶 胸腺嘧啶 [xiong1 xian4 mi4 ding4] /thymine/

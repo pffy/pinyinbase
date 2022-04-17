@@ -1,0 +1,45 @@
+# vocab-cmn-sports-nfl-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+奧克蘭突襲者 奥克兰突袭者 [ao4 ke4 lan2 tu1 xi2 zhe3] /Oakland Raiders/
+巴爾的摩烏鴉 巴尔的摩乌鸦 [ba1 er3 de5 mo2 wu1 ya1] /Baltimore Ravens/
+達拉斯牛仔 达拉斯牛仔 [da2 la1 si1 niu2 zai3] /Dallas Cowboys/
+丹佛野馬 丹佛野马 [dan1 fo2 ye3 ma3] /Denver Broncos/
+底特律雄獅 底特律雄狮 [di3 te4 luu4 xiong2 shi1] /Detroit Lions/
+費城老鷹 费城老鹰 [fei4 cheng2 lao3 ying1] /Philadelphia Eagles/
+華盛頓紅皮 华盛顿红皮 [hua2 sheng4 dun4 hong2 pi2] /Washington Redskins/
+傑克遜維爾美洲虎 杰克逊维尔美洲虎 [jie2 ke4 xun4 wei2 er3 mei3 zhou1 hu3] /Jacksonville Jaguars/
+舊金山４９人隊 旧金山４９人队 [jiu4 jin1 shan1 si4 shi2 jiu3 ren2 dui4] /San Francisco 49ers/
+卡羅來納黑豹 卡罗来纳黑豹 [ka3 luo2 lai2 na4 hei1 bao4] /Carolina Panthers/
+堪薩斯城酋長 堪萨斯城酋长 [kan1 sa4 si1 cheng2 qiu2 zhang3] /Kansas City Chiefs/
+克里夫蘭布朗隊 克里夫兰布朗队 [ke4 li3 fu1 lan2 bu4 lang3 dui4] /Cleveland Browns/
+綠灣包裝工 绿湾包装工 [luu4 wan1 bao1 zhuang1 gong1] /Green Bay Packers/
+邁阿密海豚 迈阿密海豚 [mai4 a1 mi4 hai3 tun2] /Miami Dolphins/
+明尼蘇達維京人 明尼苏达维京人 [ming2 ni2 su1 da2 wei2 jing1 ren2] /Minnesota Vikings/
+紐約巨人 纽约巨人 [niu3 yue1 ju4 ren2] /New York Giants/
+紐約噴氣機 纽约喷气机 [niu3 yue1 pen1 qi4 ji1] /New York Jets/
+匹茲堡鋼人隊 匹兹堡钢人队 [pi3 zi1 bao3 gang1 ren2 dui4] /Pittsburg Steelers/
+圣迭戈閃電 圣迭戈闪电 [sheng4 die2 ge1 shan3 dian4] /San Diego Chargers/
+聖路易斯公羊 圣路易斯公羊 [sheng4 lu4 yi4 si1 gong1 yang2] /St. Louis Rams/
+水牛城票據 水牛城票据 [shui3 niu2 cheng2 piao4 ju4] /Buffalo Bills/
+坦帕灣海盜 坦帕湾海盗 [tan3 pa4 wan1 hai3 dao4] /Tampa Bay Buccaneers/
+田納西泰坦 田纳西泰坦 [tian2 na4 xi1 tai4 tan3] /Tennesee Titans/
+西雅圖海鷹 西雅图海鹰 [xi1 ya3 tu2 hai3 ying1] /Seattle Seahawks/
+新奧爾良聖徒 新奥尔良圣徒 [xin1 ao4 er3 liang2 sheng4 tu2] /New Orleans Saints/
+辛辛那提孟加拉虎 辛辛那提孟加拉虎 [xin1 xin1 na4 ti2 meng4 jia1 la1 hu3] /Cincinatti Bengals/
+新英格蘭愛國者 新英格兰爱国者 [xin1 ying1 ge2 lan2 ai4 guo2 zhe3] /New England Patriots/
+休斯敦德克薩斯人 休斯敦德克萨斯人 [xiu1 si1 dun1 de2 ke4 sa4 si1 ren2] /Houston Texans/
+亞利桑那紅雀 亚利桑那红雀 [ya4 li4 sang1 na4 hong2 que4] /Arizona Cardinals/
+亞特蘭大獵鷹隊 亚特兰大猎鹰队 [ya4 te4 lan2 da4 lie4 ying1 dui4] /Atlanta Falcons/
+印第安納波利斯小馬隊 印第安纳波利斯小马队 [yin4 di4 an1 na4 bo1 li4 si1 xiao3 ma3 dui4] /Indianapolis Colts/
+芝加哥熊 芝加哥熊 [zhi1 jia1 ge1 xiong2] /Chicago Bears/

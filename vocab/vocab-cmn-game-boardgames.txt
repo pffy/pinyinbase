@@ -1,0 +1,18 @@
+# vocab-cmn-game-boardgames.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+國際象棋 国际象棋 [guo2 ji4 xiang4 qi2] /chess/
+跳棋 跳棋 [tiao4 qi2] /checkers/
+圍棋 围棋 [wei2 qi2] /Go/
+西洋棋 西洋棋 [xi1 yang2 qi2] /chess/
+象棋 象棋 [xiang4 qi2] /Chinese chess/

@@ -1,0 +1,16 @@
+# vocab-cmn-trucks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+密鬥貨車 密斗货车 [mi4 dou3 huo4 che1] /box truck/
+水泥車 水泥车 [shui3 ni2 che1] /cement truck/
+平板車 平板车 [ping2 ban3 che1] /flatbed truck/

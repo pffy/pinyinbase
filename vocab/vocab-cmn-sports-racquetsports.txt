@@ -1,0 +1,16 @@
+# vocab-cmn-sports-racquetsports.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+壁球 壁球 [bi4 qiu2] /racquetball/
+網球 网球 [wang3 qiu2] /tennis/
+羽毛球 羽毛球 [yu3 mao2 qiu2] /badminton/

@@ -1,0 +1,25 @@
+# vocab-cmn-shengxiao-animals.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+鼠 鼠 [shu3] /rat/
+牛 牛 [niu2] /ox/
+虎 虎 [hu3] /tiger/
+兔 兔 [tu4] /rabbit/
+龍 龍 [long2] /dragon/
+蛇 蛇 [she2] /snake/
+馬 馬 [ma3] /horse/
+羊 羊 [yang2] /goat/
+猴 猴 [hou2] /monkey/
+雞 雞 [ji1] /rooster/
+狗 狗 [gou3] /dog/
+豬 豬 [zhu1] /pig/

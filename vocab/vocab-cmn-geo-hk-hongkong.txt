@@ -1,0 +1,65 @@
+# vocab-cmn-geo-hk-hongkong.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿公岩 阿公岩 [a1 gong1 yan2] /A Kung Ngam/
+阿伯丁 阿伯丁 [a1 bo2 ding1] /Aberdeen/
+金鐘 金钟 [jin1 zhong1] /Admiralty/
+愛秩序灣 爱秩序湾 [ai4 zhi4 xu4 wan1] /Aldrich Bay/
+鴨脷洲 鸭脷洲 [ya1 li4 zhou1] /Ap Lei Chau/
+大浪灣 大浪湾 [da4 lang4 wan1] /Big Wave Bay/
+寶馬山 宝马山 [bao3 ma3 shan1] /Braemar Hill/
+連山 连山 [lian2 shan1] /Caroline Hill/
+銅鑼灣 铜锣湾 [tong2 luo2 wan1] /Causeway Bay/
+中央 中央 [zhong1 yang1] /Central/
+西區 西区 [xi1 qu1] /Central and Western District/
+柴灣 柴湾 [chai2 wan1] /Chai Wan/
+舂坎角 舂坎角 [chong1 kan3 jiao3] /Chung Hom Kok/
+數碼港 数码港 [shu4 ma3 gang3] /Cyberport/
+深水灣 深水湾 [shen1 shui3 wan1] /Deep Water Bay/
+東區 东区 [dong1 qu1] /Eastern District/
+砲台山 炮台山 [pao4 tai2 shan1] /Fortress Hill/
+歡樂谷 欢乐谷 [huan1 le4 gu3] /Happy Valley/
+杏花村 杏花村 [xing4 hua1 cun1] /Heng Fa Chuen/
+渣甸山 渣甸山 [zha1 dian4 shan1] /Jardine's Lookout/
+堅尼地城 坚尼地城 [jian1 ni2 di4 cheng2] /Kennedy Town/
+康怡 康怡 [kang1 yi2] /Kornhill/
+康怡花園 康怡花园 [kang1 yi2 hua1 yuan2] /Kornhill Gardens/
+中級 中级 [zhong1 ji2] /Mid-level/
+南朗 南朗 [nan2 lang3] /Nam Long Shan/
+北角 北角 [bei3 jiao3] /North Point/
+北角半山 北角半山 [bei3 jiao3 ban4 shan1] /North Point Mid-levels/
+薄扶林 薄扶林 [bo2 fu2 lin2] /Pok Fu Lam/
+鰂魚涌 鲗鱼涌 [zei2 yu2 chong1] /Quarry Bay/
+淺水灣 浅水湾 [qian3 shui3 wan1] /Repulse Bay/
+西灣 西湾 [xi1 wan1] /Sai Wan/
+西灣河 西湾河 [xi1 wan1 he2] /Sai Wan Ho/
+西營盤 西营盘 [xi1 ying2 pan2] /Sai Ying Pun/
+沙灣 沙湾 [sha1 wan1] /Sandy Bay/
+筲箕灣 筲箕湾 [shao1 ji1 wan1] /Shau Kei Wan/
+石澳 石澳 [shi2 ao4] /Shek O/
+石塘咀 石塘咀 [shi2 tang2 ju3] /Shek Tong Tsui/
+上環 上环 [shang4 huan2] /Sheung Wan/
+小西灣 小西湾 [xiao3 xi1 wan1] /Siu Sai Wan/
+蘇荷 苏荷 [su1 he2] /Soho/
+南區 南区 [nan2 qu1] /Southern District/
+斯坦利 斯坦利 [si1 tan3 li4] /Stanley/
+大坑 大坑 [da4 keng1] /Tai Hang/
+大潭 大潭 [da4 tan2] /Tai Tam/
+太古城 太古城 [tai4 gu3 cheng2] /Taikoo Shing/
+鋼線灣 钢线湾 [gang1 xian4 wan1] /Telegraph Bay/
+山頂 山顶 [shan1 ding3] /The Peak/
+天后 天后 [tian1 hou4] /Tin Hau/
+華富 华富 [hua2 fu4] /Wah Fu/
+灣仔 湾仔 [wan1 zai3] /Wan Chai/
+灣仔區 湾仔区 [wan1 zai3 qu1] /Wan Chai District/
+黃竹坑 黄竹坑 [huang2 zhu2 keng1] /Wong Chuk Hang/

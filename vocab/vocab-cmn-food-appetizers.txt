@@ -1,0 +1,24 @@
+# vocab-cmn-food-appetizers.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+酥炸雲呑 酥炸云呑 [su1 zha2 yun2 tun1] /Deep Fried Wonton/
+椒䀋豆腐 椒䀋豆腐 [jiao1 yan2 dou4 fu5] /Deep Fried Tofu with Pepper and Spicy Salt/
+椒鹽鮮魷 椒盐鲜鱿 [jiao1 yan2 xian1 you2] /Deep Fried Squid/
+炸鷄中翼 炸鸡中翼 [zha2 ji1 zhong1 yi4] /Deep Fried Chicken Wing/
+味菜海蜇手斯鷄 味菜海蜇手斯鸡 [wei4 cai4 hai3 zhe2 shou3 si1 ji1] /Shredded Chicken and Jelly Fish/
+涼拌海蜇皮 凉拌海蜇皮 [liang2 ban4 hai3 zhe2 pi2] /Sesame Jelly Fish/
+咖哩魚丸 咖喱鱼丸 [ga1 li2 yu2 wan2] /Curry Fish Balls/
+酥炸脆奶 酥炸脆奶 [su1 zha2 cui4 nai3] /Deep Fried Cream Pudding/
+串燒冶味豬柳 串烧冶味猪柳 [chuan4 shao1 ye3 wei4 zhu1 liu3] /Pork Skewer/
+串燒黑椒鷄柳 串烧黑椒鸡柳 [chuan4 shao1 hei1 jiao1 ji1 liu3] /Chicken Skewer/
+串燒黑椒牛柳 串烧黑椒牛柳 [chuan4 shao1 hei1 jiao1 niu2 liu3] /Beef Skewer/

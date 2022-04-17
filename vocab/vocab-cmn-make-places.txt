@@ -1,0 +1,17 @@
+# vocab-cmn-make-places.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+工廠 工厂 [gong1 chang3] /factory/
+作坊 作坊 [zuo1 fang5] /workshop/
+工作室 工作室 [gong1 zuo4 shi4] /studio/
+辦公室 办公室 [ban4 gong1 shi4] /office/

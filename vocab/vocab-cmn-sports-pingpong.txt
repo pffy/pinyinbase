@@ -1,0 +1,18 @@
+# vocab-cmn-sports-pingpong.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+乒乓 乒乓 [ping1 pang1] /ping pong/
+乒乓槳 乒乓桨 [ping1 pang1 jiang3] /ping pong paddle/
+乒乓球 乒乓球 [ping1 pang1 qiu2] /ping pong ball/
+乒乓球檯 乒乓球台 [ping1 pang1 qiu2 tai2] /ping pong table/
+乒乓網 乒乓网 [ping1 pang1 wang3] /ping pong net/

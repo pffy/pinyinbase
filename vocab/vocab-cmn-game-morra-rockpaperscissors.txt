@@ -1,0 +1,16 @@
+# vocab-cmn-game-morra-rockpaperscissors.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+石頭 石头 [shi2 tou5] /rock/
+布 布 [bu4] /paper/
+剪子 剪子 [jian3 zi5] /scissors/

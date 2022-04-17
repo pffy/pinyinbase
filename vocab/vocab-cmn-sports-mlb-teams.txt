@@ -1,0 +1,43 @@
+# vocab-cmn-sports-mlb-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+奧克蘭運動家隊 奥克兰运动家队 [ao4 ke4 lan2 yun4 dong4 jia1 dui4] /Oakland Athletics/
+巴爾的摩金鶯 巴尔的摩金莺 [ba1 er3 de5 mo2 jin1 ying1] /Baltimore Orioles/
+波士頓紅襪隊 波士顿红袜队 [bo1 shi4 dun4 hong2 wa4 dui4] /Boston Red Sox/
+德州遊騎兵 德州游骑兵 [de2 zhou1 you2 qi2 bing1] /Texas Rangers/
+底特律老虎 底特律老虎 [di3 te4 luu4 lao3 hu3] /Detroit Tigers/
+多倫多藍鳥隊 多伦多蓝鸟队 [duo1 lun2 duo1 lan2 niao3 dui4] /Toronto Blue Jays/
+費城費城人隊 费城费城人队 [fei4 cheng2 fei4 cheng2 ren2 dui4] /Philadelphia Phillies/
+佛羅裡達馬林魚隊 佛罗里达马林鱼队 [fo2 luo2 li3 da2 ma3 lin2 yu2 dui4] /Florida Marlins/
+華盛頓國民 华盛顿国民 [hua2 sheng4 dun4 guo2 min2] /Washington Nationals/
+舊金山巨人隊 旧金山巨人队 [jiu4 jin1 shan1 ju4 ren2 dui4] /San Francisco Giants/
+科羅拉多​​​​洛磯山 科罗拉多​​洛矶山 [ke1 luo2 la1 duo1 ​​ luo4 ji1 shan1] /Colorado Rockies/
+克利夫蘭印第安人 克利夫兰印第安人 [ke4 li4 fu1 lan2 yin4 di4 an1 ren2] /Cleveland Indians/
+洛杉磯道奇隊 洛杉矶道奇队 [luo4 shan1 ji1 dao4 qi2 dui4] /Los Angeles Dodgers/
+洛杉磯天使 洛杉矶天使 [luo4 shan1 ji1 tian1 shi3] /Los Angeles Angels/
+密爾瓦基釀酒人 密尔瓦基酿酒人 [mi4 er3 wa3 ji1 niang4 jiu3 ren2] /Milwaukee Brewers/
+明尼蘇達雙城 明尼苏达双城 [ming2 ni2 su1 da2 shuang1 cheng2] /Minnesota Twins/
+紐約大都會 纽约大都会 [niu3 yue1 da4 du1 hui4] /New York Mets/
+紐約洋基隊 纽约洋基队 [niu3 yue1 yang2 ji1 dui4] /New York Yankees/
+匹茲堡海盜 匹兹堡海盗 [pi3 zi1 bao3 hai3 dao4] /Pittsburgh Pirates/
+聖地牙哥教士隊 圣地牙哥教士队 [sheng4 di4 ya2 ge1 jiao4 shi4 dui4] /San Diego Padres/
+聖路易斯紅雀 圣路易斯红雀 [sheng4 lu4 yi4 si1 hong2 que4] /St Louis Cardinals/
+坦帕灣光芒 坦帕湾光芒 [tan3 pa4 wan1 guang1 mang2] /Tampa Bay Rays/
+西雅圖水手 西雅图水手 [xi1 ya3 tu2 shui3 shou3] /Seattle Mariners/
+辛辛那提紅人 辛辛那提红人 [xin1 xin1 na4 ti2 hong2 ren2] /Cincinnati Reds/
+休士頓太空人 休士顿太空人 [xiu1 shi4 dun4 tai4 kong1 ren2] /Houston Astros/
+亞利桑那響尾蛇 亚利桑那响尾蛇 [ya4 li4 sang1 na4 xiang3 wei3 she2] /Arizona Diamondbacks/
+亞特蘭大勇士 亚特兰大勇士 [ya4 te4 lan2 da4 yong3 shi4] /Atlanta Braves/
+芝加哥白襪隊 芝加哥白袜队 [zhi1 jia1 ge1 bai2 wa4 dui4] /Chicago White Sox/
+芝加哥公牛 芝加哥公牛 [zhi1 jia1 ge1 gong1 niu2] /Chicago Bulls/
+芝加哥小熊隊 芝加哥小熊队 [zhi1 jia1 ge1 xiao3 xiong2 dui4] /Chicago Cubs/

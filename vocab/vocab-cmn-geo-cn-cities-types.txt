@@ -1,0 +1,18 @@
+# vocab-cmn-geo-cn-cities-types.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+直轄市 直辖市 [zhi2 xia2 shi4] /municipality/
+特別行政區 特别行政区 [te4 bie2 xing2 zheng4 qu1] /Special Administrative Region/SAR/
+地級市 地级市 [di4 ji2 shi4] /prefectural-level city/
+副省級市 副省级市 [fu4 sheng3 ji2 shi4] /sub-provincial city/
+縣級市 县级市 [xian4 ji2 shi4] /county-level city/

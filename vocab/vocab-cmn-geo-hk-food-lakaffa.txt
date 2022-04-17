@@ -1,0 +1,83 @@
+# vocab-cmn-geo-hk-food-lakaffa.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白葡萄冰沙 白葡萄冰沙 [bai2 pu2 tao5 bing1 sha1] /Grape Smoothie/
+北海道特濃朱古力 北海道特浓朱古力 [bei3 hai3 dao4 te4 nong2 zhu1 gu3 li4] /Hokkaido Chocolate/
+薄荷鮮奶咖啡 薄荷鲜奶咖啡 [bo4 he5 xian1 nai3 ka1 fei1] /Mint Latte/
+薄荷朱古力 薄荷朱古力 [bo4 he5 zhu1 gu3 li4] /Hot Mint Chocolate/
+草莓冰沙 草莓冰沙 [cao3 mei2 bing1 sha1] /Strawberry Smoothie/
+大吉嶺紅茶 大吉岭红茶 [da4 ji2 ling2 hong2 cha2] /Darjeeling Black Tea/
+大甲芋頭奶茶 大甲芋头奶茶 [da4 jia3 yu4 tou5 nai3 cha2] /Handmade Taro Milk Tea/
+凍布丁鮮奶 冻布丁鲜奶 [dong4 bu4 ding1 xian1 nai3] /Pudding with Fresh Milk/
+凍海鹽濃縮咖啡 冻海盐浓缩咖啡 [dong4 hai3 yan2 nong2 suo1 ka1 fei1] /Sea Salt Coffee/
+凍黑糖咖啡 冻黑糖咖啡 [dong4 hei1 tang2 ka1 fei1] /Iced Brown Sugar Coffee/
+凍焦糖咖啡 冻焦糖咖啡 [dong4 jiao1 tang2 ka1 fei1] /Iced Caramel Macchiato/
+凍美式咖啡 冻美式咖啡 [dong4 mei3 shi4 ka1 fei1] /Iced Americano/
+凍意大利泡沫咖啡 冻意大利泡沫咖啡 [dong4 yi4 da4 li4 pao4 mo4 ka1 fei1] /Iced Cappuccino/
+凍意大利鮮奶咖啡 冻意大利鲜奶咖啡 [dong4 yi4 da4 li4 xian1 nai3 ka1 fei1] /Iced Cafe Latte/
+凍朱古力鮮奶咖啡 冻朱古力鲜奶咖啡 [dong4 zhu1 gu3 li4 xian1 nai3 ka1 fei1] /Iced Mocha Coffee/
+凍莊園咖啡 冻庄园咖啡 [dong4 zhuang1 yuan2 ka1 fei1] /Iced House Blended Coffee/
+蜂蜜檸檬蘆薈 蜂蜜柠檬芦荟 [feng1 mi4 ning2 meng2 lu2 hui4] /Honey Lemon with Aloe/
+寒天白葡萄 寒天白葡萄 [han2 tian1 bai2 pu2 tao5] /Grape Juice with Agar/
+寒天芒果綠茶 寒天芒果绿茶 [han2 tian1 mang2 guo3 luu4 cha2] /Mango Green Tea with Agar/
+黑糖咖啡 黑糖咖啡 [hei1 tang2 ka1 fei1] /Brown Sugar Coffee/
+紅豆宇治抺茶 红豆宇治抺茶 [hong2 dou4 yu3 zhi4 mei4 cha2] /Uji Matcha with Red Bean/
+焦糖咖啡 焦糖咖啡 [jiao1 tang2 ka1 fei1] /Caramel Macchiato/
+焦糖牛奶朱古力 焦糖牛奶朱古力 [jiao1 tang2 niu2 nai3 zhu1 gu3 li4] /Hot Caramel Milk Chocolate/
+焦糖碎片冰紛樂 焦糖碎片冰纷乐 [jiao1 tang2 sui4 pian4 bing1 fen1 le4] /Caramel Frappe/
+焦糖鮮奶咖啡 焦糖鲜奶咖啡 [jiao1 tang2 xian1 nai3 ka1 fei1] /Caramel Latte/
+經典三重奏冰咖啡 经典三重奏冰咖啡 [jing1 dian3 san1 chong2 zou4 bing1 ka1 fei1] /Triple Classic Iced Coffee/
+咖啡冰沙特調 咖啡冰沙特调 [ka1 fei1 bing1 sha1 te4 tiao2] /Ice Blended Coffee/
+咖啡凍朱古力 咖啡冻朱古力 [ka1 fei1 dong4 zhu1 gu3 li4] /Hokkaido Chocolate with Coffee Jelly/
+烤杏仁鮮奶咖啡 烤杏仁鲜奶咖啡 [kao3 xing4 ren2 xian1 nai3 ka1 fei1] /Roasted Almond Latte/
+烤杏仁朱古力 烤杏仁朱古力 [kao3 xing4 ren2 zhu1 gu3 li4] /Hot Roasted Almonds Chocolate/
+可可碎片冰紛樂 可可碎片冰纷乐 [ke3 ke3 sui4 pian4 bing1 fen1 le4] /Cocoa Frappe/
+藍莓芝士蛋糕 蓝莓芝士蛋糕 [lan2 mei2 zhi1 shi4 dan4 gao1] /Blueberry Cheese Cake/
+芒果冰沙 芒果冰沙 [mang2 guo3 bing1 sha1] /Mango Smoothie/
+美式咖啡 美式咖啡 [mei3 shi4 ka1 fei1] /Americano Coffee/
+美式芝士蛋糕 美式芝士蛋糕 [mei3 shi4 zhi1 shi4 dan4 gao1] /American Cheese Cake/
+魔力雙人舞冰紛樂 魔力双人舞冰纷乐 [mo2 li4 shuang1 ren2 wu3 bing1 fen1 le4] /Duo Dance Frappe/
+魔力雙人舞冰咖啡 魔力双人舞冰咖啡 [mo2 li4 shuang1 ren2 wu3 bing1 ka1 fei1] /Duo Dance Iced Coffee/
+茉莉綠茶 茉莉绿茶 [mo4 li4 luu4 cha2] /Jasmine Green Tea/
+熱鮮奶咖啡 热鲜奶咖啡 [re4 xian1 nai3 ka1 fei1] /Hot Flavor Coffee Hot Latte/
+十勝紅豆奶茶 十胜红豆奶茶 [shi2 sheng4 hong2 dou4 nai3 cha2] /Red Bean Milk Tea/
+特濃巧克力奶茶 特浓巧克力奶茶 [te4 nong2 qiao3 ke4 li4 nai3 cha2] /Chocolate Milk Tea/
+特濃巧克力歐蕾 特浓巧克力欧蕾 [te4 nong2 qiao3 ke4 li4 ou1 lei3] /Hot Cocoa Au-Lait/
+特濃朱古力 特浓朱古力 [te4 nong2 zhu1 gu3 li4] /Double Chocolate/
+提拉米蘇鮮奶咖啡 提拉米苏鲜奶咖啡 [ti2 la1 mi3 su1 xian1 nai3 ka1 fei1] /Tiramisu Latte/
+提拉米蘇芝士蛋糕 提拉米苏芝士蛋糕 [ti2 la1 mi3 su1 zhi1 shi4 dan4 gao1] /Tiramisu Cheese Cake/
+完美四重奏冰咖啡 完美四重奏冰咖啡 [wan2 mei3 si4 chong2 zou4 bing1 ka1 fei1] /Quartet Iced Coffee/
+維也納咖啡 维也纳咖啡 [wei2 ye3 na4 ka1 fei1] /Vienna Coffee/
+舞動焦糖奶茶 舞动焦糖奶茶 [wu3 dong4 jiao1 tang2 nai3 cha2] /Caramel Milk Tea/
+夏威夷果仁鮮奶咖啡 夏威夷果仁鲜奶咖啡 [xia4 wei1 yi2 guo3 ren2 xian1 nai3 ka1 fei1] /Macadamia Nut Latte/
+夏威夷果仁朱古力 夏威夷果仁朱古力 [xia4 wei1 yi2 guo3 ren2 zhu1 gu3 li4] /Hot Macadamia nuts Chocolate/
+仙草凍鮮奶茶 仙草冻鲜奶茶 [xian1 cao3 dong4 xian1 nai3 cha2] /Grass Jelly with Fresh Milk/
+鮮莓冰沙 鲜莓冰沙 [xian1 mei2 bing1 sha1] /Multi-berry Smoothie/
+香濃奶茶 香浓奶茶 [xiang1 nong2 nai3 cha2] /La Kaffa Milk Tea/
+新鮮蜂蜜綠茶 新鲜蜂蜜绿茶 [xin1 xian1 feng1 mi4 luu4 cha2] /Green Tea with Honey/
+雪泡浮冰咖啡 雪泡浮冰咖啡 [xue3 pao4 fu2 bing1 ka1 fei1] /Bubble Iced Coffee/
+意大利泡沫咖啡 意大利泡沫咖啡 [yi4 da4 li4 pao4 mo4 ka1 fei1] /Cappuccino/
+意大利鮮奶咖啡 意大利鲜奶咖啡 [yi4 da4 li4 xian1 nai3 ka1 fei1] /Cafe Latte/
+義式咖啡冰紛樂 义式咖啡冰纷乐 [yi4 shi4 ka1 fei1 bing1 fen1 le4] /Espresso Frappe/
+義式濃縮咖啡 义式浓缩咖啡 [yi4 shi4 nong2 suo1 ka1 fei1] /Espresso Solo Coffee/
+英國拖肥鮮奶咖啡 英国拖肥鲜奶咖啡 [ying1 guo2 tuo1 fei2 xian1 nai3 ka1 fei1] /English Toffee Latte/
+英國拖肥朱古力 英国拖肥朱古力 [ying1 guo2 tuo1 fei2 zhu1 gu3 li4] /Hot English Toffee Chocolate/
+鴛鴦奶茶 鸳鸯奶茶 [yuan1 yang5 nai3 cha2] /Milk Tea with Coffee Jelly/
+招牌浮冰咖啡 招牌浮冰咖啡 [zhao1 pai5 fu2 bing1 ka1 fei1] /La Kaffa Iced Coffee/
+榛果鮮奶咖啡 榛果鲜奶咖啡 [zhen1 guo3 xian1 nai3 ka1 fei1] /Hazelnut Latte/
+珍珠紅茶 珍珠红茶 [zhen1 zhu1 hong2 cha2] /Black Tea with Pearls/
+珍珠綠茶 珍珠绿茶 [zhen1 zhu1 luu4 cha2] /Green Tea with Pearls/
+芝麻抹茶冰沙 芝麻抹茶冰沙 [zhi1 ma5 mo3 cha2 bing1 sha1] /Sesame Mocha Smoothie/
+朱古力咖啡慕斯蛋糕 朱古力咖啡慕斯蛋糕 [zhu1 gu3 li4 ka1 fei1 mu4 si1 dan4 gao1] /Chocolae Coffee Mouse Cake/
+朱古力鮮奶咖啡 朱古力鲜奶咖啡 [zhu1 gu3 li4 xian1 nai3 ka1 fei1] /Mocha Coffee/
+莊園咖啡 庄园咖啡 [zhuang1 yuan2 ka1 fei1] /House Blended Coffee/

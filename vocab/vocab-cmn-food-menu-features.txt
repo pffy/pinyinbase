@@ -1,0 +1,16 @@
+# vocab-cmn-food-menu-features.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+堂食菜單 堂食菜单 [tang2 shi2 cai4 dan1] /dine-in menu/
+外賣菜單 外卖菜单 [wai4 mai4 cai4 dan1] /takeout menu/
+送餐菜單 送餐菜单 [song4 can1 cai4 dan1] /delivery menu/

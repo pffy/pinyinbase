@@ -1,0 +1,15 @@
+# vocab-cmn-sci-topics.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+脫氧核醣核酸 脱氧核糖核酸 [tuo1 yang3 he2 tang2 he2 suan1] /deoxyribonucleic acid/
+脫氧核醣核酸 脱氧核糖核酸 [tuo1 yang3 he2 tang2 he2 suan1] /DNA/

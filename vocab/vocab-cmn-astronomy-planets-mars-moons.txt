@@ -1,0 +1,15 @@
+# vocab-cmn-astronomy-planets-mars-moons.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+火衛一 火卫一 [huo3 wei4 yi1] /Phobos/
+火衛二 火卫二 [huo3 wei4 er4] /Deimos/

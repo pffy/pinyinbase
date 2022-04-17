@@ -1,0 +1,19 @@
+# vocab-cmn-food-breakfast.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+雞蛋 鸡蛋 [ji1 dan4] /eggs/
+鬆餅 松饼 [song1 bing3] /waffles/
+穀類 谷类 [gu3 lei4] /cereal/
+米粥 米粥 [mi3 zhou1] /congee/
+牛奶 牛奶 [niu2 nai3] /milk/
+酸奶 酸奶 [suan1 nai3] /yogurt/

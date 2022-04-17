@@ -1,0 +1,27 @@
+# vocab-cmn-geo-us-holidays-traditional.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+復活節 复活节 [fu4 huo2 jie2] /Easter Sunday/
+父親節 父亲节 [fu4 qin1 jie2] /Father's Day/
+黑色星期五 黑色星期五 [hei1 se4 xing1 qi1 wu3] /Black Friday/
+母親節 母亲节 [mu3 qin1 jie2] /Mother's Day/
+情人節 情人节 [qing2 ren2 jie2] /Valentine's Day/
+全國教師感謝日 全国教师感谢日 [quan2 guo2 jiao4 shi1 gan3 xie4 ri4] /National Teacher Appreciation Day/
+聖帕特里克節 圣帕特里克节 [sheng4 pa4 te4 li3 ke4 jie2] /St. Patrick's Day/
+萬聖節 万圣节 [wan4 sheng4 jie2] /Halloween/
+五月五日節 五月五日节 [wu3 yue4 wu3 ri4 jie2] /Cinco De Mayo/
+耶穌受難日 耶稣受难日 [ye1 su1 shou4 nan4 ri4] /Good Friday/
+愚人節 愚人节 [yu2 ren2 jie2] /April Fools Day/
+棕櫚週日 棕榈周日 [zong1 luu2 zhou1 ri4] /Palm Sunday/
+超級碗星期天 超级碗星期天 [chao1 ji2 wan3 xing1 qi1 tian1] /Super Bowl Sunday/
+除夕 除夕 [chu2 xi1] /New Year's Eve/

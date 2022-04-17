@@ -1,0 +1,259 @@
+# vocab-cmn-geo-places.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿富汗 阿富汗 [a1 fu4 han4] /Afghanistan/
+奧蘭群島 奥兰群岛 [ao4 lan2 qun2 dao3] /Åland Islands/
+阿爾巴尼亞 阿尔巴尼亚 [a1 er3 ba1 ni2 ya4] /Albania/
+阿爾及利亞 阿尔及利亚 [a1 er3 ji2 li4 ya4] /Algeria/
+美屬薩摩亞 美属萨摩亚 [mei3 shu3 sa4 mo2 ya4] /American Samoa/
+安道​​​​爾 安道​​尔 [an1 dao4 ​​ er3] /Andorra/
+安哥拉 安哥拉 [an1 ge1 la1] /Angola/
+安圭拉 安圭拉 [an1 gui1 la1] /Anguilla/
+南極洲 南极洲 [nan2 ji2 zhou1] /Antarctica/
+安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /Antigua and Barbuda/
+阿根廷 阿根廷 [a1 gen1 ting2] /Argentina/
+亞美尼亞 亚美尼亚 [ya4 mei3 ni2 ya4] /Armenia/
+阿魯巴 阿鲁巴 [a1 lu3 ba1] /Aruba/
+澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /Australia/
+奧地利 奥地利 [ao4 di4 li4] /Austria/
+阿塞拜疆 阿塞拜疆 [a1 sai1 bai4 jiang1] /Azerbaijan/
+巴哈馬 巴哈马 [ba1 ha1 ma3] /Bahamas/
+巴林 巴林 [ba1 lin2] /Bahrain/
+孟加拉國 孟加拉国 [meng4 jia1 la1 guo2] /Bangladesh/
+巴巴多斯 巴巴多斯 [ba1 ba1 duo1 si1] /Barbados/
+白俄羅斯 白俄罗斯 [bai2 e2 luo2 si1] /Belarus/
+比利時 比利时 [bi3 li4 shi2] /Belgium/
+伯利茲 伯利兹 [bo2 li4 zi1] /Belize/
+貝寧 贝宁 [bei4 ning2] /Benin/
+百慕大 百慕大 [bai3 mu4 da4] /Bermuda/
+不丹 不丹 [bu4 dan1] /Bhutan/
+玻利維亞 玻利维亚 [bo1 li4 wei2 ya4] /Bolivia/
+博內爾 博内尔 [bo2 nei4 er3] /Bonaire/
+波斯尼亞和黑塞哥維那 波斯尼亚和黑塞哥维那 [bo1 si1 ni2 ya4 he2 hei1 sai1 ge1 wei2 na4] /Bosnia and Herzegovina/
+博茨瓦納 博茨瓦纳 [bo2 ci2 wa3 na4] /Botswana/
+布維島 布维岛 [bu4 wei2 dao3] /Bouvet Island/
+巴西 巴西 [ba1 xi1] /Brazil/
+英屬印度洋領地 英属印度洋领地 [ying1 shu3 yin4 du4 yang2 ling3 di4] /British Indian Ocean Territory/
+文萊達魯薩蘭國 文莱达鲁萨兰国 [wen2 lai2 da2 lu3 sa4 lan2 guo2] /Brunei Darussalam/
+保加利亞 保加利亚 [bao3 jia1 li4 ya4] /Bulgaria/
+布基納法索 布基纳法索 [bu4 ji1 na4 fa3 suo3] /Burkina Faso/
+布隆迪 布隆迪 [bu4 long2 di2] /Burundi/
+柬埔寨 柬埔寨 [jian3 pu3 zhai4] /Cambodia/
+喀麥隆 喀麦隆 [ka1 mai4 long2] /Cameroon/
+加拿大 加拿大 [jia1 na2 da4] /Canada/
+佛得角 佛得角 [fo2 de2 jiao3] /Cabo Verde/
+開曼群島 开曼群岛 [kai1 man4 qun2 dao3] /Cayman Islands/
+中非共和國 中非共和国 [zhong1 fei1 gong4 he2 guo2] /Central African Republic/
+乍得 乍得 [zha4 de2] /Chad/
+智利 智利 [zhi4 li4] /Chile/
+中國 中国 [zhong1 guo2] /China/
+聖誕島 圣诞岛 [sheng4 dan4 dao3] /Christmas Island/
+科科斯群島 科科斯群岛 [ke1 ke1 si1 qun2 dao3] /Cocos Islands/
+哥倫比亞 哥伦比亚 [ge1 lun2 bi3 ya4] /Colombia/
+科摩羅 科摩罗 [ke1 mo2 luo2] /Comoros/
+剛果 刚果 [gang1 guo3] /Congo/
+庫克群島 库克群岛 [ku4 ke4 qun2 dao3] /Cook Islands/
+哥斯達黎加 哥斯达黎加 [ge1 si1 da2 li2 jia1] /Costa Rica/
+科特迪瓦 科特迪瓦 [ke1 te4 di2 wa3] /Côte d'Ivoire/
+克羅地亞 克罗地亚 [ke4 luo2 di4 ya4] /Croatia/
+古巴 古巴 [gu3 ba1] /Cuba/
+庫拉索 库拉索 [ku4 la1 suo3] /Curaçao/
+塞浦路斯 塞浦路斯 [sai1 pu3 lu4 si1] /Cyprus/
+捷克共和國 捷克共和国 [jie2 ke4 gong4 he2 guo2] /Czech Republic/
+丹麥 丹麦 [dan1 mai4] /Denmark/
+吉布提 吉布提 [ji2 bu4 ti2] /Djibouti/
+多米尼加 多米尼加 [duo1 mi3 ni2 jia1] /Dominica/
+多明尼加共和國 多明尼加共和国 [duo1 ming2 ni2 jia1 gong4 he2 guo2] /Dominican Republic/
+厄瓜多爾 厄瓜多尔 [e4 gua1 duo1 er3] /Ecuador/
+埃及 埃及 [ai1 ji2] /Egypt/
+薩爾瓦多 萨尔瓦多 [sa4 er3 wa3 duo1] /El Salvador/
+赤道幾內亞 赤道几内亚 [chi4 dao4 ji1 nei4 ya4] /Equatorial Guinea/
+厄立特里亞 厄立特里亚 [e4 li4 te4 li3 ya4] /Eritrea/
+愛沙尼亞 爱沙尼亚 [ai4 sha1 ni2 ya4] /Estonia/
+埃塞俄比亞 埃塞俄比亚 [ai1 sai1 e2 bi3 ya4] /Ethiopia/
+福克蘭群島 福克兰群岛 [fu2 ke4 lan2 qun2 dao3] /Falkland Islands/
+法羅群島 法罗群岛 [fa3 luo2 qun2 dao3] /Faroe Islands/
+斐 斐 [fei3] /Fiji/
+芬蘭 芬兰 [fen1 lan2] /Finland/
+法國 法国 [fa3 guo2] /France/
+法屬圭亞那 法属圭亚那 [fa3 shu3 gui1 ya4 na4] /French Guiana/
+法屬波利尼西亞 法属波利尼西亚 [fa3 shu3 bo1 li4 ni2 xi1 ya4] /French Polynesia/
+法國南部領土 法国南部领土 [fa3 guo2 nan2 bu4 ling3 tu3] /French Southern Territories/
+加蓬 加蓬 [jia1 peng2] /Gabon/
+岡比亞 冈比亚 [gang1 bi3 ya4] /Gambia/
+格魯吉亞 格鲁吉亚 [ge2 lu3 ji2 ya4] /Georgia/
+德國 德国 [de2 guo2] /Germany/
+加納 加纳 [jia1 na4] /Ghana/
+直布羅陀 直布罗陀 [zhi2 bu4 luo2 tuo2] /Gibraltar/
+希臘 希腊 [xi1 la4] /Greece/
+格陵蘭 格陵兰 [ge2 ling2 lan2] /Greenland/
+格林納達 格林纳达 [ge2 lin2 na4 da2] /Grenada/
+瓜德羅普島 瓜德罗普岛 [gua1 de2 luo2 pu3 dao3] /Guadeloupe/
+關島 关岛 [guan1 dao3] /Guam/
+危地馬拉 危地马拉 [wei2 di4 ma3 la1] /Guatemala/
+根西島 根西岛 [gen1 xi1 dao3] /Guernsey/
+幾內亞 几内亚 [ji1 nei4 ya4] /Guinea/
+幾內亞比紹 几内亚比绍 [ji1 nei4 ya4 bi3 shao4] /Guinea-Bissau/
+圭亞那 圭亚那 [gui1 ya4 na4] /Guyana/
+海地 海地 [hai3 di4] /Haiti/
+赫德島和麥當勞群島 赫德岛和麦当劳群岛 [he4 de2 dao3 he2 mai4 dang1 lao2 qun2 dao3] /Heard Island and McDonald Islands/
+教廷 教廷 [jiao4 ting2] /Holy See/
+洪都拉斯 洪都拉斯 [hong2 dou1 la1 si1] /Honduras/
+香港 香港 [xiang1 gang3] /Hong Kong/
+匈牙利 匈牙利 [xiong1 ya2 li4] /Hungary/
+冰島 冰岛 [bing1 dao3] /Iceland/
+印度 印度 [yin4 du4] /India/
+印尼 印尼 [yin4 ni2] /Indonesia/
+伊朗 伊朗 [yi1 lang3] /Iran/
+伊拉克 伊拉克 [yi1 la1 ke4] /Iraq/
+愛爾蘭 爱尔兰 [ai4 er3 lan2] /Ireland/
+馬恩島 马恩岛 [ma3 en1 dao3] /Isle of Man/
+以色列 以色列 [yi3 se4 lie4] /Israel/
+意大利 意大利 [yi4 da4 li4] /Italy/
+牙買加 牙买加 [ya2 mai3 jia1] /Jamaica/
+日本 日本 [ri4 ben3] /Japan/
+澤西島 泽西岛 [ze2 xi1 dao3] /Jersey/
+約旦 约旦 [yue1 dan4] /Jordan/
+哈薩克斯坦 哈萨克斯坦 [ha1 sa4 ke4 si1 tan3] /Kazakhstan/
+肯尼亞 肯尼亚 [ken3 ni2 ya4] /Kenya/
+基里巴斯 基里巴斯 [ji1 li3 ba1 si1] /Kiribati/
+北朝鮮 北朝鲜 [bei3 chao2 xian3] /North Korea/
+韓國 韩国 [han2 guo2] /South Korea/
+科威特 科威特 [ke1 wei1 te4] /Kuwait/
+吉 吉 [ji2] /Kyrgyzstan/
+老撾 老挝 [lao3 wo1] /Laos/
+拉脫維亞 拉脱维亚 [la1 tuo1 wei2 ya4] /Latvia/
+黎巴嫩 黎巴嫩 [li2 ba1 nen4] /Lebanon/
+萊索托 莱索托 [lai2 suo3 tuo1] /Lesotho/
+利比里亞 利比里亚 [li4 bi3 li3 ya4] /Liberia/
+利比亞 利比亚 [li4 bi3 ya4] /Libya/
+列支敦士登 列支敦士登 [lie4 zhi1 dun1 shi4 deng1] /Liechtenstein/
+立陶宛 立陶宛 [li4 tao2 wan3] /Lithuania/
+盧森堡 卢森堡 [lu2 sen1 bao3] /Luxembourg/
+澳門 澳门 [ao4 men2] /Macao/
+馬其頓 马其顿 [ma3 qi2 dun4] /Macedonia/
+馬達加斯加 马达加斯加 [ma3 da2 jia1 si1 jia1] /Madagascar/
+馬拉維 马拉维 [ma3 la1 wei2] /Malawi/
+馬來西亞 马来西亚 [ma3 lai2 xi1 ya4] /Malaysia/
+馬爾代夫 马尔代夫 [ma3 er3 dai4 fu1] /Maldives/
+馬里 马里 [ma3 li3] /Mali/
+馬耳他 马耳他 [ma3 er3 ta1] /Malta/
+馬紹爾群島 马绍尔群岛 [ma3 shao4 er3 qun2 dao3] /Marshall Islands/
+馬提尼克 马提尼克 [ma3 ti2 ni2 ke4] /Martinique/
+毛里塔尼亞 毛里塔尼亚 [mao2 li3 ta3 ni2 ya4] /Mauritania/
+毛里求斯 毛里求斯 [mao2 li3 qiu2 si1] /Mauritius/
+馬約特 马约特 [ma3 yue1 te4] /Mayotte/
+墨西哥 墨西哥 [mo4 xi1 ge1] /Mexico/
+密克羅尼西亞 密克罗尼西亚 [mi4 ke4 luo2 ni2 xi1 ya4] /Micronesia/
+摩爾多瓦 摩尔多瓦 [mo2 er3 duo1 wa3] /Moldova/
+摩納哥 摩纳哥 [mo2 na4 ge1] /Monaco/
+蒙古 蒙古 [meng3 gu3] /Mongolia/
+黑山共和國 黑山共和国 [hei1 shan1 gong4 he2 guo2] /Montenegro/
+蒙特塞拉特 蒙特塞拉特 [meng2 te4 sai1 la1 te4] /Montserrat/
+摩洛哥 摩洛哥 [mo2 luo4 ge1] /Morocco/
+莫桑比克 莫桑比克 [mo4 sang1 bi3 ke4] /Mozambique/
+緬甸 缅甸 [mian3 dian4] /Myanmar/
+納米比亞 纳米比亚 [na4 mi3 bi3 ya4] /Namibia/
+瑙魯 瑙鲁 [nao3 lu3] /Nauru/
+尼泊爾 尼泊尔 [ni2 bo2 er3] /Nepal/
+荷蘭 荷兰 [he2 lan2] /Netherlands/
+新喀裡多尼亞 新喀里多尼亚 [xin1 ka1 li3 duo1 ni2 ya4] /New Caledonia/
+新西蘭 新西兰 [xin1 xi1 lan2] /New Zealand/
+尼加拉瓜 尼加拉瓜 [ni2 jia1 la1 gua1] /Nicaragua/
+尼日爾 尼日尔 [ni2 ri4 er3] /Niger/
+尼日利亞 尼日利亚 [ni2 ri4 li4 ya4] /Nigeria/
+紐埃 纽埃 [niu3 ai1] /Niue/
+諾福克島 诺福克岛 [nuo4 fu2 ke4 dao3] /Norfolk Island/
+北馬里亞納群島 北马里亚纳群岛 [bei3 ma3 li3 ya4 na4 qun2 dao3] /Northern Mariana Islands/
+挪威 挪威 [nuo2 wei1] /Norway/
+阿曼 阿曼 [a1 man4] /Oman/
+巴基斯坦 巴基斯坦 [ba1 ji1 si1 tan3] /Pakistan/
+帕勞 帕劳 [pa4 lao2] /Palau/
+巴勒斯坦的國家 巴勒斯坦的国家 [ba1 le4 si1 tan3 de5 guo2 jia1] /Palestine, State of/
+巴拿馬 巴拿马 [ba1 na2 ma3] /Panama/
+巴布亞新幾內亞 巴布亚新几内亚 [ba1 bu4 ya4 xin1 ji1 nei4 ya4] /Papua New Guinea/
+巴拉圭 巴拉圭 [ba1 la1 gui1] /Paraguay/
+秘魯 秘鲁 [bi4 lu3] /Peru/
+菲律賓 菲律宾 [fei1 luu4 bin1] /Philippines/
+皮特凱恩 皮特凯恩 [pi2 te4 kai3 en1] /Pitcairn/
+波蘭 波兰 [bo1 lan2] /Poland/
+葡萄牙 葡萄牙 [pu2 tao5 ya2] /Portugal/
+波多黎各 波多黎各 [bo1 duo1 li2 ge4] /Puerto Rico/
+卡塔爾 卡塔尔 [ka3 ta3 er3] /Qatar/
+留尼旺 留尼旺 [liu2 ni2 wang4] /Réunion/
+羅馬尼亞 罗马尼亚 [luo2 ma3 ni2 ya4] /Romania/
+俄羅斯聯邦 俄罗斯联邦 [e2 luo2 si1 lian2 bang1] /Russian Federation/
+盧旺達 卢旺达 [lu2 wang4 da2] /Rwanda/
+聖巴泰勒米 圣巴泰勒米 [sheng4 ba1 tai4 le4 mi3] /Saint Barthélemy/
+聖赫勒拿 圣赫勒拿 [sheng4 he4 le4 na2] /Saint Helena/
+聖基茨和尼維斯 圣基茨和尼维斯 [sheng4 ji1 ci2 he2 ni2 wei2 si1] /Saint Kitts and Nevis/
+聖盧西亞 圣卢西亚 [sheng4 lu2 xi1 ya4] /Saint Lucia/
+聖馬丁 圣马丁 [sheng4 ma3 ding1] /Saint Martin/
+聖皮埃爾和密克隆 圣皮埃尔和密克隆 [sheng4 pi2 ai1 er3 he2 mi4 ke4 long2] /Saint Pierre and Miquelon/
+聖文森特和格林納丁斯 圣文森特和格林纳丁斯 [sheng4 wen2 sen1 te4 he2 ge2 lin2 na4 ding1 si1] /Saint Vincent and the Grenadines/
+薩摩亞 萨摩亚 [sa4 mo2 ya4] /Samoa/
+聖馬力諾 圣马力诺 [sheng4 ma3 li4 nuo4] /San Marino/
+聖多美和普林西比 圣多美和普林西比 [sheng4 duo1 mei3 he2 pu3 lin2 xi1 bi3] /Sao Tome and Principe/
+沙特阿拉伯 沙特阿拉伯 [sha1 te4 a1 la1 bo2] /Saudi Arabia/
+塞內加爾 塞内加尔 [sai1 nei4 jia1 er3] /Senegal/
+塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /Serbia/
+塞舌爾 塞舌尔 [sai4 she2 er3] /Seychelles/
+塞拉利昂 塞拉利昂 [sai1 la1 li4 ang2] /Sierra Leone/
+新加坡 新加坡 [xin1 jia1 po1] /Singapore/
+聖馬丁島 圣马丁岛 [sheng4 ma3 ding1 dao3] /Sint Maarten/
+斯洛伐克 斯洛伐克 [si1 luo4 fa2 ke4] /Slovakia/
+斯洛文尼亞 斯洛文尼亚 [si1 luo4 wen2 ni2 ya4] /Slovenia/
+所羅門群島 所罗门群岛 [suo3 luo2 men2 qun2 dao3] /Solomon Islands/
+索馬里 索马里 [suo3 ma3 li3] /Somalia/
+南非 南非 [nan2 fei1] /South Africa/
+南喬治亞島和南桑威奇群島 南乔治亚岛和南桑威奇群岛 [nan2 qiao2 zhi4 ya4 dao3 he2 nan2 sang1 wei1 qi2 qun2 dao3] /South Georgia and the South Sandwich Islands/
+南蘇丹 南苏丹 [nan2 su1 dan1] /South Sudan/
+西班牙 西班牙 [xi1 ban1 ya2] /Spain/
+斯里蘭卡 斯里兰卡 [si1 li3 lan2 ka3] /Sri Lanka/
+蘇丹 苏丹 [su1 dan1] /Sudan/
+蘇里南 苏里南 [su1 li3 nan2] /Suriname/
+斯瓦爾巴群島和揚馬​​延 斯瓦尔巴群岛和扬马延 [si1 wa3 er3 ba1 qun2 dao3 he2 yang2 ma3 yan2] /Svalbard and Jan Mayen/
+斯威士蘭 斯威士兰 [si1 wei1 shi4 lan2] /Swaziland/
+瑞典 瑞典 [rui4 dian3] /Sweden/
+瑞士 瑞士 [rui4 shi4] /Switzerland/
+阿拉伯敘利亞共和國 阿拉伯叙利亚共和国 [a1 la1 bo2 xu4 li4 ya4 gong4 he2 guo2] /Syrian Arab Republic/
+台灣 台湾 [tai2 wan1] /Taiwan/
+塔吉克斯坦 塔吉克斯坦 [ta3 ji2 ke4 si1 tan3] /Tajikistan/
+坦桑尼亞 坦桑尼亚 [tan3 sang1 ni2 ya4] /Tanzania/
+泰國 泰国 [tai4 guo2] /Thailand/
+東帝汶 东帝汶 [dong1 di4 wen4] /Timor-Leste/
+多哥 多哥 [duo1 ge1] /Togo/
+托克勞 托克劳 [tuo1 ke4 lao2] /Tokelau/
+湯加 汤加 [tang1 jia1] /Tonga/
+特立尼達和多巴哥 特立尼达和多巴哥 [te4 li4 ni2 da2 he2 duo1 ba1 ge1] /Trinidad and Tobago/
+突尼斯 突尼斯 [tu1 ni2 si1] /Tunisia/
+火雞 火鸡 [huo3 ji1] /Turkey/
+土庫曼斯坦 土库曼斯坦 [tu3 ku4 man4 si1 tan3] /Turkmenistan/
+特克斯和凱科斯群島 特克斯和凯科斯群岛 [te4 ke4 si1 he2 kai3 ke1 si1 qun2 dao3] /Turks and Caicos Islands/
+圖瓦盧 图瓦卢 [tu2 wa3 lu2] /Tuvalu/
+烏干達 乌干达 [wu1 gan1 da2] /Uganda/
+烏克蘭 乌克兰 [wu1 ke4 lan2] /Ukraine/
+阿拉伯聯合酋長國 阿拉伯联合酋长国 [a1 la1 bo2 lian2 he2 qiu2 zhang3 guo2] /United Arab Emirates/
+英國 英国 [ying1 guo2] /United Kingdom/
+美國 美国 [mei3 guo2] /United States of America/
+烏拉圭 乌拉圭 [wu1 la1 gui1] /Uruguay/
+烏茲別克斯坦 乌兹别克斯坦 [wu1 zi1 bie2 ke4 si1 tan3] /Uzbekistan/
+瓦努阿圖 瓦努阿图 [wa3 nu3 a1 tu2] /Vanuatu/
+委內瑞拉 委内瑞拉 [wei3 nei4 rui4 la1] /Venezuela/
+越南 越南 [yue4 nan2] /Viet Nam/
+英屬維爾京群島 英属维尔京群岛 [ying1 shu3 wei2 er3 jing1 qun2 dao3] /Virgin Islands/
+瓦利斯和富圖納群島 瓦利斯和富图纳群岛 [wa3 li4 si1 he2 fu4 tu2 na4 qun2 dao3] /Wallis and Futuna/
+西撒哈拉 西撒哈拉 [xi1 sa1 ha1 la1] /Western Sahara/
+也門 也门 [ye3 men2] /Yemen/
+贊比亞 赞比亚 [zan4 bi3 ya4] /Zambia/
+津巴布韋 津巴布韦 [jin1 ba1 bu4 wei2] /Zimbabwe/

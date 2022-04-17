@@ -1,0 +1,22 @@
+# vocab-cmn-food-bakery.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+曲奇餅 曲奇饼 [qu1 qi2 bing3] /cookie/
+甜甜圈 甜甜圈 [tian2 tian2 quan1] /doughnut/
+羊角麵包 羊角面包 [yang2 jiao3 mian4 bao1] /croissant/
+貝果 贝果 [bei4 guo3] /bagel/
+窩夫 窝夫 [wo1 fu1] /waffle/
+油條 油条 [you2 tiao2] /fritter/
+玉米麵包 玉米面包 [yu4 mi3 mian4 bao1] /cornbread/
+水果蛋糕 水果蛋糕 [shui3 guo3 dan4 gao1] /shortcake/
+紙杯蛋糕 纸杯蛋糕 [zhi3 bei1 dan4 gao1] /cupcake/

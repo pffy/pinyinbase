@@ -1,0 +1,25 @@
+# vocab-cmn-astrology-zodiac-birthstones.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+石榴石 石榴石 [shi2 liu5 shi2] /garnet/
+紫晶 紫晶 [zi3 jing1] /amethyst/
+雞血石 鸡血石 [ji1 xue4 shi2] /bloodstone/
+藍寶石 蓝宝石 [lan2 bao3 shi2] /sapphire/
+瑪瑙 玛瑙 [ma3 nao3] /agate/
+翡翠 翡翠 [fei3 cui4] /emerald/
+縞瑪瑙 缟玛瑙 [gao3 ma3 nao3] /onyx/
+瑪瑙 玛瑙 [ma3 nao3] /carnelian/
+貴橄欖石 贵橄榄石 [gui4 gan3 lan3 shi2] /chrysolite/
+貝爾 贝尔 [bei4 er3] /berl/
+黃玉 黄玉 [huang2 yu4] /topaz/
+紅寶石 红宝石 [hong2 bao3 shi2] /ruby/

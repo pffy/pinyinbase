@@ -1,0 +1,17 @@
+# vocab-cmn-sci-temperature-scales.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+華氏 华氏 [hua2 shi4] /Fahrenheit/
+開氏 开氏 [kai1 shi4] /Kelvin/
+蘭氏 兰氏 [lan2 shi4] /Rankine/
+攝氏 摄氏 [she4 shi4] /Celsius/

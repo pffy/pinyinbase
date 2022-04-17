@@ -1,0 +1,19 @@
+# vocab-cmn-geo-hk-politics-publicoffice.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+政務 政务 [zheng4 wu4] /government affairs/
+特首 特首 [te4 shou3] /chief executive/
+政務司司長 政务司司长 [zheng4 wu4 si1 si1 zhang3] /government affairs secretary/
+特首候選人 特首候选人 [te4 shou3 hou4 xuan3 ren2] /chief executive candidate/
+前政務可可長 前政务可可长 [qian2 zheng4 wu4 ke3 ke3 chang2] /former government affairs secretary/
+前特首候選人 前特首候选人 [qian2 te4 shou3 hou4 xuan3 ren2] /former chief executive candidate/

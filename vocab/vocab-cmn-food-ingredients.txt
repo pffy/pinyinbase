@@ -1,0 +1,40 @@
+# vocab-cmn-food-ingredients.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+草莓粉 草莓粉 [cao3 mei2 fen3] /Strawberry Powder/
+純香草粉 纯香草粉 [chun2 xiang1 cao3 fen3] /Vanilla Powder/
+黑芝麻糊 黑芝麻糊 [hei1 zhi1 ma5 hu2] /Black Sesame Powder/
+雞蛋奶茶粉 鸡蛋奶茶粉 [ji1 dan4 nai3 cha2 fen3] /Egg Milk Tea Powder/
+摩卡粉 摩卡粉 [mo2 ka3 fen3] /Mocha Powder/
+茉香奶茶 茉香奶茶 [mo4 xiang1 nai3 cha2] /Jasmine Green Tea Powder/
+木瓜粉 木瓜粉 [mu4 gua1 fen3] /Papaya powder/
+拿鐵粉 拿铁粉 [na2 tie3 fen3] /Latte Powder/
+奶蓋粉 奶盖粉 [nai3 gai4 fen3] /Flossy Powder/
+奶蓋粉 奶盖粉 [nai3 gai4 fen3] /Cheese Powder/
+巧克力粉 巧克力粉 [qiao3 ke4 li4 fen3] /Chocolate Powder/
+沙冰粉 沙冰粉 [sha1 bing1 fen3] /Smoothie Powder/
+特級芋頭粉 特级芋头粉 [te4 ji2 yu4 tou5 fen3] /Super Taro Powder/
+西瓜粉 西瓜粉 [xi1 gua1 fen3] /WaterMelon Powder/
+薰衣草奶茶 薰衣草奶茶 [xun1 yi1 cao3 nai3 cha2] /Lavender Powder/
+椰香粉 椰香粉 [ye2 xiang1 fen3] /Coconut Powder/
+芋頭粉 芋头粉 [yu4 tou5 fen3] /Taro Powder/
+杏仁粉 杏仁粉 [xing4 ren2 fen3] /almond powder/
+純可可粉 纯可可粉 [chun2 ke3 ke3 fen3] /pure cocoa powder/
+純可可粉 纯可可粉 [chun2 ke3 ke3 fen3] /pure chocolate powder/
+三花奶精 三花奶精 [san1 hua1 nai3 jing1] /Carnation coffee cream/
+金獅奶精 金狮奶精 [jin1 shi1 nai3 jing1] /Gold Lion coffee creamer/
+椰子粉 椰子粉 [ye1 zi5 fen3] /coconut flour/
+全麥地板 全麦地板 [quan2 mai4 di4 ban3] /whole wheat floor/
+米粉 米粉 [mi3 fen3] /rice flour/
+亞麻籽 亚麻籽 [ya4 ma2 zi3] /flaxseed/
+藜麥 藜麦 [li2 mai4] /quinoa/

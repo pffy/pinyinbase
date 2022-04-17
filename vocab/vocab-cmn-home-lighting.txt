@@ -1,0 +1,17 @@
+# vocab-cmn-home-lighting.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+落地燈 落地灯 [luo4 di4 deng1] /floor lamp/
+檯燈 台灯 [tai2 deng1] /desk lamp/
+書架燈 书架灯 [shu1 jia4 deng1] /bookshelf lamp/
+鋼琴燈 钢琴灯 [gang1 qin2 deng1] /piano lamp/

@@ -1,0 +1,17 @@
+# vocab-cmn-tech-software-pinyininput.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+搜狗拼音輸入法 搜狗拼音输入法 [sou1 gou3 pin1 yin1 shu1 ru4 fa3] /Sogou Pinyin Input Method Editor/
+谷歌拼音輸入法 谷歌拼音输入法 [gu3 ge1 pin1 yin1 shu1 ru4 fa3] /Google Pinyin Input Method Editor/
+百度輸入法 百度输入法 [bai3 du4 shu1 ru4 fa3] /Baidu Pinyin Input Method Editor/
+微軟拼音輸入法 微软拼音输入法 [wei1 ruan3 pin1 yin1 shu1 ru4 fa3] /Microsoft Pinyin Input Method Editor/

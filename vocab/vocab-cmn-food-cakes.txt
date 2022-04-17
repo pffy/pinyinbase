@@ -1,0 +1,41 @@
+# vocab-cmn-food-cakes.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+蜂蜜蛋糕 蜂蜜蛋糕 [feng1 mi4 dan4 gao1] /honey castella cake/
+蜂蜜蛋糕 蜂蜜蛋糕 [feng1 mi4 dan4 gao1] /honey kasutera cake/
+竹碳蛋糕 竹碳蛋糕 [zhu2 tan4 dan4 gao1] /bamboo charcoal cake/
+冰淇淋蛋糕 冰淇淋蛋糕 [bing1 qi2 lin2 dan4 gao1] /ice cream cake/
+布朗尼 布朗尼 [bu4 lang3 ni2] /brownie/
+蜂蜜蛋糕 蜂蜜蛋糕 [feng1 mi4 dan4 gao1] /honey cake/
+蜂蜜烙印蛋糕 蜂蜜烙印蛋糕 [feng1 mi4 lao4 yin4 dan4 gao1] /hot stamp honey cake/
+核桃‧桂圓蛋糕 核桃‧桂圆蛋糕 [he2 tao5 ‧ gui4 yuan2 dan4 gao1] /walnut longan cake/
+季節限定款 季节限定款 [ji4 jie2 xian4 ding4 kuan3] /seasonal cake/
+巧克力蛋糕 巧克力蛋糕 [qiao3 ke4 li4 dan4 gao1] /chocolate cake/
+天使蛋糕 天使蛋糕 [tian1 shi3 dan4 gao1] /angel cake/
+天使蛋糕 天使蛋糕 [tian1 shi3 dan4 gao1] /angel food cake/
+鮮奶油蛋糕 鲜奶油蛋糕 [xian1 nai3 you2 dan4 gao1] /cream cake/
+相片蛋糕 相片蛋糕 [xiang4 pian4 dan4 gao1] /photo cake/
+藝術蛋糕 艺术蛋糕 [yi4 shu4 dan4 gao1] /decorative cake/
+藝術蛋糕 艺术蛋糕 [yi4 shu4 dan4 gao1] /art cake/
+重乳酪蛋糕 重乳酪蛋糕 [zhong4 ru3 lao4 dan4 gao1] /cheesecake/
+提拉米蘇 提拉米苏 [ti2 la1 mi3 su1] /tiramisu/
+生日蛋糕 生日蛋糕 [sheng1 ri4 dan4 gao1] /birthday cake/
+婚禮蛋糕 婚礼蛋糕 [hun1 li3 dan4 gao1] /wedding cake/
+天使蛋糕 天使蛋糕 [tian1 shi3 dan4 gao1] /angel food cake/
+德國巧克力蛋糕 德国巧克力蛋糕 [de2 guo2 qiao3 ke4 li4 dan4 gao1] /German chocolate cake/
+檸檬蛋糕 柠檬蛋糕 [ning2 meng2 dan4 gao1] /lemon cake/
+蘿蔔糕 萝卜糕 [luo2 bo5 gao1] /carrot cake/
+南瓜餅 南瓜饼 [nan2 gua1 bing3] /pumpkin cake/
+紅色天鵝絨蛋糕 红色天鹅绒蛋糕 [hong2 se4 tian1 e2 rong2 dan4 gao1] /red velvet cake/
+迷你餅 迷你饼 [mi2 ni3 bing3] /mini cake/
+切餅 切饼 [qie1 bing3] /cake slice/

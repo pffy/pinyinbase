@@ -1,0 +1,22 @@
+# vocab-cmn-jobs.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+司機 司机 [si1 ji1] /driver/
+水管工人 水管工人 [shui3 guan3 gong1 ren2] /plumber/
+醫生 医生 [yi1 sheng1] /doctor/
+警官 警官 [jing3 guan1] /police officer/
+消防隊員 消防队员 [xiao1 fang2 dui4 yuan2] /firefighter/
+醫務人員 医务人员 [yi1 wu4 ren2 yuan2] /paramedic/
+記者 记者 [ji4 zhe3] /journalist/
+新聞報導 新闻报道 [xin1 wen2 bao4 dao4] /news reporter/
+新聞編輯 新闻编辑 [xin1 wen2 bian1 ji2] /news editor/

@@ -1,0 +1,16 @@
+# vocab-cmn-food-softdrinks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+激浪 激浪 [ji1 lang4] /Mountain Dew/
+百事可樂 百事可乐 [bai3 shi4 ke3 le4] /Pepsi/
+可口可樂 可口可乐 [ke3 kou3 ke3 le4] /Coca-Cola/

@@ -1,0 +1,33 @@
+# vocab-cmn-calendar-timeword.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+今天 今天 [jin1 tian1] /today/
+明天 明天 [ming2 tian1] /tomorrow/
+後天 后天 [hou4 tian1] /the day after tomorrow/
+昨天 昨天 [zuo2 tian1] /yesterday/
+前天 前天 [qian2 tian1] /the day before yesterday/
+本星期 本星期 [ben3 xing1 qi1] /this week/
+下週 下周 [xia4 zhou1] /next week/
+下週後一周 下周后一周 [xia4 zhou1 hou4 yi1 zhou1] /the week after next week/
+上星期 上星期 [shang4 xing1 qi1] /last week/
+上上個星期 上上个星期 [shang4 shang4 ge5 xing1 qi1] /the week before last week/
+這個月 这个月 [zhe4 ge5 yue4] /this month/
+下個月 下个月 [xia4 ge4 yue4] /next month/
+下下個月 下下个月 [xia4 xia4 ge4 yue4] /the month after next month/
+上個月 上个月 [shang4 ge5 yue4] /last month/
+上上個月 上上个月 [shang4 shang4 ge5 yue4] /the month before last month/
+今年 今年 [jin1 nian2] /this year/
+明年 明年 [ming2 nian2] /next year/
+後年 后年 [hou4 nian2] /the year after next year/
+去年 去年 [qu4 nian2] /last year/
+前年 前年 [qian2 nian2] /the year before last year/

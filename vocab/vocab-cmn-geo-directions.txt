@@ -1,0 +1,17 @@
+# vocab-cmn-geo-directions.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+東 东 [dong1] /east/
+南 南 [nan2] /south/
+西 西 [xi1] /west/
+北 北 [bei3] /north/

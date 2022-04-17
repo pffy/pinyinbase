@@ -1,0 +1,20 @@
+# vocab-cmn-arch-features.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+電梯 电梯 [dian4 ti1] /elevator/
+自動樓梯 自动楼梯 [zi4 dong4 lou2 ti1] /escalator/
+旅客捷運系統 旅客捷运系统 [luu3 ke4 jie2 yun4 xi4 tong3] /automated people mover/
+樓梯 楼梯 [lou2 ti1] /stairs/
+階梯 阶梯 [jie1 ti1] /ladder/
+出口 出口 [chu1 kou3] /exit/
+入口 入口 [ru4 kou3] /entrance/

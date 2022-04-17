@@ -1,0 +1,18 @@
+# vocab-cmn-geo-us-tech-fivekingdoms.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+谷歌 谷歌 [gu3 ge1] /Google/
+臉書 脸书 [lian3 shu1] /Facebook/
+推特 推特 [tui1 te4] /Twitter/
+微軟 微软 [wei1 ruan3] /Microsoft/
+雅虎 雅虎 [ya3 hu3] /Yahoo/

@@ -1,0 +1,16 @@
+# vocab-cmn-edu-levels.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+小學 小学 [xiao3 xue2] /primary school/
+中學 中学 [zhong1 xue2] /secondary school/
+大學 大学 [da4 xue2] /university/

@@ -1,0 +1,116 @@
+# vocab-cmn-sci-elements-periodictable.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+氫 氢 [qing1] /Hydrogen/
+氦 氦 [hai4] /Helium/
+鋰 锂 [li3] /Lithium/
+鈹 铍 [pi2] /Beryllium/
+硼 硼 [peng2] /Boron/
+碳 碳 [tan4] /Carbon/
+氮 氮 [dan4] /Nitrogen/
+氧 氧 [yang3] /Oxygen/
+氟 氟 [fu2] /Fluorine/
+氖 氖 [nai3] /Neon/
+鈉 钠 [na4] /Sodium/
+鎂 镁 [mei3] /Magnesium/
+鋁 铝 [luu3] /Aluminium/
+矽 矽 [xi4] /Silicon/
+磷 磷 [lin2] /Phosphorus/
+硫 硫 [liu2] /Sulfur/
+氯 氯 [lu4] /Chlorine/
+氬 氩 [ya4] /Argon/
+鉀 钾 [jia3] /Potassium/
+鈣 钙 [gai4] /Calcium/
+鈧 钪 [kang4] /Scandium/
+鈦 钛 [tai4] /Titanium/
+釩 钒 [fan2] /Vanadium/
+鉻 铬 [ge4] /Chromium/
+錳 锰 [meng3] /Manganese/
+鐵 铁 [tie3] /Iron/
+鈷 钴 [gu3] /Cobalt/
+鎳 镍 [nie4] /Nickel/
+銅 铜 [tong2] /Copper/
+鋅 锌 [xin1] /Zinc/
+鎵 镓 [jia1] /Gallium/
+鍺 锗 [zhe3] /Germanium/
+砷 砷 [shen1] /Arsenic/
+硒 硒 [xi1] /Selenium/
+溴 溴 [xiu4] /Bromine/
+氪 氪 [ke4] /Krypton/
+銣 铷 [ru2] /Rubidium/
+鍶 锶 [si1] /Strontium/
+釔 钇 [yi3] /Yttrium/
+鋯 锆 [gao4] /Zirconium/
+鈮 铌 [ni2] /Niobium/
+鉬 钼 [mu4] /Molybdenum/
+鎝 鎝 [ta3] /Technetium/
+釕 钌 [liao3] /Ruthenium/
+銠 铑 [lao3] /Rhodium/
+鈀 钯 [ba3] /Palladium/
+銀 银 [yin2] /Silver/
+鎘 镉 [ge2] /Cadmium/
+銦 铟 [yin1] /Indium/
+錫 锡 [xi1] /Tin/
+銻 锑 [ti4] /Antimony/
+碲 碲 [di4] /Tellurium/
+碘 碘 [dian3] /Iodine/
+氙 氙 [xian1] /Xenon/
+銫 铯 [se4] /Caesium/
+鋇 钡 [bei4] /Barium/
+鑭 镧 [lan4] /Lanthanum/
+鈰 铈 [shi4] /Cerium/
+鐠 鐠 [pu3] /Praseodymium/
+釹 钕 [nuu3] /Neodymium/
+鉕 鉕 [po1] /Promethium/
+釤 钐 [shan4] /Samarium/
+銪 铕 [you3] /Europium/
+釓 釓 [ga2] /Gadolinium/
+鋱 鋱 [te4] /Terbium/
+鏑 镝 [di2] /Dysprosium/
+鈥 鈥 [huo2] /Holmium/
+鉺 铒 [er3] /Erbium/
+銩 銩 [diu1] /Thulium/
+鐿 镱 [yi4] /Ytterbium/
+鎦 镏 [liu2] /Lutetium/
+鉿 铪 [jia2] /Hafnium/
+鉭 钽 [dan4] /Tantalum/
+鎢 钨 [wu1] /Tungsten/
+錸 铼 [lai2] /Rhenium/
+鋨 锇 [e2] /Osmium/
+銥 铱 [yi1] /Iridium/
+鉑 铂 [bo2] /Platinum/
+金 金 [jin1] /Gold/
+汞 汞 [gong3] /Mercury/
+鉈 铊 [tuo2] /Thallium/
+鉛 铅 [qian1] /Lead/
+鉍 铋 [bi4] /Bismuth/
+釙 钋 [po1] /Polonium/
+砈 砈 [e3] /Astatine/
+氡 氡 [dong1] /Radon/
+鍅 鍅 [fa5] /Francium/
+鐳 镭 [lei2] /Radium/
+錒 锕 [e1] /Actinium/
+釷 钍 [tu3] /Thorium/
+鏷 鏷 [pu2] /Protactinium/
+鈾 铀 [you2] /Uranium/
+錼 錼 [nai4] /Neptunium/
+鈽 钸 [bu4] /Plutonium/
+鋂 鋂 [mei2] /Americium/
+鋦 鋦 [ju2] /Curium/
+鉳 鉳 [bei3] /Berkelium/
+鉲 鉲 [ka1] /Californium/
+鑀 鑀 [ai4] /Einsteinium/
+鐨 镄 [fei4] /Fermium/
+鍆 钔 [men2] /Mendelevium/
+鍩 鍩 [tian3] /Nobelium/
+鐒 鐒 [lao2] /Lawrencium/

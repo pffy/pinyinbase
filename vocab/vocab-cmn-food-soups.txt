@@ -1,0 +1,27 @@
+# vocab-cmn-food-soups.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+蕃茄湯 蕃茄汤 [fan1 qie2 tang1] /tomato soup/
+雞肉麵條湯 鸡肉面条汤 [ji1 rou4 mian4 tiao2 tang1] /chicken noodle soup/
+蘑菇湯 蘑菇汤 [mo2 gu5 tang1] /mushroom soup/
+蘿蔔湯 萝卜汤 [luo2 bo5 tang1] /carrot soup/
+豌豆湯 豌豆汤 [wan1 dou4 tang1] /pea soup/
+鮮蝦淨雲呑 鲜虾净云呑 [xian1 xia1 jing4 yun2 tun1] /Shrimp Wonton Soup/
+鮮蝦雲呑麵 鲜虾云呑面 [xian1 xia1 yun2 tun1 mian4] /Shrimp Wonton Noodle in Soup/
+爽滑魚丸麵 爽滑鱼丸面 [shuang3 hua2 yu2 wan2 mian4] /Fish Ball Noodle in Soup/
+爽滑牛丸麵 爽滑牛丸面 [shuang3 hua2 niu2 wan2 mian4] /Beef Ball Noodle in Soup/
+柱侯牛腩麵 柱侯牛腩面 [zhu4 hou2 niu2 nan3 mian4] /Beef Brisket Noodle in Soup/
+薑蔥牛肉麵 姜葱牛肉面 [jiang1 cong1 niu2 rou4 mian4] /Beef Ginger & Green Onion Soup/
+吉列豬扒麺 吉列猪扒麺 [ji2 lie4 zhu1 ba1 mian4] /Pork Cutlet Noodle in Soup/
+咖哩牛腩麵 咖喱牛腩面 [ga1 li2 niu2 nan3 mian4] /Curry Brisket Noodle in Soup/
+墨魚丸湯麵 墨鱼丸汤面 [mo4 yu2 wan2 tang1 mian4] /Cuttlefish Ball Noodle in Soup/

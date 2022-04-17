@@ -1,0 +1,25 @@
+# vocab-cmn-calendar-shengxiao.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+狗年 狗年 [gou3 nian2] /Year of the Dog/
+龍年 龙年 [long2 nian2] /Year of the Dragon/
+羊年 羊年 [yang2 nian2] /Year of the Goat/
+馬年 马年 [ma3 nian2] /Year of the Horse/
+猴年 猴年 [hou2 nian2] /Year of the Monkey/
+牛年 牛年 [niu2 nian2] /Year of the Ox/
+豬年 猪年 [zhu1 nian2] /Year of the Pig/
+兔年 兔年 [tu4 nian2] /Year of the Rabbit/
+鼠年 鼠年 [shu3 nian2] /Year of the Rat/
+雞年 鸡年 [ji1 nian2] /Year of the Rooster/
+蛇年 蛇年 [she2 nian2] /Year of the Snake/
+虎年 虎年 [hu3 nian2] /Year of the Tiger/

@@ -1,0 +1,19 @@
+# vocab-cmn-events-movies.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+電影 电影 [dian4 ying3] /movie/
+電影票 电影票 [dian4 ying3 piao4] /movie ticket/
+電影評級 电影评级 [dian4 ying3 ping2 ji2] /movie rating/
+電影優惠 电影优惠 [dian4 ying3 you1 hui4] /movie concessions/
+電影原聲 电影原声 [dian4 ying3 yuan2 sheng1] /movie soundtrack/
+電影院 电影院 [dian4 ying3 yuan4] /movie theather/

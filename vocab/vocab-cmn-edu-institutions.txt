@@ -1,0 +1,25 @@
+# vocab-cmn-edu-institutions.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+中學 中学 [zhong1 xue2] /high school/
+大學預備學院 大学预备学院 [da4 xue2 yu4 bei4 xue2 yuan4] /college preparatory academy/
+職業學校 职业学校 [zhi2 ye4 xue2 xiao4] /vocational school/
+暑期學校 暑期学校 [shu3 qi1 xue2 xiao4] /summer school/
+冬季學校 冬季学校 [dong1 ji4 xue2 xiao4] /winter school/
+週末學校 周末学校 [zhou1 mo4 xue2 xiao4] /weekend school/
+中學 中学 [zhong1 xue2] /middle school/
+私立學校 私立学校 [si1 li4 xue2 xiao4] /private school/
+公立學校 公立学校 [gong1 li4 xue2 xiao4] /public school/
+軍校 军校 [jun1 xiao4] /military academy/
+警校 警校 [jing3 xiao4] /police academy/
+補習班 补习班 [bu3 xi2 ban1] /cram school/

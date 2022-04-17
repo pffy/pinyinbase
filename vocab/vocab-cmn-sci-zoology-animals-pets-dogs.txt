@@ -1,0 +1,15 @@
+# vocab-cmn-sci-zoology-animals-pets-dogs.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+金毛尋回犬 金毛寻回犬 [jin1 mao2 xun2 hui2 quan3] /Golden Retriever dog/
+拉布拉多犬 拉布拉多犬 [la1 bu4 la1 duo1 quan3] /Labrador Retriever dog/

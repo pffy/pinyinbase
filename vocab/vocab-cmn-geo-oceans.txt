@@ -1,0 +1,18 @@
+# vocab-cmn-geo-oceans.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+太平洋 太平洋 [tai4 ping2 yang2] /Pacific Ocean/
+大西洋 大西洋 [da4 xi1 yang2] /Atlantic Ocean/
+印度洋 印度洋 [yin4 du4 yang2] /Indian Ocean/
+南大洋 南大洋 [nan2 da4 yang2] /Southern Ocean/
+北冰洋 北冰洋 [bei3 bing1 yang2] /Arctic Ocean/

@@ -1,0 +1,18 @@
+# vocab-cmn-finance-stocks-indexes.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+恆生指數 恒生指数 [heng2 sheng1 zhi3 shu4] /Hang Seng Index/
+道瓊斯工業平均指數 道琼斯工业平均指数 [dao4 qiong2 si1 gong1 ye4 ping2 jun1 zhi3 shu4] /Dow Jones Industrial Average/
+納斯達克綜合指數 纳斯达克综合指数 [na4 si1 da2 ke4 zong1 he2 zhi3 shu4] /NASDAQ Composite Index/
+上證綜指 上证综指 [shang4 zheng4 zong1 zhi3] /Shanghai Stock Exchange Composite Index/
+深圳證券交易所 深圳证券交易所 [shen1 zhen4 zheng4 quan4 jiao1 yi4 suo3] /Shenzhen Stock Exchange Composite Index/

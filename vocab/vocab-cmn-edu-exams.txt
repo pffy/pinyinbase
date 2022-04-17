@@ -1,0 +1,17 @@
+# vocab-cmn-edu-exams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+漢語水平考試 汉语水平考试 [han4 yu3 shui3 ping2 kao3 shi4] /Hanyu Shuiping Kaoshi/HSK/
+學習能力傾向測驗 学习能力倾向测验 [xue2 xi2 neng2 li4 qing1 xiang4 ce4 yan4] /Scholastic Aptitude Test/SAT/
+高級分班考試 高级分班考试 [gao1 ji2 fen1 ban1 kao3 shi4] /Advanced Placement Test/AP Test/
+高考 高考 [gao1 kao3] /gaokao/

@@ -1,0 +1,17 @@
+# vocab-cmn-apparel-accessories.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+傘 伞 [san3] /umbrella/
+帽子 帽子 [mao4 zi5] /hat/
+圓頂硬禮帽 圆顶硬礼帽 [yuan2 ding3 ying4 li3 mao4] /bowler hat/
+手杖 手杖 [shou3 zhang4] /walking cane/

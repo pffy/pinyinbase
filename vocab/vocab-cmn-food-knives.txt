@@ -1,0 +1,20 @@
+# vocab-cmn-food-knives.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+廚刀 厨刀 [chu2 dao1] /chef's knife/
+主廚刀 主厨刀 [zhu3 chu2 dao1] /chef's knife/
+削皮刀 削皮刀 [xue1 pi2 dao1] /paring knife/
+工具刀 工具刀 [gong1 ju4 dao1] /utility knife/
+去骨刀 去骨刀 [qu4 gu3 dao1] /boning knife/
+麵包刀 面包刀 [mian4 bao1 dao1] /bread knife/
+磨刀器 磨刀器 [mo2 dao1 qi4] /knife sharpener/

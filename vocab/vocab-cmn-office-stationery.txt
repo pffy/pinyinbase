@@ -1,0 +1,41 @@
+# vocab-cmn-office-stationery.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+半透明膠帶 半透明胶带 [ban4 tou4 ming2 jiao1 dai4] /translucent tape/
+筆記本 笔记本 [bi3 ji4 ben3] /notebook/
+詞典 词典 [ci2 dian3] /dictionary/
+詞庫 词库 [ci2 ku4] /thesaurus/
+打孔 打孔 [da3 kong3] /hole punch/
+訂書機 订书机 [ding4 shu1 ji1] /stapler/
+剪刀 剪刀 [jian3 dao1] /scissors/
+膠帶 胶带 [jiao1 dai4] /duct tape/
+膠水 胶水 [jiao1 shui3] /glue/
+開信刀 开信刀 [kai1 xin4 dao1] /letter opener/
+毛筆 毛笔 [mao2 bi3] /brush pen/
+美紋紙膠帶 美纹纸胶带 [mei3 wen2 zhi3 jiao1 dai4] /masking tape/
+鉛筆 铅笔 [qian1 bi3] /pencil/
+鉛筆盒 铅笔盒 [qian1 bi3 he2] /pencil box/
+日記 日记 [ri4 ji4] /diary/
+透明膠帶 透明胶带 [tou4 ming2 jiao1 dai4] /transparent tape/
+文具 文具 [wen2 ju4] /stationery/
+箱揭幕戰 箱揭幕战 [xiang1 jie1 mu4 zhan4] /box opener/
+橡皮 橡皮 [xiang4 pi2] /eraser/
+橡皮泥 橡皮泥 [xiang4 pi2 ni2] /rubber cement/
+袖珍計算器 袖珍计算器 [xiu4 zhen1 ji4 suan4 qi4] /pocket calculator/
+圓珠筆 圆珠笔 [yuan2 zhu1 bi3] /ball point pen/
+直尺 直尺 [zhi2 chi3] /ruler/
+紙 纸 [zhi3] /paper/
+中性筆 中性笔 [zhong1 xing4 bi3] /gel ink pen/
+桌面計算器 桌面计算器 [zhuo1 mian4 ji4 suan4 qi4] /desktop calculator/
+總賬 总账 [zong3 zhang4] /general ledger/
+信封 信封 [xin4 feng1] /envelope/

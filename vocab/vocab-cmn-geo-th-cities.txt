@@ -1,0 +1,49 @@
+# vocab-cmn-geo-th-cities.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿育跎耶 阿育跎耶 [a1 yu4 tuo2 ye1] /Ayutthaya/
+安納乍能 安纳乍能 [an1 na4 zha4 neng2] /Amnat Charoen/
+芭達亞 芭达亚 [ba1 da2 ya4] /Pattaya/
+白蒛 白蒛 [bai2 que1] /Pak Kret/
+北標 北标 [bei3 biao1] /Saraburi/
+北欖 北榄 [bei3 lan3] /Samut Prakan/
+春武里 春武里 [chun1 wu3 li3] /Chonburi/
+佛統 佛统 [fo2 tong3] /Nakhon Pathom/
+呵叻 呵叻 [he1 le4] /Nakhon Ratchasima/
+合艾 合艾 [he2 ai4] /Hat Yai/
+尖竹汶 尖竹汶 [jian1 zhu2 wen4] /Chanthaburi/
+空巒 空峦 [kong1 luan2] /Khlong Luang/
+坤敬 坤敬 [kun1 jing4] /Khon Kaen/
+叻丕 叻丕 [le4 pi1] /Ratchaburi/
+羅勇 罗勇 [luo2 yong3] /Rayong/
+洛坤 洛坤 [luo4 kun1] /Nakhon Si Tammarat/
+曼谷 曼谷 [man4 gu3] /Bangkok/
+曼谷 曼谷 [man4 gu3] /Krung Thep/
+那空沙旺 那空沙旺 [na4 kong1 sha1 wang4] /Nakhon Sawan/
+南邦 南邦 [nan2 bang1] /Lampang/
+暖武里 暖武里 [nuan3 wu3 li3] /Nonthaburi/
+拍芭甸 拍芭甸 [pai1 ba1 dian4] /Phra Pradaeng/
+彭世洛 彭世洛 [peng2 shi4 luo4] /Phitsanulok/
+普吉 普吉 [pu3 ji2] /Phuket/
+清萊 清莱 [qing1 lai2] /Chiang Rai/
+清邁 清迈 [qing1 mai4] /Chiang Mai/
+惹拉 惹拉 [re3 la1] /Yala/
+色軍 色军 [se4 jun1] /Sakon Nakhon/
+是拉差 是拉差 [shi4 la1 cha1] /Si Racha/
+宋卡 宋卡 [song4 ka3] /Songkhla/
+素叻 素叻 [su4 le4] /Surat Thani/
+挽奎 挽奎 [wan3 kui2] /Bang Kruai/
+烏隆他尼 乌隆他尼 [wu1 long2 ta1 ni2] /Udon Thani/
+烏泰他尼 乌泰他尼 [wu1 tai4 ta1 ni2] /UThai Thani/
+烏汶 乌汶 [wu1 wen4] /Ubon Ratchathani/
+信雅武里 信雅武里 [xin4 ya3 wu3 li3] /Thanyaburi/

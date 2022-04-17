@@ -1,0 +1,15 @@
+# vocab-cmn-auto-parts.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+方向盤 方向盘 [fang1 xiang4 pan2] /steering wheel/
+擋風玻璃 挡风玻璃 [dang3 feng1 bo1 li5] /windshield/

@@ -1,0 +1,44 @@
+# vocab-cmn-calendar-daysofthemonth.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+一號 一号 [yi1 hao4] /Day 1/
+二號 二号 [er4 hao4] /Day 2/
+三號 三号 [san1 hao4] /Day 3/
+四號 四号 [si4 hao4] /Day 4/
+五號 五号 [wu3 hao4] /Day 5/
+六號 六号 [liu4 hao4] /Day 6/
+七號 七号 [qi1 hao4] /Day 7/
+八號 八号 [ba1 hao4] /Day 8/
+九號 九号 [jiu3 hao4] /Day 9/
+十號 十号 [shi2 hao4] /Day 10/
+十一號 十一号 [shi2 yi1 hao4] /Day 11/
+十二號 十二号 [shi2 er4 hao4] /Day 12/
+十三號 十三号 [shi2 san1 hao4] /Day 13/
+十四號 十四号 [shi2 si4 hao4] /Day 14/
+十五號 十五号 [shi2 wu3 hao4] /Day 15/
+十六號 十六号 [shi2 liu4 hao4] /Day 16/
+十七號 十七号 [shi2 qi1 hao4] /Day 17/
+十八號 十八号 [shi2 ba1 hao4] /Day 18/
+十九號 十九号 [shi2 jiu3 hao4] /Day 19/
+二十號 二十号 [er4 shi2 hao4] /Day 20/
+二十一號 二十一号 [er4 shi2 yi1 hao4] /Day 21/
+二十二號 二十二号 [er4 shi2 er4 hao4] /Day 22/
+二十三號 二十三号 [er4 shi2 san1 hao4] /Day 23/
+二十四號 二十四号 [er4 shi2 si4 hao4] /Day 24/
+二十五號 二十五号 [er4 shi2 wu3 hao4] /Day 25/
+二十六號 二十六号 [er4 shi2 liu4 hao4] /Day 26/
+二十七號 二十七号 [er4 shi2 qi1 hao4] /Day 27/
+二十八號 二十八号 [er4 shi2 ba1 hao4] /Day 28/
+二十九號 二十九号 [er4 shi2 jiu3 hao4] /Day 29/
+三十號 三十号 [san1 shi2 hao4] /Day 30/
+三十一號 三十一号 [san1 shi2 yi1 hao4] /Day 31/

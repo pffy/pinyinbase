@@ -1,0 +1,17 @@
+# vocab-cmn-make-powertools.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+禁止鋸 禁止锯 [jin4 zhi3 ju4] /ban saw/
+電鑽 电钻 [dian4 zuan1] /power drill/
+釘槍 钉枪 [ding1 qiang1] /nail gun/
+砂光機 砂光机 [sha1 guang1 ji1] /belt sander/

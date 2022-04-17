@@ -1,0 +1,79 @@
+# vocab-cmn-auto-brands.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿爾法羅米歐 阿尔法罗米欧 [a1 er3 fa3 luo2 mi3 ou1] /Alfa Romeo/
+阿斯頓馬丁 阿斯顿马丁 [a1 si1 dun4 ma3 ding1] /Aston Martin/
+奧迪 奥迪 [ao4 di2] /Audi/
+寶馬 宝马 [bao3 ma3] /BMW/
+保時捷 保时捷 [bao3 shi2 jie2] /Porsche/
+奔馳 奔驰 [ben1 chi2] /Mercedes-Benz/
+奔馳 奔驰 [ben1 chi2] /Benz/
+本田 本田 [ben3 tian2] /Honda/
+標致 标致 [biao1 zhi5] /Peugeot/
+別克 别克 [bie2 ke4] /Buick/
+賓利 宾利 [bin1 li4] /Bentley/
+布加迪 布加迪 [bu4 jia1 di2] /Bugatti/
+大發 大发 [da4 fa3] /Daihatsu/
+大宇 大宇 [da4 yu3] /Daewoo/
+大眾 大众 [da4 zhong4] /Volkswagen/
+道奇 道奇 [dao4 qi2] /Dodge/
+法拉利 法拉利 [fa3 la1 li4] /Ferrari/
+菲亞特 菲亚特 [fei1 ya4 te4] /Fiat/
+豐田 丰田 [feng1 tian2] /Toyota/
+福特 福特 [fu2 te4] /Ford/
+富豪 富豪 [fu4 hao2] /Volvo/
+富士 富士 [fu4 shi4] /Subaru/
+悍馬 悍马 [han4 ma3] /Hummer/
+吉普 吉普 [ji2 pu3] /Jeep/
+捷豹 捷豹 [jie2 bao4] /Jaguar/
+精靈 精灵 [jing1 ling2] /Smart/
+卡迪拉克 卡迪拉克 [ka3 di2 la1 ke4] /Cadillac/
+凱迪拉克 凯迪拉克 [kai3 di2 la1 ke4] /Cadillac/
+克萊斯勒 克莱斯勒 [ke4 lai2 si1 le4] /Chrysler/
+藍伯基尼 蓝伯基尼 [lan2 bo2 ji1 ni2] /Lamborghini/
+藍旗亞 蓝旗亚 [lan2 qi2 ya4] /Lancia/
+勞斯萊斯 劳斯莱斯 [lao2 si1 lai2 si1] /Rolls-royce/
+雷克薩斯 雷克萨斯 [lei2 ke4 sa4 si1] /Lexus/
+雷諾 雷诺 [lei2 nuo4] /Renault/
+林肯 林肯 [lin2 ken3] /Lincoln/
+鈴木 铃木 [ling2 mu4] /Suzuki/
+路虎 路虎 [lu4 hu3] /Land Rover/
+羅爾斯羅伊斯 罗尔斯罗伊斯 [luo2 er3 si1 luo2 yi1 si1] /Rolls-Royce/
+羅孚 罗孚 [luo2 fu2] /Rover/
+瑪莎拉蒂 玛莎拉蒂 [ma3 sha1 la1 di4] /Maserati/
+馬自達 马自达 [ma3 zi4 da2] /Mazda/
+邁巴赫 迈巴赫 [mai4 ba1 he4] /Maybach/
+梅賽德斯-奔馳 梅赛德斯-奔驰 [mei2 sai4 de2 si1 - ben1 chi2] /Mercedes-Benz/
+迷你 迷你 [mi2 ni3] /Mini/
+歐寶 欧宝 [ou1 bao3] /Opel/
+起亞 起亚 [qi3 ya4] /Kia/
+日產 日产 [ri4 chan3] /Nissan/
+薩博 萨博 [sa4 bo2] /Saab/
+三菱 三菱 [san1 ling2] /Mitsubishi/
+桑塔納 桑塔纳 [sang1 ta3 na4] /Santana/
+紳寶 绅宝 [shen1 bao3] /Saab/
+雙龍 双龙 [shuang1 long2] /Ssangyong/
+水星 水星 [shui3 xing1] /Mercury/
+斯巴魯 斯巴鲁 [si1 ba1 lu3] /Subaru/
+斯柯達 斯柯达 [si1 ke1 da2] /Skoda/
+特斯拉 特斯拉 [te4 si1 la1] /Tesla/
+土星 土星 [tu3 xing1] /Saturn/
+沃爾沃 沃尔沃 [wo4 er3 wo4] /Volvo/
+沃克斯豪爾 沃克斯豪尔 [wo4 ke4 si1 hao2 er3] /Vauxhall/
+五十鈴 五十铃 [wu3 shi2 ling2] /Isuzu/
+西雅特 西雅特 [xi1 ya3 te4] /Seat/
+現代 现代 [xian4 dai4] /Hyundai/
+雪佛萊 雪佛莱 [xue3 fo2 lai2] /Chevroler/
+雪佛蘭 雪佛兰 [xue3 fo2 lan2] /Chevrolet/
+雪鐵龍 雪铁龙 [xue3 tie3 long2] /Citroen/
+野馬 野马 [ye3 ma3] /Mustang/

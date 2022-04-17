@@ -1,0 +1,77 @@
+# vocab-cmn-geo-hk-food-qqrice.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+紫米飯 紫米饭 [zi3 mi3 fan4] /Purple Rice/
+五穀飯 五谷​​饭 [wu3 gu3 ​​ fan4] /Mixed Grain/
+糙米飯 糙米饭 [cao1 mi3 fan4] /Brown Rice/
+紅米飯 红米饭 [hong2 mi3 fan4] /Red Rice/
+小麥胚芽飯 小麦胚芽饭 [xiao3 mai4 pei1 ya2 fan4] /Wheat Germ Rice/
+冰湖野米飯 冰湖野米饭 [bing1 hu2 ye3 mi3 fan4] /Ice Lake Gourmet Rice/
+海苔肉鬆 海苔肉松 [hai3 tai2 rou4 song1] /Shredded Pork and Seaweed/
+肉鬆 肉松 [rou4 song1] /Dried Shredded Pork/
+黑椒豬柳 黑椒猪柳 [hei1 jiao1 zhu1 liu3] /Black Pepper Pork Strip/
+魯蛋 鲁蛋 [lu3 dan4] /Pot-Stewed Egg/
+熱狗腸 热狗肠 [re4 gou3 chang2] /Hot Dog Sausage/
+火腿 火腿 [huo3 tui3] /Ham/
+冰糖魯肉 冰糖鲁肉 [bing1 tang2 lu3 rou4] /Crystal Sugar Pot-Stewed Meat/
+三杯雞肉片 三杯鸡肉片 [san1 bei1 ji1 rou4 pian4] /Triple Delight Sliced Chicken/
+麻醬雞絲 麻酱鸡丝 [ma2 jiang4 ji1 si1] /Sliced Peanut Chicken/
+肉燥 肉燥 [rou4 zao4] /Pot-Stewed Ground Meat/
+煙燻鴨胸肉 烟熏鸭胸肉 [yan1 xun1 ya1 xiong1 rou4] /Smoked Duck Breasts/
+芝士 芝士 [zhi1 shi4] /Cheese/
+豬柳漢堡扒 猪柳汉堡扒 [zhu1 liu3 han4 bao3 ba1] /Pork Fillet/
+炭燒豬頸肉 炭烧猪颈肉 [tan4 shao1 zhu1 jing3 rou4] /Grilled Pig Neck Meat/
+燒汁牛肉 烧汁牛肉 [shao1 zhi1 niu2 rou4] /Sliced Beef with BBQ Sauce/
+韓式烤肉 韩式烤肉 [han2 shi4 kao3 rou4] /Korea Style Barbecue Pork/
+燒汁豬扒 烧汁猪扒 [shao1 zhi1 zhu1 ba1] /Pork Chop with Barbecue Sauce/
+紫魚 紫鱼 [zi3 yu2] /Japanese Style Dried Fish/
+魚鬆 鱼松 [yu2 song1] /Dried Forced Fish/
+吞拿魚 吞拿鱼 [tun1 na2 yu2] /Tuna Fish/
+紫菜 海苔 [hai3 tai2] /Seaweed/
+香菜酥 香菜酥 [xiang1 cai4 su1] /Crispy Caraway/
+幼筍 幼笋 [you4 sun3] /Delicious Bamboo Shoots/
+皇帝菜 皇帝菜 [huang2 di4 cai4] /Emperor Vegetable/
+海帶茅 海带茅 [hai3 dai4 mao2] /Seaweed Sprout/
+珍珠瓜片 珍珠瓜片 [zhen1 zhu1 gua1 pian4] /Sliced Pearl Cucumber/
+香菇絲 香菇丝 [xiang1 gu1 si1] /Sliced Mushroom/
+玉米 玉米 [yu4 mi3] /Sweet Corn/
+牛蒡絲 牛蒡丝 [niu2 bang4 si1] /Sliced Burdock/
+酸菜 酸菜 [suan1 cai4] /Sour Cabbage/
+梅乾素肉 梅干素肉 [mei2 gan1 su4 rou4] /Sweet Sour Vegetarian Meat/
+小黃瓜 小黄瓜 [xiao3 huang2 gua1] /Cucumber/
+榨菜絲 榨菜丝 [zha4 cai4 si1] /Szechuan Cabbage/
+草菇 草菇 [cao3 gu1] /Button Mushroom/
+泡菜 泡菜 [pao4 cai4] /Kimchee/
+紅腰豆 红腰豆 [hong2 yao1 dou4] /Red Kidney Bean/
+素沙茶雞 素沙茶鸡 [su4 sha1 cha2 ji1] /Vegetarian Chicken in Taiwanese Satay Sauce/
+辣豆腐 辣豆腐 [la4 dou4 fu5] /Spicy Bean Curd/
+甘蔔 甘卜 [gan1 bu3] /Carrot/
+木耳絲 木耳丝 [mu4 er3 si1] /Sliced Black Fungus/
+翠玉瓜 翠玉瓜 [cui4 yu4 gua1] /Zucchini/
+小麥胚芽 小麦胚芽 [xiao3 mai4 pei1 ya2] /Wheat Germ Powder/
+黑豆漿 黑豆浆 [hei1 dou4 jiang1] /Black Soybean Milk/
+紫米豆漿 紫米豆浆 [zi3 mi3 dou4 jiang1] /Purple Soybean Milk/
+有機豆漿 有机豆浆 [you3 ji1 dou4 jiang1] /Organic Soybean Milk/
+五穀米漿 五谷​​米浆 [wu3 gu3 ​​ mi3 jiang1] /Mixed Grain Rice Milk/
+燕麥豆漿 燕麦豆浆 [yan4 mai4 dou4 jiang1] /Oat Soybean Milk/
+養生糙米漿 养生糙米浆 [yang3 sheng1 cao1 mi3 jiang1] /Brown Rice Milk/
+杏仁薏仁露 杏仁薏仁露 [xing4 ren2 yi4 ren2 lu4] /Apricot Kernel Myotonin Milk/
+蘋果醋 苹果醋 [ping2 guo3 cu4] /Apple Vinegar/
+青梅醋 青梅醋 [qing1 mei2 cu4] /Green Plum Vinegar/
+香檸荷葉露 香柠荷叶露 [xiang1 ning2 he2 ye4 lu4] /Lemon-flavored Umbrella Leaf Juice/
+洛神花茶 洛神花茶 [luo4 shen2 hua1 cha2] /Roselle Tea/
+優米紫香布丁 优米紫香布丁 [you2 mi3 zi3 xiang1 bu4 ding1] /Purple Rice Pudding/
+鮮奶原味布丁 鲜奶原味布丁 [xian1 nai3 yuan2 wei4 bu4 ding1] /Traditional Milk Pudding/
+鮮奶紫米布丁 鲜奶紫米布丁 [xian1 nai3 zi3 mi3 bu4 ding1] /Purple Rice Milk Pudding/
+蒟蒻水果茶凍 蒟蒻水果茶冻 [ju3 ruo4 shui3 guo3 cha2 dong4] /Fresh Fruit Tea Jelly/
+紫米桂花糕 紫米桂花糕 [zi3 mi3 gui4 hua1 gao1] /Purple Rice with Sweet Osmanthus Pudding/

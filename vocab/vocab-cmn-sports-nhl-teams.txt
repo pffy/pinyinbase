@@ -1,0 +1,43 @@
+# vocab-cmn-sports-nhl-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿納海姆鴨 阿纳海姆鸭 [a1 na4 hai3 mu3 ya1] /Anaheim Ducks/
+埃德蒙頓油工 埃德蒙顿油工 [ai1 de2 meng2 dun4 you2 gong1] /Edmonton Oilers/
+波士頓熊 波士顿熊 [bo1 shi4 dun4 xiong2] /Boston Bruins/
+布法羅軍刀 布法罗军刀 [bu4 fa3 luo2 jun1 dao1] /Buffalo Sabres/
+達拉斯星 达拉斯星 [da2 la1 si1 xing1] /Dallas Stars/
+底特律紅翼 底特律红翼 [di3 te4 luu4 hong2 yi4] /Detroit Red Wings/
+多倫多楓葉 多伦多枫叶 [duo1 lun2 duo1 feng1 ye4] /Toronto Maple Leafs/
+費城飛人 费城飞人 [fei4 cheng2 fei1 ren2] /Philadelphia Flyers/
+佛羅裡達豹 佛罗里达豹 [fo2 luo2 li3 da2 bao4] /Florida Panthers/
+哥倫布藍衣 哥伦布蓝衣 [ge1 lun2 bu4 lan2 yi1] /Columbus Blue Jackets/
+華盛頓首都 华盛顿首都 [hua2 sheng4 dun4 shou3 du1] /Washington Capitals/
+卡爾加里火焰 卡尔加里火焰 [ka3 er3 jia1 li3 huo3 yan4] /Calgary Flames/
+卡羅來納颶風 卡罗来纳飓风 [ka3 luo2 lai2 na4 ju4 feng1] /Carolina Hurricanes/
+科羅拉多​​​​雪崩 科罗拉多​​雪崩 [ke1 luo2 la1 duo1 ​​ xue3 beng1] /Colorado Avalanche/
+洛杉磯國王 洛杉矶国王 [luo4 shan1 ji1 guo2 wang2] /Los Angeles Kings/
+蒙特利爾加拿大人 蒙特利尔加拿大人 [meng2 te4 li4 er3 jia1 na2 da4 ren5] /Montreal Canadiens/
+明尼蘇達狂野 明尼苏达狂野 [ming2 ni2 su1 da2 kuang2 ye3] /Minnesota Wild/
+納什維爾掠奪者 纳什维尔掠夺者 [na4 shen2 wei2 er3 luue4 duo2 zhe3] /Nashville Predators/
+紐約島民 纽约岛民 [niu3 yue1 dao3 min2] /New York Islanders/
+紐約遊騎兵隊 纽约游骑兵队 [niu3 yue1 you2 qi2 bing1 dui4] /New York Rangers/
+匹茲堡企鵝 匹兹堡企鹅 [pi3 zi1 bao3 qi3 e2] /Pittsburgh Penguins/
+聖何塞鯊魚 圣何塞鲨鱼 [sheng4 he2 sai1 sha1 yu2] /San Jose Sharks/
+聖路易斯藍調 圣路易斯蓝调 [sheng4 lu4 yi4 si1 lan2 diao4] /St. Louis Blues/
+坦帕灣閃電 坦帕湾闪电 [tan3 pa4 wan1 shan3 dian4] /Tampa Bay Lightning/
+溫哥華加人 温哥华加人 [wen1 ge1 hua2 jia1 ren2] /Vancouver Canucks/
+溫尼伯噴氣機 温尼伯喷气机 [wen1 ni2 bo2 pen1 qi4 ji1] /Winnipeg Jets/
+渥太華參議員 渥太华参议员 [wo4 tai4 hua2 can1 yi4 yuan2] /Ottawa Senators/
+新澤西惡魔 新泽西恶魔 [xin1 ze2 xi1 e4 mo2] /New Jersey Devils/
+亞利桑那州土狼 亚利桑那州土狼 [ya4 li4 sang1 na4 zhou1 tu3 lang2] /Arizona Coyotes/
+芝加哥黑鷹 芝加哥黑鹰 [zhi1 jia1 ge1 hei1 ying1] /Chicago Blackhawks/

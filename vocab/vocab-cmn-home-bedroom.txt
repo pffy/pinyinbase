@@ -1,0 +1,28 @@
+# vocab-cmn-home-bedroom.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+床 床 [chuang2] /bed/
+兩張大床 两张大床 [liang3 zhang1 da4 chuang2] /twin size bed/
+全尺寸的床 全尺寸的床 [quan2 chi3 cun5 de5 chuang2] /full size bed/
+大號床 大号床 [da4 hao4 chuang2] /queen size bed/
+特大號床 特大号床 [te4 da4 hao4 chuang2] /king size bed/
+書桌 书桌 [shu1 zhuo1] /study desk/
+檯燈 台灯 [tai2 deng1] /desk lamp/
+書架 书架 [shu1 jia4] /bookshelf/
+壁櫥 壁橱 [bi4 chu2] /closet/
+吊扇 吊扇 [diao4 shan4] /ceiling fan/
+床單 床单 [chuang2 dan1] /bed sheets/
+床毯 床毯 [chuang2 tan3] /bed blanket/
+枕頭 枕头 [zhen3 tou5] /pillow/
+枕頭套 枕头套 [zhen3 tou5 tao4] /pillow case/
+洗衣籃 洗衣篮 [xi3 yi1 lan2] /laundry hamper/

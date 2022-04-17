@@ -1,0 +1,27 @@
+# vocab-cmn-apparel-footwear.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+拖鞋 拖鞋 [tuo1 xie2] /slippers/
+禮服鞋 礼服鞋 [li3 fu2 xie2] /dress shoes/
+運動鞋 运动鞋 [yun4 dong4 xie2] /sneakers/
+球鞋 球鞋 [qiu2 xie2] /tennis shoes/
+籃球鞋 篮球鞋 [lan2 qiu2 xie2] /basketball shoes/
+保齡球鞋 保龄球鞋 [bao3 ling2 qiu2 xie2] /bowling shoes/
+滑板鞋 滑板鞋 [hua2 ban3 xie2] /skateboard shoes/
+棒球夾板 棒球夹板 [bang4 qiu2 jia1 ban3] /baseball cleats/
+足球鞋 足球鞋 [zu2 qiu2 xie2] /soccer cleats/
+室內足球鞋 室内足球鞋 [shi4 nei4 zu2 qiu2 xie2] /indoor soccer shoes/
+高跟鞋 高跟鞋 [gao1 gen1 xie2] /high heel shoes/
+鬆糕鞋 松糕鞋 [song1 gao1 xie2] /platform shoes/
+靴子 靴子 [xue1 zi5] /boots/
+船鞋 船鞋 [chuan2 xie2] /boat shoes/

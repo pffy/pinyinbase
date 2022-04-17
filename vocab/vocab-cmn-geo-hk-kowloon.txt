@@ -1,0 +1,74 @@
+# vocab-cmn-geo-hk-kowloon.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+淘大花園 淘大花园 [tao2 da4 hua1 yuan2] /Amoy Garden/
+茶果嶺 茶果岭 [cha2 guo3 ling3] /Cha Kwo Ling/
+長沙灣 长沙湾 [chang2 sha1 wan1] /Cheung Sha Wan/
+彩虹村 彩虹村 [cai3 hong2 cun1] /Choi Hung Estate/
+彩雲村 彩云村 [cai3 yun2 cun1] /Choi Wan Estate/
+鑽石山 钻石山 [zuan4 shi2 shan1] /Diamond Hill/
+何文田 何文田 [he2 wen2 tian2] /Ho Man Tin/
+紅磡 红磡 [hong2 kan4] /Hung Hom/
+佐敦地鐵站 佐敦地铁站 [zuo3 dun1 di4 tie3 zhan4] /Jordan MTR Station/
+約旦河谷 约旦河谷 [yue1 dan4 he2 gu3] /Jordan Valley/
+京士柏 京士柏 [jing1 shi4 bai3] /King's Park/
+九龍灣 九龙湾 [jiu3 long2 wan1] /Kowloon Bay/
+九龍城 九龙城 [jiu3 long2 cheng2] /Kowloon City/
+九龍城區 九龙城区 [jiu3 long2 cheng2 qu1] /Kowloon City District/
+九龍峰 九龙峰 [jiu3 long2 feng1] /Kowloon Peak/
+九龍塘 九龙塘 [jiu3 long2 tang2] /Kowloon Tong/
+九龍仔 九龙仔 [jiu3 long2 zi3] /Kowloon Tsai/
+官湧 官涌 [guan1 yong3] /Kwun Chung/
+觀塘 观塘 [guan4 tang2] /Kwun Tong/
+觀塘區 观塘区 [guan4 tang2 qu1] /Kwun Tong District/
+荔枝角 荔枝角 [li4 zhi1 jiao3] /Lai Chi Kok/
+藍田 蓝田 [lan2 tian2] /Lam Tin/
+樂富 乐富 [le4 fu4] /Lok Fu/
+馬頭角 马头角 [ma3 tou2 jiao3] /Ma Tau Kok/
+馬頭圍 马头围 [ma3 tou2 wei2] /Ma Tau Wai/
+美孚新村 美孚新村 [mei3 fu2 xin1 cun1] /Mei Foo Sun Chuen/
+旺角 旺角 [wang4 jiao3] /Mong Kok/
+南昌村 南昌村 [nan2 chang1 cun1] /Nam Cheong Estate/
+牛池灣 牛池湾 [niu2 chi2 wan1] /Ngau Chi Wan/
+牛池灣村 牛池湾村 [niu2 chi2 wan1 cun1] /Ngau Chi Wan Village/
+牛頭角 牛头角 [niu2 tou2 jiao3] /Ngau Tau Kok/
+安基苑 安基苑 [an1 ji1 yuan4] /On Kay Court/
+坪石 坪石 [ping2 shi2] /Ping Shek Estate/
+太子地鐵站 太子地铁站 [tai4 zi3 di4 tie3 zhan4] /Prince Edward MTR Station/
+新蒲崗 新蒲岗 [xin1 pu2 gang1] /San Po Kong/
+秀茂坪 秀茂坪 [xiu4 mao4 ping2] /Sau Mau Ping/
+匯景花園 汇景花园 [hui4 jing3 hua1 yuan2] /Sceneway Garden/
+深水埗 深水埗 [shen1 shui3 bu4] /Sham Shui Po/
+深水埗區 深水埗区 [shen1 shui3 bu4 qu1] /Sham Shui Po District/
+石硤尾 石硖尾 [shi2 xia2 wei3] /Shek Kip Mei/
+順緻苑 顺致苑 [shun4 zhi4 yuan4] /Shun Chi Court/
+順利村 顺利村 [shun4 li4 cun1] /Shun Lee Estate/
+順安村 顺安村 [shun4 an1 cun1] /Shun On Estate/
+順天村 顺天村 [shun4 tian1 cun1] /Shun Tin Estate/
+昂船洲 昂船洲 [ang2 chuan2 zhou1] /Stonecutters Island/
+大坑西村 大坑西村 [da4 keng1 xi1 cun1] /Tai Hang Sai Estate/
+大坑東村 大坑东村 [da4 keng1 dong1 cun1] /Tai Hang Tung Estate/
+大角咀 大角咀 [da4 jiao3 ju3] /Tai Kok Tsui/
+土瓜灣 土瓜湾 [tu3 gua1 wan1] /To Kwa Wan/
+尖沙咀 尖沙咀 [jian1 sha1 zui3] /Tsim Sha Tsui/
+尖沙咀東 尖沙咀东 [jian1 sha1 zui3 dong1] /Tsim Sha Tsui East/
+慈雲山 慈云山 [ci2 yun2 shan1] /Tsz Wan Shan/
+東頭村 东头村 [dong1 tou2 cun1] /Tung Tau Estate/
+橫頭磡 横头磡 [heng2 tou2 kan4] /Wang Tau Hom/
+黃埔花園 黄埔花园 [huang2 pu3 hua1 yuan2] /Whampoa Garden/
+黃大仙 黄大仙 [huang2 da4 xian1] /Wong Tai Sin/
+黃大仙區 黄大仙区 [huang2 da4 xian1 qu1] /Wong Tai Sin District/
+油麻地 油麻地 [you2 ma2 di4] /Yau Ma Tei/
+油塘 油塘 [you2 tang2] /Yau Tong/
+油尖旺區 油尖旺区 [you2 jian1 wang4 qu1] /Yau Tsim Mong District/
+又一村 又一村 [you4 yi1 cun1] /Yau Yat Chuen/

@@ -1,0 +1,18 @@
+# vocab-cmn-services-postoffice.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+郵政局 邮政局 [you2 zheng4 ju2] /post office/
+郵票 邮票 [you2 piao4] /postage stamp/
+郵資總付郵件 邮资总付邮件 [you2 zi1 zong3 fu4 you2 jian4] /metered mail/
+加蓋郵件 加盖邮件 [jia1 gai4 you2 jian4] /stamped mail/
+回信地址 回信地址 [hui2 xin4 di4 zhi3] /return address/

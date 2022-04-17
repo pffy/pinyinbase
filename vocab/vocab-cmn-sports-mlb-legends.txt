@@ -1,0 +1,18 @@
+# vocab-cmn-sports-mlb-legends.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+尤吉·貝拉 尤吉·贝拉 [you2 ji2 · bei4 la1] /Yogi Berra/
+德瑞克·基特 德瑞克·基特 [de2 rui4 ke4 · ji1 te4] /Derek Jeter/
+傑基·羅賓森 杰基·罗宾森 [jie2 ji1 · luo2 bin1 sen1] /Jackie Robinson/
+貝比·魯斯 贝比·鲁斯 [bei4 bi3 · lu3 si1] /Babe Ruth/
+米奇·曼托 米奇·曼托 [mi3 qi2 · man4 tuo1] /Mickey Mantle/

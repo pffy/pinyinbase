@@ -1,0 +1,16 @@
+# vocab-cmn-sports-training-exercises.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+俯臥撐 俯卧撑 [fu3 wo4 cheng1] /pushups/
+仰臥起坐 仰卧起坐 [yang3 wo4 qi3 zuo4] /situps/
+太極拳 太极拳 [tai4 ji2 quan2] /shadow boxing/

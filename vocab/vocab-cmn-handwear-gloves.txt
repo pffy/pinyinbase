@@ -1,0 +1,18 @@
+# vocab-cmn-handwear-gloves.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+塑膠手套 塑胶手套 [su4 jiao1 shou3 tao4] /rubber gloves/
+皮手套 皮手套 [pi2 shou3 tao4] /leather gloves/
+乳膠手套 乳胶手套 [ru3 jiao1 shou3 tao4] /latex gloves/
+丁腈手套 丁腈手套 [ding1 jing1 shou3 tao4] /nitrile gloves/
+園藝手套 园艺手套 [yuan2 yi4 shou3 tao4] /gardening gloves/

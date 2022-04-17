@@ -1,0 +1,17 @@
+# vocab-cmn-food-starbucks-cupsizes.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+小杯 小杯 [xiao3 bei1] /Short Starbucks cup/
+中杯 中杯 [zhong1 bei1] /Tall Starbucks cup/
+大杯 大杯 [da4 bei1] /Grande Starbucks cup/
+超大杯 超大杯 [chao1 da4 bei1] /Venti Starbucks cup/

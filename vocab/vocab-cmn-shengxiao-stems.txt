@@ -1,0 +1,23 @@
+# vocab-cmn-shengxiao-stems.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+甲 甲 [jia3] /Celestial Stem 1/
+乙 乙 [yi4] /Celestial Stem 2/
+土 土 [tu3] /Celestial Stem 3/
+丁 丁 [ding1] /Celestial Stem 4/
+戊 戊 [wu4] /Celestial Stem 5/
+己 己 [ji3] /Celestial Stem 6/
+庚 庚 [geng1] /Celestial Stem 7/
+辛 辛 [xin1] /Celestial Stem 8/
+壬 壬 [ren2] /Celestial Stem 9/
+癸 癸 [gui3] /Celestial Stem 10/

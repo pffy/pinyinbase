@@ -1,0 +1,24 @@
+# vocab-cmn-sports-teamsports.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+棒球 棒球 [bang4 qiu2] /baseball/
+籃球 篮球 [lan2 qiu2] /basketball/
+壘球 垒球 [lei3 qiu2] /softball/
+足球 足球 [zu2 qiu2] /football/
+足球 足球 [zu2 qiu2] /soccer/
+排球 排球 [pai2 qiu2] /volleyball/
+烤盤足球 烤盘足球 [kao3 pan2 zu2 qiu2] /gridiron football/
+板球 板球 [ban3 qiu2] /cricket/
+橄欖球 橄榄球 [gan3 lan3 qiu2] /rugby/
+曲棍球 曲棍球 [qu1 gun4 qiu2] /field hockey/
+冰球 冰球 [bing1 qiu2] /ice hockey/

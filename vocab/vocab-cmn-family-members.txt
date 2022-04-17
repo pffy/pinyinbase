@@ -1,0 +1,20 @@
+# vocab-cmn-family-members.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+父母 父母 [fu4 mu3] /parents/
+母親 母亲 [mu3 qin1] /mother/
+父親 父亲 [fu4 qin1] /father/
+哥哥 哥哥 [ge1 ge5] /older brother/
+弟弟 弟弟 [di4 di5] /younger brother/
+姐姐 姐姐 [jie3 jie5] /older sister/
+妹妹 妹妹 [mei4 mei5] /younger sister/

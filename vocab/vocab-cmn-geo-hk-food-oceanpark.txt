@@ -1,0 +1,21 @@
+# vocab-cmn-geo-hk-food-oceanpark.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+熊貓立體鮮果忌廉蛋糕 熊猫立体鲜果忌廉蛋糕 [xiong2 mao1 li4 ti3 xian1 guo3 ji4 lian2 dan4 gao1] /3D Panda Fresh Fruit Cream Cake/
+企鵝立體鮮果忌廉蛋糕 企鹅立体鲜果忌廉蛋糕 [qi3 e2 li4 ti3 xian1 guo3 ji4 lian2 dan4 gao1] /3D Penguin Fresh Fruit Cream Cake/
+立體樹熊蛋糕 立体树熊蛋糕 [li4 ti3 shu4 xiong2 dan4 gao1] /3D Koala Fruit Cake/
+榛子朱古力咖啡蛋糕 榛子朱古力咖啡蛋糕 [zhen1 zi5 zhu1 gu3 li4 ka1 fei1 dan4 gao1] /Hazelnut Mocha Cake/
+雲石芝士蛋糕 云石芝士蛋糕 [yun2 shi2 zhi1 shi4 dan4 gao1] /Marble Cheese Cake/
+藍莓芝士蛋糕 蓝莓芝士蛋糕 [lan2 mei2 zhi1 shi4 dan4 gao1] /Blueberry cheese Cake/
+香芒慕絲蛋糕 香芒慕丝蛋糕 [xiang1 mang2 mu4 si1 dan4 gao1] /Mango Mousse Cake/
+士多啤梨乳酪慕絲蛋糕 士多啤梨乳酪慕丝蛋糕 [shi4 duo1 pi2 li2 ru3 lao4 mu4 si1 dan4 gao1] /Strawberry Yoghurt Mousse Cake/

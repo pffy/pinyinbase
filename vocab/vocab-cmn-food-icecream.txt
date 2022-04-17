@@ -1,0 +1,17 @@
+# vocab-cmn-food-icecream.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+綠茶冰淇淋 绿茶冰淇淋 [luu4 cha2 bing1 qi2 lin2] /green tea ice cream/
+紅豆冰淇淋 红豆冰淇淋 [hong2 dou4 bing1 qi2 lin2] /red bean ice cream/
+香草冰淇淋 香草冰淇淋 [xiang1 cao3 bing1 qi2 lin2] /vanilla ice cream/
+巧克力冰淇淋 巧克力冰淇淋 [qiao3 ke4 li4 bing1 qi2 lin2] /chocolate ice cream/

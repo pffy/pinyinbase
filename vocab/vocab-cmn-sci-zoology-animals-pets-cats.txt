@@ -1,0 +1,15 @@
+# vocab-cmn-sci-zoology-animals-pets-cats.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+蘇格蘭折貓 苏格兰折猫 [su1 ge2 lan2 zhe2 mao1] /Scottish Fold cat/
+暹羅貓 暹罗猫 [xian1 luo2 mao1] /Siamese cat/

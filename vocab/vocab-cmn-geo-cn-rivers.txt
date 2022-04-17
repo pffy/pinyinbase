@@ -1,0 +1,16 @@
+# vocab-cmn-geo-cn-rivers.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+長江 长江 [chang2 jiang1] /Yangtze River/
+黃河 黄河 [huang2 he2] /Yellow River/
+湄公河 湄公河 [mei2 gong1 he2] /Mekong River/

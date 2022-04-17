@@ -1,0 +1,22 @@
+# vocab-cmn-make-handtools.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+錘 锤 [chui2] /hammer/
+螺絲刀 螺丝刀 [luo2 si1 dao1] /screwdriver/
+一字螺絲刀 一字螺丝刀 [yi1 zi4 luo2 si1 dao1] /flathead screwdriver/
+十字螺絲刀 十字螺丝刀 [shi2 zi4 luo2 si1 dao1] /phillips screwdriver/
+鉗子 钳子 [qian2 zi5] /pliers/
+扳手 扳手 [ban1 shou3] /wrench/
+扭力扳手 扭力扳手 [niu3 li4 ban1 shou3] /torque wrench/
+管鉗 管钳 [guan3 qian2] /pipe wrench/
+大錘 大锤 [da4 chui2] /sledge hammer/

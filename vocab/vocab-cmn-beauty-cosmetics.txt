@@ -1,0 +1,34 @@
+# vocab-cmn-beauty-cosmetics.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+安全剃須刀 安全剃须刀 [an1 quan2 ti4 xu1 dao1] /safety razor/
+除臭劑 除臭剂 [chu2 chou4 ji4] /deodorant/
+唇彩 唇彩 [chun2 cai3] /lip gloss/
+大腿霜 大腿霜 [da4 tui3 shuang1] /thigh cream/
+護髮素 护发素 [hu4 fa4 su4] /hair conditioner/
+口紅 口红 [kou3 hong2] /lipstick/
+去角質 去角质 [qu4 jiao3 zhi4] /exfoliants/
+潤唇膏 润唇膏 [run4 chun2 gao1] /lip balm/
+身體乳液 身体乳液 [shen1 ti3 ru3 ye4] /body lotion/
+漱口水 漱口水 [shu4 kou3 shui3] /mouthwash/
+剃須刀 剃须刀 [ti4 xu1 dao1] /shaving razor/
+剃須膏 剃须膏 [ti4 xu1 gao1] /shaving cream/
+洗髮水 洗发水 [xi3 fa4 shui3] /hair shampoo/
+洗手液 洗手液 [xi3 shou3 ye4] /hand lotion/
+香皂 香皂 [xiang1 zao4] /bar soap/
+牙膏 牙膏 [ya2 gao1] /toothpaste/
+牙刷 牙刷 [ya2 shua1] /toothbrush/
+眼線 眼线 [yan3 xian4] /eyeliner/
+浴皂 浴皂 [yu4 zao4] /bath soap/
+止汗藥 止汗药 [zhi3 han4 yao4] /antiperspirant/
+足部乳液 足部乳液 [zu2 bu4 ru3 ye4] /foot lotion/

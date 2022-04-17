@@ -1,0 +1,25 @@
+# vocab-cmn-sports-wnba-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+亞特蘭大夢想 亚特兰大梦想 [ya4 te4 lan2 da4 meng4 xiang3] /Atlanta Dream/
+芝加哥天空 芝加哥天空 [zhi1 jia1 ge1 tian1 kong1] /Chicago Sky/
+康涅狄格太陽 康涅狄格太阳 [kang1 nie4 di2 ge2 tai4 yang5] /Connecticut Sun/
+印第安納狂熱 印第安纳狂热 [yin4 di4 an1 na4 kuang2 re4] /Indiana Fever/
+洛杉磯火花 洛杉矶火花 [luo4 shan1 ji1 huo3 hua1] /Los Angeles Sparks/
+明尼蘇達山貓 明尼苏达山猫 [ming2 ni2 su1 da2 shan1 mao1] /Minnesota Lynx/
+紐約自由 纽约自由 [niu3 yue1 zi4 you2] /New York Liberty/
+鳳凰城水星 凤凰城水星 [feng4 huang2 cheng2 shui3 xing1] /Phoenix Mercury/
+聖安東尼奧銀星 圣安东尼奥银星 [sheng4 an1 dong1 ni2 ao4 yin2 xing1] /San Antonio Stars/
+西雅圖風暴 西雅图风暴 [xi1 ya3 tu2 feng1 bao4] /Seattle Storm/
+塔爾薩震動 塔尔萨震动 [ta3 er3 sa4 zhen4 dong4] /Tulsa Shock/
+華盛頓神秘人 华盛顿神秘人 [hua2 sheng4 dun4 shen2 mi4 ren2] /Washington Mystics/

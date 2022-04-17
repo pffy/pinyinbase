@@ -1,0 +1,22 @@
+# vocab-cmn-jobs-police-resources.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+手銬 手铐 [shou3 kao4] /handcuffs/
+警察制服 警察制服 [jing3 cha2 zhi4 fu2] /police uniform/
+警察徽章 警察徽章 [jing3 cha2 hui1 zhang1] /police badge/
+警方路障 警方路障 [jing3 fang1 lu4 zhang4] /police barricade/
+警棍 警棍 [jing3 gun4] /police baton/
+警用摩托車 警用摩托车 [jing3 yong4 mo2 tuo1 che1] /police motorcycle/
+警笛 警笛 [jing3 di2] /police siren/
+警車 警车 [jing3 che1] /police car/
+警車 警车 [jing3 che1] /police van/

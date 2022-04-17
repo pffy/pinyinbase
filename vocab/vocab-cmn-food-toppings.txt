@@ -1,0 +1,53 @@
+# vocab-cmn-food-toppings.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+紅石榴 红石榴 [hong2 shi2 liu5] /grenadine syrup/
+玫瑰蜜 玫瑰蜜 [mei2 gui1 mi4] /rose syrup/
+榛果果露 榛果果露 [zhen1 guo3 guo3 lu4] /hazelnut/
+法式香草 法式香草 [fa3 shi4 xiang1 cao3] /French vanilla/
+白巧克力 白巧克力 [bai2 qiao3 ke4 li4] /white chocolate/
+韓國柚子茶 韩国柚子茶 [han2 guo2 you4 zi5 cha2] /Korea citron tea/
+紅豆罐頭 红豆罐头 [hong2 dou4 guan4 tou5] /Sweet Red Bean/
+紅棗桂圓 红枣桂圆 [hong2 zao3 gui4 yuan2] /Dried Longan Red Jujube/
+花豆罐頭 花豆罐头 [hua1 dou4 guan4 tou5] /Sweet Kidney Bean/
+花生仁罐 花生仁罐 [hua1 sheng1 ren2 guan4] /Peanut/
+煉乳 炼乳 [lian4 ru3] /Fey-Yan Condensed Milk/
+蘆薈 芦荟 [lu2 hui4] /Aloe/
+綠豆罐頭 绿豆罐头 [luu4 dou4 guan4 tou5] /Sweet Green Bean/
+三多巧克力醬 三多巧克力酱 [san1 duo1 qiao3 ke4 li4 jiang4] /Sentosa Chocolate Syrup/
+五彩巧克力米 五彩巧克力米 [wu3 cai3 qiao3 ke4 li4 mi3] /Chocolate Grain/
+仙草汁 仙草汁 [xian1 cao3 zhi1] /Grass Jelly/
+芋頭罐頭 芋头罐头 [yu4 tou5 guan4 tou5] /Sweet Taro/
+原味粉條 原味粉条 [yuan2 wei4 fen3 tiao2] /Tapioca Starch Strips/
+百香果醬 百香果酱 [bai3 xiang1 guo3 jiang4] /Passion Fruit Jam/
+彩虹水晶 彩虹水晶 [cai3 hong2 shui3 jing1] /Mix Fruit Jelly/
+草莓果粒醬 草莓果粒酱 [cao3 mei2 guo3 li4 jiang4] /Strawberry Jam/
+鳳梨片果醬 凤梨片果酱 [feng4 li2 pian4 guo3 jiang4] /Pineapple Jam/
+鳳梨椰果 凤梨椰果 [feng4 li2 ye2 guo3] /Pineapple Coconut/
+果糖 果糖 [guo3 tang2] /Fructose/
+寒天白魔棒 寒天白魔棒 [han2 tian1 bai2 mo2 bang4] /Agar-Agar Jelly/
+寒天黑魔棒 寒天黑魔棒 [han2 tian1 hei1 mo2 bang4] /Black Sugar Agar-Agar Jelly/
+寒天晶凍 寒天晶冻 [han2 tian1 jing1 dong4] /Agar-Agar Jelly/
+紅梅蜜醬 红梅蜜酱 [hong2 mei2 mi4 jiang4] /Red Plum Jam/
+藍莓果醬 蓝莓果酱 [lan2 mei2 guo3 jiang4] /Blueberry Jam/
+荔枝椰果 荔枝椰果 [li4 zhi1 ye2 guo3] /Lychee Coconut/
+芒果顆粒 芒果颗粒 [mang2 guo3 ke1 li4] /Mango Jam/
+魔力水晶 魔力水晶 [mo2 li4 shui3 jing1] /Coffee Jelly/
+葡萄椰果 葡萄椰果 [pu2 tao5 ye2 guo3] /Grape Coconut/
+奇異果果片 奇异果果片 [qi2 yi4 guo3 guo3 pian4] /Kiwi Jam/
+青蘋果椰果 青苹果椰果 [qing1 ping2 guo3 ye2 guo3] /Green Apple Coconut/
+情人果醬 情人果酱 [qing2 ren2 guo3 jiang4] /Green Mango Jam/
+桑椹果粒醬 桑椹果粒酱 [sang1 shen4 guo3 li4 jiang4] /Mulberry Jam/
+烏梅醬 乌梅酱 [wu1 mei2 jiang4] /Black Plum Jam/
+星鑽芒果椰果 星钻芒果椰果 [xing1 zhan1 mang2 guo3 ye2 guo3] /Mango Star Coconut/
+原味椰果 原味椰果 [yuan2 wei4 ye2 guo3] /Original Flavor Coconut/

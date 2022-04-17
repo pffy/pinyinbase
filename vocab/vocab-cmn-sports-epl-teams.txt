@@ -1,0 +1,33 @@
+# vocab-cmn-sports-epl-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿斯頓維拉 阿斯顿维拉 [a1 si1 dun4 wei2 la1] /Aston Villa/
+埃弗頓 埃弗顿 [ai1 fu2 dun4] /Everton/
+伯恩茅斯 伯恩茅斯 [bo2 en1 mao2 si1] /Bournemouth/
+軍火庫 军火库 [jun1 huo3 ku4] /Arsenal/
+萊切斯特城 莱切斯特城 [lai2 qie4 si1 te4 cheng2] /Leicester City/
+利物浦 利物浦 [li4 wu4 pu3] /Liverpool/
+曼城 曼城 [man4 cheng2] /Manchester City/
+曼聯 曼联 [man4 lian2] /Manchester United/
+南安普敦 南安普敦 [nan2 an1 pu3 dun1] /Southampton/
+紐卡斯爾聯隊 纽卡斯尔联队 [niu3 ka3 si1 er3 lian2 dui4] /Newcastle United/
+諾維奇城 诺维奇城 [nuo4 wei2 qi2 cheng2] /Norwich City/
+切爾西 切尔西 [qie4 er3 xi1] /Chelsea/
+桑德蘭 桑德兰 [sang1 de2 lan2] /Sunderland/
+水晶宮 水晶宫 [shui3 jing1 gong1] /Crystal Palace/
+斯托克城 斯托克城 [si1 tuo1 ke4 cheng2] /Stoke City/
+斯旺西 斯旺西 [si1 wang4 xi1] /Swansea City/
+托特納姆熱刺 托特纳姆热刺 [tuo1 te4 na4 mu3 re4 ci4] /Tottenham Hotspur/
+沃特福德 沃特福德 [wo4 te4 fu2 de2] /Watford/
+西布羅姆維奇 西布罗姆维奇 [xi1 bu4 luo2 mu3 wei2 qi2] /West Bromwich Albion/
+西漢姆聯 西汉姆联 [xi1 han4 mu3 lian2] /West Ham United/

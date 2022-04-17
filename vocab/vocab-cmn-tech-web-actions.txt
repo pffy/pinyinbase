@@ -1,0 +1,16 @@
+# vocab-cmn-tech-web-actions.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+下載 下载 [xia4 zai3] /download/
+查看所有 查看所有 [cha2 kan4 suo3 you3] /view all/
+我要充值 我要充值 [wo3 yao4 chong1 zhi2] /reload balance/

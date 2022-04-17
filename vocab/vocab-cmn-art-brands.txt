@@ -1,0 +1,27 @@
+# vocab-cmn-art-brands.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+繪兒樂 绘儿乐 [hui4 er2 le4] /Crayola/
+輝柏嘉 辉柏嘉 [hui1 bai3 jia1] /Faber-Castell/
+奇樂 奇乐 [qi2 le4] /GIOTTO/
+雄獅 雄狮 [xiong2 shi1] /Simbalion/
+高樂士 高乐士 [gao1 le4 shi4] /KORES/
+好樂星 好乐星 [hao3 le4 xing1] /Histar/
+思筆樂 思笔乐 [si1 bi3 le4] /Stabilo/
+百樂 百乐 [bai3 le4] /PILOT/
+派通 派通 [pai4 tong1] /Pentel/
+渡邊 渡边 [du4 bian1] /Gambol/
+米可蘭迪 米可兰迪 [mi3 ke3 lan2 di2] /Microland/
+恰可 恰可 [qia4 ke3] /CIAK/
+優諾 优诺 [you2 nuo4] /YOUNUO/
+莫奈 莫奈 [mo4 nai4] /Monet/

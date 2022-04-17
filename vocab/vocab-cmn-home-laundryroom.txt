@@ -1,0 +1,22 @@
+# vocab-cmn-home-laundryroom.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+洗衣機 洗衣机 [xi3 yi1 ji1] /clothes washer/
+乾衣機 干衣机 [gan1 yi1 ji1] /clothes dryer/
+熨衣板 熨衣板 [yun4 yi1 ban3] /ironing board/
+洗衣粉 洗衣粉 [xi3 yi1 fen3] /laundry detergent/
+織物柔軟劑 织物柔软剂 [zhi1 wu4 rou2 ruan3 ji4] /fabric softener/
+衣架 衣架 [yi1 jia4] /clothes hangers/
+漂白 漂白 [piao3 bai2] /bleach/
+蒸汽熨斗 蒸汽熨斗 [zheng1 qi4 yun4 dou3] /steam iron/
+櫥櫃 橱柜 [chu2 gui4] /cabinets/

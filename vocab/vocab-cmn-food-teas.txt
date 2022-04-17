@@ -1,0 +1,91 @@
+# vocab-cmn-food-teas.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+紅茶 红茶 [hong2 cha2] /black tea/
+綠茶 绿茶 [luu4 cha2] /green tea/
+白茶 白茶 [bai2 cha2] /white tea/
+黃茶 黄茶 [huang2 cha2] /yellow tea/
+烏龍茶 乌龙茶 [wu1 long2 cha2] /oolong tea/
+黑茶 黑茶 [hei1 cha2] /dark tea/
+花茶 花茶 [hua1 cha2] /flowering tea/
+普洱茶 普洱茶 [pu3 er3 cha2] /pu'er tea/
+草本茶 草本茶 [cao3 ben3 cha2] /herbal tea/
+波霸茶 波霸茶 [bo1 ba4 cha2] /boba tea/
+客家擂茶 客家擂茶 [ke4 jia1 lei2 cha2] /Hakka tea/
+阿薩姆純紅茶 阿萨姆纯红茶 [a1 sa4 mu3 chun2 hong2 cha2] /Assam Black Tea/
+南台灣紅茶 南台湾红茶 [nan2 tai2 wan1 hong2 cha2] /Southern Taiwan Black Tea/
+烏瓦紅茶 乌瓦红茶 [wu1 wa3 hong2 cha2] /Uva Black Tea/
+特級紅茶 特级红茶 [te4 ji2 hong2 cha2] /Supreme Black Tea/
+頂級紅茶 顶级红茶 [ding3 ji2 hong2 cha2] /Top Black Tea/
+台灣薰香紅茶 台湾薰香红茶 [tai2 wan1 xun1 xiang1 hong2 cha2] /Taiwan Roasted Black Tea/
+祁門極品紅茶 祁门极品红茶 [qi2 men2 ji2 pin3 hong2 cha2] /Keemun Black Tea/
+錫蘭烏巴紅茶 锡兰乌巴红茶 [xi1 lan2 wu1 ba1 hong2 cha2] /Ceylon Uva Black Tea/
+頂級大吉嶺紅茶 顶级大吉岭红茶 [ding3 ji2 da4 ji2 ling2 hong2 cha2] /Top Darjeoling Black Tea/
+古早味紅茶 古早味红茶 [gu3 zao3 wei4 hong2 cha2] /Old Time Black Tea/
+咖啡紅茶 咖啡红茶 [ka1 fei1 hong2 cha2] /Coffee Black Tea/
+伯爵紅茶 伯爵红茶 [bo2 jue2 hong2 cha2] /Earl Grey Black Tea/
+頂級伯爵紅茶 顶级伯爵红茶 [ding3 ji2 bo2 jue2 hong2 cha2] /Top Earl Grey Black Tea/
+阿薩姆綠茶 阿萨姆绿茶 [a1 sa4 mu3 luu4 cha2] /Assam Green Tea/
+碧螺春翠玉綠茶 碧螺春翠玉绿茶 [bi4 luo2 chun1 cui4 yu4 luu4 cha2] /Bi Luo Chun Green Tea/
+銀毫綠茶 银毫绿茶 [yin2 hao2 luu4 cha2] /Slivers Green Tea/
+翡翠油沏綠茶 翡翠油沏绿茶 [fei3 cui4 you2 qi1 luu4 cha2] /Jadeite Green Tea/
+龍井銀虎綠茶 龙井银虎绿茶 [long2 jing3 yin2 hu3 luu4 cha2] /Lumgmem Green Tea Green Tea/
+超特翠玉綠茶 超特翠玉绿茶 [chao1 te4 cui4 yu4 luu4 cha2] /Supreme Green Tea/
+特級白毫綠茶 特级白毫绿茶 [te4 ji2 bai2 hao2 luu4 cha2] /Supreme White Pilus Green Tea/
+玉露白毫綠茶 玉露白毫绿茶 [yu4 lou4 bai2 hao2 luu4 cha2] /Ueloue White Pilus/
+頂級白毫綠茶 顶级白毫绿茶 [ding3 ji2 bai2 hao2 luu4 cha2] /Gyokuro White Pilus Green Tea/
+炭焙烏龍茶 炭焙乌龙茶 [tan4 bei4 wu1 long2 cha2] /Roasted Oolong Tea/
+玄米煎茶 玄米煎茶 [xuan2 mi3 jian1 cha2] /Rise Green Tea/
+青心烏龍綠 青心乌龙绿 [qing1 xin1 wu1 long2 luu4] /Ching-shin Oolong/
+藏傳普洱茶 藏传普洱茶 [cang2 chuan2 pu3 er3 cha2] /China Purth Tea/
+桂花烏龍茶 桂花乌龙茶 [gui4 hua1 wu1 long2 cha2] /Osmanthus Oolong Tea/
+阿里山醉香烏龍茶 阿里山醉香乌龙茶 [a1 li3 shan1 zui4 xiang1 wu1 long2 cha2] /Alishan Oolong Tea/
+愛爾蘭雷格伯爵紅茶 爱尔兰雷格伯爵红茶 [ai4 er3 lan2 lei2 ge2 bo2 jue2 hong2 cha2] /Irish Earl Grey Black Tea/
+碧螺春白毫茉莉綠茶 碧螺春白毫茉莉绿茶 [bi4 luo2 chun1 bai2 hao2 mo4 li4 luu4 cha2] /Belouten Jasmine White Pilus Green Tea/
+大禹嶺白毫烏龍茶 大禹岭白毫乌龙茶 [da4 yu3 ling2 bai2 hao2 wu1 long2 cha2] /Dayuling White Pilus Oolong Tea/
+東京櫻花青綠茶 东京樱花青绿茶 [dong1 jing1 ying1 hua1 qing1 luu4 cha2] /Tokyo Sakura Green Tea/
+法國巴黎玫瑰紅茶 法国巴黎玫瑰红茶 [fa3 guo2 ba1 li2 mei2 gui1 hong2 cha2] /France Paris Rose Black Tea/
+法國普羅旺斯薰衣草紅茶 法国普罗旺斯薰衣草红茶 [fa3 guo2 pu3 luo2 wang4 si1 xun1 yi1 cao3 hong2 cha2] /Provence Lavender Black Tea/
+佛羅裡達柑橘紅茶 佛罗里达柑橘红茶 [fo2 luo2 li3 da2 gan1 ju2 hong2 cha2] /Florida Orange Black Tea/
+桂林九里香桂花紅茶 桂林九里香桂花红茶 [gui4 lin2 jiu3 li3 xiang1 gui4 hua1 hong2 cha2] /Gueilin Osmanthus Black Tea/
+華盛頓蘋果紅茶 华盛顿苹果红茶 [hua2 sheng4 dun4 ping2 guo3 hong2 cha2] /Washington Apple Black Tea/
+克羅埃西亞檸檬香茅綠茶 克罗埃西亚柠檬香茅绿茶 [ke4 luo2 ai1 xi1 ya4 ning2 meng2 xiang1 mao2 luu4 cha2] /Croatia Lemongrass Green Tea/
+梨山高山茶 梨山高山茶 [li2 shan1 gao1 shan1 cha2] /Lishan Oolong Tea/
+廬山廬峰烏龍茶 庐山庐峰乌龙茶 [lu2 shan1 lu2 feng1 wu1 long2 cha2] /Lushan Oolong Tea/
+鹿谷凍頂烏龍茶 鹿谷冻顶乌龙茶 [lu4 gu3 dong4 ding3 wu1 long2 cha2] /Lugu Oolong Tea/
+玫瑰鐵觀音 玫瑰铁观音 [mei2 gui1 tie3 guan1 yin1] /Rose Oolong Tea/
+玫瑰油沏綠茶 玫瑰油沏绿茶 [mei2 gui1 you2 qi1 luu4 cha2] /Rose Green Tea/
+南岩鐵觀音烏龍茶 南岩铁观音乌龙茶 [nan2 yan2 tie3 guan1 yin1 wu1 long2 cha2] /Nanyen Oolong Tea/
+坪林文山包種茶 坪林文山包种茶 [ping2 lin2 wen2 shan1 bao1 zhong4 cha2] /Pinglin Oolong Tea/
+奇萊山雪片桂花烏龍茶 奇莱山雪片桂花乌龙茶 [qi2 lai2 shan1 xue3 pian4 gui4 hua1 wu1 long2 cha2] /Jilaishan Osmanthus Oolong Tea/
+日本韃靼蕎麥綠茶 日本鞑靼荞麦绿茶 [ri4 ben3 da2 da2 qiao2 mai4 luu4 cha2] /Japan Buckwheat Green Tea/
+日本岡山桃太郎茶 日本冈山桃太郎茶 [ri4 ben3 gang1 shan1 tao2 tai4 lang2 cha2] /Japan Kangshan Peach Green Tea/
+日本青森富士蘋果綠茶 日本青森富士苹果绿茶 [ri4 ben3 qing1 sen1 fu4 shi4 ping2 guo3 luu4 cha2] /Japan Apple Green Tea/
+日本油沏玄米煎茶 日本油沏玄米煎茶 [ri4 ben3 you2 qi1 xuan2 mi3 jian1 cha2] /Japan Rise Green Tea/
+瑞士派伯洛地薄荷綠茶 瑞士派伯洛地薄荷绿茶 [rui4 shi4 pai4 bo2 luo4 di4 bo4 he5 luu4 cha2] /Switzerland Peppermint Green Tea/
+杉林溪烏龍茶 杉林溪乌龙茶 [shan1 lin2 xi1 wu1 long2 cha2] /Shalinsi Oolong Tea/
+斯里蘭卡努哇那紅茶 斯里兰卡努哇那红茶 [si1 li3 lan2 ka3 nu3 wa1 na4 hong2 cha2] /Srilanka Nuwars Black Tea/
+台東卑南金峰洛神紅茶 台东卑南金峰洛神红茶 [tai2 dong1 bei1 nan2 jin1 feng1 luo4 shen2 hong2 cha2] /Taiwan Roselle Black Tea/
+台灣大湖草莓紅茶 台湾大湖草莓红茶 [tai2 wan1 da4 hu2 cao3 mei2 hong2 cha2] /Taiwan strawberry Black Tea/
+台灣明池紅玉紅茶 台湾明池红玉红茶 [tai2 wan1 ming2 chi2 hong2 yu4 hong2 cha2] /Taiwan Goneyu Black Tea/
+唐代貴妃荔枝紅茶 唐代贵妃荔枝红茶 [tang2 dai4 gui4 fei1 li4 zhi1 hong2 cha2] /China Lychee Black Tea/
+錫蘭頂普拉紅茶 锡兰顶普拉红茶 [xi1 lan2 ding3 pu3 la1 hong2 cha2] /Ceylon Dimbulla Black Tea/
+新竹風城烏龍茶 新竹风城乌龙茶 [xin1 zhu2 feng1 cheng2 wu1 long2 cha2] /Shinju Oolong Tea/
+印度大吉嶺典藏紅茶 印度大吉岭典藏红茶 [yin4 du4 da4 ji2 ling2 dian3 cang2 hong2 cha2] /India Darjeoling Black Tea/
+印度薰香紫盞紅茶 印度薰香紫盏红茶 [yin4 du4 xun1 xiang1 zi3 zhan3 hong2 cha2] /India Violet Black Tea/
+英格蘭錫蘭蜜紅茶 英格兰锡兰蜜红茶 [ying1 ge2 lan2 xi1 lan2 mi4 hong2 cha2] /England Ceylon Black Tea/
+中法玫瑰普洱茶 中法玫瑰普洱茶 [zhong1 fa3 mei2 gui1 pu3 er3 cha2] /Ghinese-French Rose Purth/
+中國藏傳菊花普洱茶 中国藏传菊花普洱茶 [zhong1 guo2 cang2 chuan2 ju2 hua1 pu3 er3 cha2] /China Chrysanthemum Purth/
+中國祁門醺香紅茶 中国祁门醺香红茶 [zhong1 guo2 qi2 men2 xun1 xiang1 hong2 cha2] /China Keemun Black Tea/
+竹山金萱青茶 竹山金萱青茶 [zhu2 shan1 jin1 xuan1 qing1 cha2] /Jhushan Oolong Tea/
+水果茶 水果茶 [shui3 guo3 cha2] /Fruit Tea/

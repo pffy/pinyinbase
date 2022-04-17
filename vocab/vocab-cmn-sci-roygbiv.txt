@@ -1,0 +1,22 @@
+# vocab-cmn-sci-roygbiv.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+紅色 红色 [hong2 se4] /red/
+橙色 橙色 [cheng2 se4] /orange/
+黃色 黄色 [huang2 se4] /yellow/
+綠色 绿色 [luu4 se4] /green/
+藍色 蓝色 [lan2 se4] /blue/
+靛青 靛青 [dian4 qing1] /indigo/
+紫羅蘭色 紫罗兰色 [zi3 luo2 lan2 se4] /violet/
+紫色 紫色 [zi3 se4] /violet/
+靛色 靛色 [dian4 se4] /indigo/

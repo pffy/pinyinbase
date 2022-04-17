@@ -1,0 +1,39 @@
+# vocab-cmn-apparel.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+圍巾 围巾 [wei2 jin1] /scarf/
+領帶 领带 [ling3 dai4] /necktie/
+口袋方巾 口袋方巾 [kou3 dai4 fang1 jin1] /pocket square/
+兩件式套裝 两件式套装 [liang3 jian4 shi4 tao4 zhuang1] /two piece suit/
+三件套 三件套 [san1 jian4 tao4] /three piece suit/
+單排扣西裝 单排扣西装 [dan1 pai2 kou4 xi1 zhuang1] /single breasted suit/
+雙排扣西裝 双排扣西装 [shuang1 pai2 kou4 xi1 zhuang1] /double breasted suit/
+袖扣 袖扣 [xiu4 kou4] /cufflinks/
+衣服褲子 衣服裤子 [yi1 fu5 ku4 zi5] /dress pants/
+禮服襪子 礼服袜子 [li3 fu2 wa4 zi5] /dress socks/
+襯衫 衬衫 [chen4 shan1] /dress shirt/
+開拓者 开拓者 [kai1 tuo4 zhe3] /blazers/
+西裝馬甲 西装马甲 [xi1 zhuang1 ma3 jia3] /suit vest/
+汗衫 汗衫 [han4 shan1] /undershirt/
+運動外套 运动外套 [yun4 dong4 wai4 tao4] /sport coat/
+雪褸 雪褛 [xue3 luu3] /snow jacket/
+燕尾服 燕尾服 [yan4 wei3 fu2] /tuxedo/
+毛衣 毛衣 [mao2 yi1] /sweaters/
+面漆 面漆 [mian4 qi1] /top coat/
+野戰外套 野战外套 [ye3 zhan4 wai4 tao4] /field jacket/
+牛仔褲 牛仔裤 [niu2 zai3 ku4] /jeans/
+運動衫 运动衫 [yun4 dong4 shan1] /sweatshirt/
+內衣 内衣 [nei4 yi1] /underwear/
+睡衣 睡衣 [shui4 yi1] /pajamas/
+浴袍 浴袍 [yu4 pao2] /bath robe/
+法蘭絨襯衫 法兰绒衬衫 [fa3 lan2 rong2 chen4 shan1] /flannel dress shirts/

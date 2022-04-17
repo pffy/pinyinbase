@@ -1,0 +1,21 @@
+# vocab-cmn-food-hotdrinks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白巧克力拿鐵 白巧克力拿铁 [bai2 qiao3 ke4 li4 na2 tie3] /white chocolate latte/
+薄荷巧克力拿鐵 薄荷巧克力拿铁 [bo4 he5 qiao3 ke4 li4 na2 tie3] /mint chocolate latte/
+焦糖卡布奇諾咖啡 焦糖卡布奇诺咖啡 [jiao1 tang2 ka3 bu4 qi2 nuo4 ka1 fei1] /caramel cappucino/caramelccino/
+香草卡布奇諾咖啡 香草卡布奇诺咖啡 [xiang1 cao3 ka3 bu4 qi2 nuo4 ka1 fei1] /vanilla cappucino/vanillaccino/
+榛子卡布奇諾咖啡 榛子卡布奇诺咖啡 [zhen1 zi5 ka3 bu4 qi2 nuo4 ka1 fei1] /hazelnut cappucino/hazelnutccino/
+熱巧克力 热巧克力 [re4 qiao3 ke4 li4] /hot chocolate/
+摩卡奇諾 摩卡奇诺 [mo2 ka3 qi2 nuo4] /mochaccino/
+卡布奇諾 卡布奇诺 [ka3 bu4 qi2 nuo4] /capppuccino/

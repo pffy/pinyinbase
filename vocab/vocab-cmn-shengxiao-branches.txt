@@ -1,0 +1,25 @@
+# vocab-cmn-shengxiao-branches.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+子 子 [zi3] /Earthly Branch 1/
+醜 丑 [chou3] /Earthly Branch 2/
+土 土 [tu3] /Earthly Branch 3/
+卯 卯 [mao3] /Earthly Branch 4/
+辰 辰 [chen2] /Earthly Branch 5/
+巳 巳 [si4] /Earthly Branch 6/
+午 午 [wu3] /Earthly Branch 7/
+未 未 [wei4] /Earthly Branch 8/
+申 申 [shen1] /Earthly Branch 9/
+酉 酉 [you3] /Earthly Branch 10/
+戌 戌 [xu1] /Earthly Branch 11/
+亥 亥 [hai4] /Earthly Branch 12/

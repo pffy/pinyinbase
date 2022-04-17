@@ -1,0 +1,44 @@
+# vocab-cmn-food-juices.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+百香果汁 百香果汁 [bai3 xiang1 guo3 zhi1] /Passion Fruit Juice/
+薄荷蜜 薄荷蜜 [bo4 he5 mi4] /Mint Juice/
+草莓汁 草莓汁 [cao3 mei2 zhi1] /Strawberry Juice/
+脆梅汁 脆梅汁 [cui4 mei2 zhi1] /Crisp Plum Juice/
+打碎草莓汁 打碎草莓汁 [da3 sui4 cao3 mei2 zhi1] /Smashed Strawberry Juice/
+冬瓜露 冬瓜露 [dong1 gua1 lu4] /Winter melon Juice/
+蜂蜜醋 蜂蜜醋 [feng1 mi4 cu4] /Honey Vinegar Juice/
+鳳梨汁 凤梨汁 [feng4 li2 zhi1] /Pineapple Juice/
+黑砂糖 黑砂糖 [hei1 sha1 tang2] /Black Sugar Juice/
+紅蘋果汁 红苹果汁 [hong2 ping2 guo3 zhi1] /Red Apple Juice/
+薑母汁 姜母汁 [jiang1 mu3 zhi1] /Ginger Juice/
+焦糖果露 焦糖果露 [jiao1 tang2 guo3 lu4] /Caramel Juice/
+金桔檸檬 金桔柠檬 [jin1 ju2 ning2 meng2] /Kumquat Lemon Juice/
+金桔汁 金桔汁 [jin1 ju2 zhi1] /Kumquat Juice/
+藍梅汁 蓝梅汁 [lan2 mei2 zhi1] /Blueberry Juice/
+柳橙汁 柳橙汁 [liu3 cheng2 zhi1] /Orange Juice/
+蘆筍汁 芦笋汁 [lu2 sun3 zhi1] /Asparagus Juice/
+洛神汁 洛神汁 [luo4 shen2 zhi1] /Roselle Juice/
+芒果汁 芒果汁 [mang2 guo3 zhi1] /Mango Juice/
+玫瑰花瓣 玫瑰花瓣 [mei2 gui1 hua1 ban4] /Rose Petal Juice/
+檸檬汁 柠檬汁 [ning2 meng2 zhi1] /Lemon Juice/
+葡萄汁 葡萄汁 [pu2 tao5 zhi1] /Grape Juice/
+奇異果汁 奇异果汁 [qi2 yi4 guo3 zhi1] /Kiwi Juice/
+青蘋果汁 青苹果汁 [qing1 ping2 guo3 zhi1] /Green Apple Juice/
+桑椹汁 桑椹汁 [sang1 shen4 zhi1] /Mulberry Juice/
+水蜜桃汁 水蜜桃汁 [shui3 mi4 tao2 zhi1] /Peach Juice/
+酸梅汁 酸梅汁 [suan1 mei2 zhi1] /Plum juice/
+烏梅汁 乌梅汁 [wu1 mei2 zhi1] /Black Plums Juice/
+楊桃汁 杨桃汁 [yang2 tao2 zhi1] /Star Fruit Juice/
+野味龍眼蜂蜜 野味龙眼蜂蜜 [ye3 wei4 long2 yan3 feng1 mi4] /Longan Honey Juice/
+優格乳酸 优格乳酸 [you1 ge2 ru3 suan1] /Yogurt Juice/

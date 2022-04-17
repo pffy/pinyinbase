@@ -1,0 +1,26 @@
+# vocab-cmn-geo-ca-provinces.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿爾伯塔 阿尔伯塔 [a1 er3 bo2 ta3] /Alberta/
+英屬哥倫比亞 英属哥伦比亚 [ying1 shu3 ge1 lun2 bi3 ya4] /British Columbia/
+曼尼托巴 曼尼托巴 [man4 ni2 tuo1 ba1] /Manitoba/
+新不倫瑞克 新不伦瑞克 [xin1 bu4 lun2 rui4 ke4] /New Brunswick/
+紐芬蘭與拉布拉多 纽芬兰与拉布拉多 [niu3 fen1 lan2 yu3 la1 bu4 la1 duo1] /Newfoundland and Labrador/
+西北地區 西北地区 [xi1 bei3 di4 qu1] /Northwest Territories/
+新斯科舍 新斯科舍 [xin1 si1 ke1 she3] /Nova Scotia/
+努納武特 努纳武特 [nu3 na4 wu3 te4] /Nunavut/
+安大略 安大略 [an1 da4 luue4] /Ontario/
+愛德華王子島 爱德华王子岛 [ai4 de2 hua2 wang2 zi3 dao3] /Prince Edward Island/
+魁北克 魁北克 [kui2 bei3 ke4] /Quebec/
+薩斯喀徹溫 萨斯喀彻温 [sa4 si1 ka1 che4 wen1] /Saskatchewan/
+育空 育空 [yu4 kong1] /Yukon/

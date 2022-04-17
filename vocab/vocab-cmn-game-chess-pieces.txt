@@ -1,0 +1,19 @@
+# vocab-cmn-game-chess-pieces.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+王 王 [wang2] /King/
+後 后 [hou4] /Queen/
+車 车 [che1] /Rook/
+象 象 [xiang4] /Bishop/
+馬 马 [ma3] /Knight/
+兵 兵 [bing1] /Pawn/

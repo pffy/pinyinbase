@@ -1,0 +1,30 @@
+# vocab-cmn-tech-giftcards.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+生日禮品卡 生日礼品卡 [sheng1 ri4 li3 pin3 ka3] /birthday gift card/
+感謝禮品卡 感谢礼品卡 [gan3 xie4 li3 pin3 ka3] /thank you gift card/
+新婚禮品卡 新婚礼品卡 [xin1 hun1 li3 pin3 ka3] /wedding gift card/
+謝師禮品卡 谢师礼品卡 [xie4 shi1 li3 pin3 ka3] /teacher appreciation gift card/
+新生禮品卡 新生礼品卡 [xin1 sheng1 li3 pin3 ka3] /newborn baby gift card/
+星座禮品卡 星座礼品卡 [xing1 zuo4 li3 pin3 ka3] /horoscope gift card/
+聖誕節禮品卡 圣诞节礼品卡 [sheng4 dan4 jie2 li3 pin3 ka3] /Christmas gift card/
+情人節禮品卡 情人节礼品卡 [qing2 ren2 jie2 li3 pin3 ka3] /Valentine's Day gift card/
+女人節禮品卡 女人节礼品卡 [nuu3 ren5 jie2 li3 pin3 ka3] /Woman's Day gift card/
+兒童節禮品卡 儿童节礼品卡 [er2 tong2 jie2 li3 pin3 ka3] /Children's Day gift card/
+端午節禮品卡 端午节礼品卡 [duan1 wu3 jie2 li3 pin3 ka3] /Dragon Boat Festival gift card/
+母親節禮品卡 母亲节礼品卡 [mu3 qin1 jie2 li3 pin3 ka3] /Mother's Day gift card/
+父親節禮品卡 父亲节礼品卡 [fu4 qin1 jie2 li3 pin3 ka3] /Father's Day gift card/
+中秋節禮品卡 中秋节礼品卡 [zhong1 qiu1 jie2 li3 pin3 ka3] /Mid-Autumn Festival gift card/
+經典尊貴黑卡 经典尊贵黑卡 [jing1 dian3 zun1 gui4 hei1 ka3] /classic premier black card/
+紅包禮品卡 红包礼品卡 [hong2 bao1 li3 pin3 ka3] /red envelope gift card/
+賬戶充值卡 账户充值卡 [zhang4 hu4 chong1 zhi2 ka3] /gift card balance reload card/

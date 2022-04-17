@@ -1,0 +1,29 @@
+# vocab-cmn-geo-cn-beijing-regions.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+昌平區 昌平区 [chang1 ping2 qu1] /Changping District/
+大興區 大兴区 [da4 xing1 qu1] /Daxing District/
+東城區 东城区 [dong1 cheng2 qu1] /Dongcheng District/
+房山區 房山区 [fang2 shan1 qu1] /Fangshan District/
+丰台區 丰台区 [feng1 tai2 qu1] /Fengtai District/
+海淀區 海淀区 [hai3 dian4 qu1] /Haidian District/
+懷柔區 怀柔区 [huai2 rou2 qu1] /Huairou District/
+門頭溝區 门头沟区 [men2 tou2 gou1 qu1] /Mentougou District/
+密雲縣 密云县 [mi4 yun2 xian4] /Miyun County/
+平谷區 平谷区 [ping2 gu3 qu1] /Pinggu District/
+石景山區 石景山区 [shi2 jing3 shan1 qu1] /Shijingshan District/
+順義區 顺义区 [shun4 yi4 qu1] /Shunyi District/
+通州區 通州区 [tong1 zhou1 qu1] /Tongzhou District/
+西城區 西城区 [xi1 cheng2 qu1] /Xicheng District/
+延慶縣 延庆县 [yan2 qing4 xian4] /Yanqing County/
+朝陽區 朝阳区 [zhao1 yang2 qu1] /Chaoyang District/

@@ -1,0 +1,66 @@
+# vocab-cmn-geo-cities.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+阿爾伯克基 阿尔伯克基 [a1 er3 bo2 ke4 ji1] /Albuquerque/
+奧克蘭 奥克兰 [ao4 ke4 lan2] /Oakland/
+澳門 澳门 [ao4 men2] /Macau/
+巴黎 巴黎 [ba1 li2] /Paris/
+北京 北京 [bei3 jing1] /Beijing/
+柏林 柏林 [bo2 lin2] /Berlin/
+布達佩斯 布达佩斯 [bu4 da2 pei4 si1] /Budapest/
+布宜諾斯艾利斯 布宜诺斯艾利斯 [bu4 yi2 nuo4 si1 ai4 li4 si1] /Buenos Aires/
+長崎 长崎 [chang2 qi2] /Nagasaki/
+沖繩島 冲绳岛 [chong1 sheng2 dao3] /Okinawa/
+達拉斯 达拉斯 [da2 la1 si1] /Dallas/
+丹佛 丹佛 [dan1 fo2] /Denver/
+東京 东京 [dong1 jing1] /Tokyo/
+多倫多 多伦多 [duo1 lun2 duo1] /Toronto/
+費城 费城 [fei4 cheng2] /Philadelphia/
+廣島 广岛 [guang3 dao3] /Hiroshima/
+廣州 广州 [guang3 zhou1] /Guangzhou/
+好萊塢 好莱坞 [hao3 lai2 wu4] /Hollywood/
+基輔 基辅 [ji1 fu3] /Kiev/
+吉隆坡 吉隆坡 [ji2 long2 po1] /Kuala Lumpur/
+京都 京都 [jing1 du1] /Kyoto/
+舊金山 旧金山 [jiu4 jin1 shan1] /San Francisco/
+魁北克城 魁北克城 [kui2 bei3 ke4 cheng2] /Quebec City/
+奎松市 奎松市 [kui2 song1 shi4] /Quezon City/
+拉各斯 拉各斯 [la1 ge4 si1] /Lagos/
+里約熱內盧 里约热内卢 [li3 yue1 re4 nei4 lu2] /Rio de Janiero/
+倫敦 伦敦 [lun2 dun1] /London/
+洛杉磯 洛杉矶 [luo4 shan1 ji1] /Los Angeles/
+馬尼拉 马尼拉 [ma3 ni2 la1] /Manila/
+邁阿密 迈阿密 [mai4 a1 mi4] /Miami/
+明尼阿波利斯 明尼阿波利斯 [ming2 ni2 a1 bo1 li4 si1] /Minneapolis/
+墨爾本 墨尔本 [mo4 er3 ben3] /Melbourne/
+莫斯科 莫斯科 [mo4 si1 ke1] /Moscow/
+墨西哥城 墨西哥城 [mo4 xi1 ge1 cheng2] /Mexico City/
+內羅畢 内罗毕 [nei4 luo2 bi4] /Nairobi/
+紐約 纽约 [niu3 yue1] /New York/
+切爾諾貝利 切尔诺贝利 [qie1 er3 nuo4 bei4 li4] /Chernobyl/
+日內瓦 日内瓦 [ri4 nei4 wa3] /Geneva/
+薩克拉門托 萨克拉门托 [sa4 ke4 la1 men2 tuo1] /Sacramento/
+上海 上海 [shang4 hai3] /Shanghai/
+聖保羅 圣保罗 [sheng4 bao3 luo2] /Sao Paolo/
+聖地亞哥 圣地亚哥 [sheng4 di4 ya4 ge1] /San Diego/
+聖路易斯 圣路易斯 [sheng4 lu4 yi4 si1] /St. Louis/
+天津 天津 [tian1 jin1] /Tianjin/
+維也納 维也纳 [wei2 ye3 na4] /Vienna/
+溫哥華 温哥华 [wen1 ge1 hua2] /Vancouver/
+悉尼 悉尼 [xi1 ni2] /Sydney/
+廈門 厦门 [xia4 men2] /Xiamen/
+仙台 仙台 [xian1 tai2] /Sendai/
+香港 香港 [xiang1 gang3] /Hong Kong/
+新德里 新德里 [xin1 de2 li3] /New Delhi/
+芝加哥 芝加哥 [zhi1 jia1 ge1] /Chicago/
+珠海 珠海 [zhu1 hai3] /Zhuhai/

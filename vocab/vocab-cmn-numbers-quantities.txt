@@ -1,0 +1,18 @@
+# vocab-cmn-numbers-quantities.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+十 十 [shi2] /ten/
+百 百 [bai3] /hundred/
+千 千 [qian1] /thousand/
+萬 万 [wan4] /ten-thousand/
+兩 两 [liang3] /pair/

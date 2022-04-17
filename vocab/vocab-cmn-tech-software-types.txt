@@ -1,0 +1,17 @@
+# vocab-cmn-tech-software-types.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+輸入法軟件 输入法软件 [shu1 ru4 fa3 ruan3 jian4] /input method software/
+照片編輯軟件 照片编辑软件 [zhao4 pian4 bian1 ji2 ruan3 jian4] /photo editing software/
+信使軟件 信使软件 [xin4 shi3 ruan3 jian4] /messenger software/
+社會化媒體軟件 社会化媒体软件 [she4 hui4 hua4 mei2 ti3 ruan3 jian4] /social media software/

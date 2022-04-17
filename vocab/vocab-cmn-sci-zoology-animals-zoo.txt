@@ -1,0 +1,20 @@
+# vocab-cmn-sci-zoology-animals-zoo.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+長頸鹿 长颈鹿 [chang2 jing3 lu4] /giraffe/
+獅子 狮子 [shi1 zi5] /lion/
+猴子 猴子 [hou2 zi5] /monkey/
+鬣狗 鬣狗 [lie4 gou3] /hyena/
+象 象 [xiang4] /elephant/
+河馬 河马 [he2 ma3] /hippopotamus/
+犀牛 犀牛 [xi1 niu2] /rhinoceros/

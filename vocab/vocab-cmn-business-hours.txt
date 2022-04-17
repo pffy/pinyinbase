@@ -1,0 +1,16 @@
+# vocab-cmn-business-hours.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+營業時間 营业时间 [ying2 ye4 shi2 jian1] /business hours/
+假期時間 假期时间 [jia4 qi1 shi2 jian1] /holiday hours/
+銀行營業時間 银行营业时间 [yin2 hang2 ying2 ye4 shi2 jian1] /banking hours/

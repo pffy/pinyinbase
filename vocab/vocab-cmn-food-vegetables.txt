@@ -1,0 +1,20 @@
+# vocab-cmn-food-vegetables.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+生菜 生菜 [sheng1 cai4] /lettuce/
+番茄 番茄 [fan1 qie2] /tomato/
+芹菜 芹菜 [qin2 cai4] /celery/
+捲心菜 卷心菜 [juan3 xin1 cai4] /cabbage/
+胡蘿蔔 胡萝卜 [hu2 luo2 bo5] /carrot/
+西蘭花 西兰花 [xi1 lan2 hua1] /broccoli/
+白蘿蔔 白萝卜 [bai2 luo2 bo5] /daikon/

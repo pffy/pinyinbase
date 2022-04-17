@@ -1,0 +1,23 @@
+# vocab-cmn-geo-us-holidays-publicholidays.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+元旦 元旦 [yuan2 dan4] /New Year's Day/
+馬丁·路德·金紀念日 马丁·路德·金纪念日 [ma3 ding1 · lu4 de2 · jin1 ji4 nian4 ri4] /Martin Luther King, Jr. Day/
+總統日當天 总统日当天 [zong3 tong3 ri4 dang4 tian1] /President's Day/
+紀念日 纪念日 [ji4 nian4 ri4] /Memorial Day/
+獨立日 独立日 [du2 li4 ri4] /Independence Day/
+勞動節 劳动节 [lao2 dong4 jie2] /Labor Day/
+哥倫布日 哥伦布日 [ge1 lun2 bu4 ri4] /Columbus Day/
+退伍軍人節 退伍军人节 [tui4 wu3 jun1 ren2 jie2] /Veterans Day/
+感恩節 感恩节 [gan3 en1 jie2] /Thanksgiving Day/
+聖誕節 圣诞节 [sheng4 dan4 jie2] /Christmas Day/

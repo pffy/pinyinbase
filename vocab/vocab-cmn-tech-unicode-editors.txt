@@ -1,0 +1,16 @@
+# vocab-cmn-tech-unicode-editors.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+井作恆 井作恒 [jing3 zuo4 heng2] /John H. Jenkins/
+曲理查 曲理查 [qu1 li3 cha2] /Richard Cook/
+小林劍 小林剑 [xiao3 lin2 jian4] /Ken Lunde/

@@ -1,0 +1,20 @@
+# vocab-cmn-geo-continents.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+非洲 非洲 [fei1 zhou1] /Africa/
+南極洲 南极洲 [nan2 ji2 zhou1] /Antarctica/
+亞洲 亚洲 [ya4 zhou1] /Asia/
+澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /Australia/
+歐洲 欧洲 [ou1 zhou1] /Europe/
+北美洲 北美洲 [bei3 mei3 zhou1] /North America/
+南美洲 南美洲 [nan2 mei3 zhou1] /South America/

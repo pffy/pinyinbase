@@ -1,0 +1,32 @@
+# vocab-cmn-geo-us-birthstones.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+石榴石 石榴石 [shi2 liu5 shi2] /garnet/
+紫晶 紫晶 [zi3 jing1] /amethyst/
+海藍寶石 海蓝宝石 [hai3 lan2 bao3 shi2] /aquamarine/
+鑽石 钻石 [zuan4 shi2] /diamond/
+翡翠 翡翠 [fei3 cui4] /emerald/
+珍珠 珍珠 [zhen1 zhu1] /pearl/
+紅寶石 红宝石 [hong2 bao3 shi2] /ruby/
+貴橄欖石 贵橄榄石 [gui4 gan3 lan3 shi2] /peridot/
+藍寶石 蓝宝石 [lan2 bao3 shi2] /sapphire/
+蛋白石 蛋白石 [dan4 bai2 shi2] /opal/
+電氣石 电气石 [dian4 qi4 shi2] /tourmaline/
+黃玉 黄玉 [huang2 yu4] /topaz/
+黃水晶 黄水晶 [huang2 shui3 jing1] /citrine/
+綠松石 绿松石 [luu4 song1 shi2] /turquoise/
+鋯石 锆石 [gao4 shi2] /zircon/
+坦桑 坦桑 [tan3 sang1] /tanzanite/
+雞血石 鸡血石 [ji1 xue4 shi2] /bloodstone/
+月長石 月长石 [yue4 chang2 shi2] /moonstone/
+紫翠玉 紫翠玉 [zi3 cui4 yu4] /alexandrite/

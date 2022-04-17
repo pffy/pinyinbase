@@ -1,0 +1,31 @@
+# vocab-cmn-food-fruits.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+蘋果 苹果 [ping2 guo3] /apple/
+香蕉 香蕉 [xiang1 jiao1] /banana/
+芒果 芒果 [mang2 guo3] /mango/
+藍莓 蓝莓 [lan2 mei2] /blueberry/
+樹莓 树莓 [shu4 mei2] /raspberry/
+波森莓 波森莓 [bo1 sen1 mei2] /boysenberry/
+草莓 草莓 [cao3 mei2] /strawberry/
+葡萄 葡萄 [pu2 tao5] /grapes/
+梨子 梨子 [li2 zi5] /pears/
+柚子 柚子 [you4 zi5] /grapefruit/
+櫻桃 樱桃 [ying1 tao2] /cherry/
+橙果 橙果 [cheng2 guo3] /orange/
+荔枝 荔枝 [li4 zhi1] /lychee/
+菠蘿 菠萝 [bo1 luo2] /pineapple/
+黑莓 黑莓 [hei1 mei2] /blackberry/
+檸檬 柠檬 [ning2 meng2] /lemon/
+酸橙 酸橙 [suan1 cheng2] /lime/
+柑橘 柑橘 [gan1 ju2] /tangerine/

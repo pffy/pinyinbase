@@ -1,0 +1,20 @@
+# vocab-cmn-events-types.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+畢業典禮 毕业典礼 [bi4 ye4 dian3 li3] /graduation ceremony/
+婚禮 婚礼 [hun1 li3] /wedding/
+競賽 竞赛 [jing4 sai4] /contest/
+新聞發布會 新闻发布会 [xin1 wen2 fa1 bu4 hui4] /press conference/
+音樂會 音乐会 [yin1 yue4 hui4] /music concert/
+音樂節 音乐节 [yin1 yue4 jie2] /music festival/
+足球比賽 足球比赛 [zu2 qiu2 bi3 sai4] /football match/

@@ -1,0 +1,25 @@
+# vocab-cmn-calendar-months.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+一月 一月 [yi1 yue4] /January/
+二月 二月 [er4 yue4] /February/
+三月 三月 [san1 yue4] /March/
+四月 四月 [si4 yue4] /April/
+五月 五月 [wu3 yue4] /May/
+六月 六月 [liu4 yue4] /June/
+七月 七月 [qi1 yue4] /July/
+八月 八月 [ba1 yue4] /August/
+九月 九月 [jiu3 yue4] /September/
+十月 十月 [shi2 yue4] /October/
+十一月 十一月 [shi2 yi1 yue4] /November/
+十二月 十二月 [shi2 er4 yue4] /December/

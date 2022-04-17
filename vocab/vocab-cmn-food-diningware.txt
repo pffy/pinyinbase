@@ -1,0 +1,47 @@
+# vocab-cmn-food-diningware.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+滗水器 滗水器 [bi3 shui3 qi4] /decanter/
+餐叉 餐叉 [can1 cha1] /dinner fork/
+餐墊 餐垫 [can1 dian4] /place mats/
+餐巾 餐巾 [can1 jin1] /napkins/
+餐盤 餐盘 [can1 pan2] /dinner plates/
+茶杯 茶杯 [cha2 bei1] /teacups/
+茶匙 茶匙 [cha2 chi2] /teaspoon/
+大盤子 大盘子 [da4 pan2 zi5] /platter/
+地板 地板 [di4 ban3] /floor/
+紅酒杯 红酒杯 [hong2 jiu3 bei1] /wine glass/
+胡椒瓶 胡椒瓶 [hu2 jiao1 ping2] /pepper shaker/
+雞尾酒杯 鸡尾酒杯 [ji1 wei3 jiu3 bei1] /cocktail glass/
+咖啡杯 咖啡杯 [ka1 fei1 bei1] /coffee mugs/
+蠟燭 蜡烛 [la4 zhu2] /candles/
+螺旋拔塞 螺旋拔塞 [luo2 xuan2 ba2 sai1] /cork screw/
+麥片碗 麦片碗 [mai4 pian4 wan3] /cereal bowls/
+啤酒杯 啤酒杯 [pi2 jiu3 bei1] /beer stein/
+薩拉板 萨拉板 [sa4 la1 ban3] /sala plates/
+沙拉叉 沙拉叉 [sha1 la1 cha1] /salad fork/
+沙拉碗 沙拉碗 [sha1 la1 wan3] /salad bowls/
+湯匙 汤匙 [tang1 chi2] /soup spoon/
+湯碗 汤碗 [tang1 wan3] /soup bowls/
+甜點盤子 甜点盘子 [tian2 dian3 pan2 zi5] /dessert plates/
+碗 碗 [wan3] /bowls/
+晚餐刀 晚餐刀 [wan3 can1 dao1] /dinner knife/
+鹽瓶 盐瓶 [yan2 ping2] /salt shaker/
+一杯啤酒 一杯啤酒 [yi1 bei1 pi2 jiu3] /beer glass/
+燭台 烛台 [zhu2 tai2] /candle holders/
+桌布 桌布 [zhuo1 bu4] /tablecloths/
+筷子 筷子 [kuai4 zi5] /chopsticks/
+勺子 勺子 [shao2 zi5] /ladle/
+叉 叉 [cha1] /fork/
+勺子 勺子 [shao2 zi5] /spoon/
+刀 刀 [dao1] /knife/

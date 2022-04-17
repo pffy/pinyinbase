@@ -1,0 +1,30 @@
+# vocab-cmn-tech-google-products.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+谷歌日曆 谷歌日历 [gu3 ge1 ri4 li4] /Google Calendar/
+谷歌文檔 谷歌文档 [gu3 ge1 wen2 dang4] /Google Docs/
+谷歌云端硬盤 谷歌云端硬盘 [gu3 ge1 yun2 duan1 ying4 pan2] /Google Drive/
+谷歌帳戶 谷歌帐户 [gu3 ge1 zhang4 hu4] /Google Accounts/
+谷歌文件 谷歌文件 [gu3 ge1 wen2 jian4] /Google Documents/
+谷歌表格 谷歌表格 [gu3 ge1 biao3 ge2] /Google Spreadsheet/
+谷歌幻燈片 谷歌幻灯片 [gu3 ge1 huan4 deng1 pian4] /Google Slides/
+谷歌財經 谷歌财经 [gu3 ge1 cai2 jing1] /Google Finance/
+谷歌網上論壇 谷歌网上论坛 [gu3 ge1 wang3 shang4 lun4 tan2] /Google Groups/
+谷歌地圖 谷歌地图 [gu3 ge1 di4 tu2] /Google Maps/
+谷歌新聞 谷歌新闻 [gu3 ge1 xin1 wen2] /Google News/
+谷歌閱讀器 谷歌阅读器 [gu3 ge1 yue4 du2 qi4] /Google Reader/
+谷歌協作平台 谷歌协作平台 [gu3 ge1 xie2 zuo4 ping2 tai2] /Google Sites/
+谷歌瀏覽器 谷歌浏览器 [gu3 ge1 liu2 lan3 qi4] /Google Chrome/
+谷歌學術搜索 谷歌学术搜索 [gu3 ge1 xue2 shu4 sou1 suo3] /Google Scholar/
+谷歌圖片搜索 谷歌图片搜索 [gu3 ge1 tu2 pian4 sou1 suo3] /Google Images Search/
+谷歌相冊 谷歌相册 [gu3 ge1 xiang4 ce4] /Google Photos/

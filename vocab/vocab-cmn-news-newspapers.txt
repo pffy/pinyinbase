@@ -1,0 +1,20 @@
+# vocab-cmn-news-newspapers.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+東方日報 东方日报 [dong1 fang1 ri4 bao4] /Oriental Daily News/
+華爾街日報 华尔街日报 [hua2 er3 jie1 ri4 bao4] /Wall Street Journal/
+明報 明报 [ming2 bao4] /Ming Pao/
+南華早報 南华早报 [nan2 hua2 zao3 bao4] /South China Morning Post/
+紐約時報 纽约时报 [niu3 yue1 shi2 bao4] /New York Times/
+蘋果日報 苹果日报 [ping2 guo3 ri4 bao4] /Apple Daily/
+星島日報 星岛日报 [xing1 dao3 ri4 bao4] /Sing Tao Daily/

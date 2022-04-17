@@ -1,0 +1,43 @@
+# vocab-cmn-sports-nba-teams.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+奧蘭多魔術 奥兰多魔术 [ao4 lan2 duo1 mo2 shu4] /Orlando Magic/
+波士頓凱爾特人 波士顿凯尔特人 [bo1 shi4 dun4 kai3 er3 te4 ren2] /Boston Celtics/
+波特蘭開拓者 波特兰开拓者 [bo1 te4 lan2 kai1 tuo4 zhe3] /Portland Trail Blazers/
+布魯克林籃網 布鲁克林篮网 [bu4 lu3 ke4 lin2 lan2 wang3] /Brooklyn Nets/
+達拉斯小牛 达拉斯小牛 [da2 la1 si1 xiao3 niu2] /Dallas Mavericks/
+丹佛掘金 丹佛掘金 [dan1 fo2 jue2 jin1] /Denver Nuggets/
+底特律活塞 底特律活塞 [di3 te4 luu4 huo2 sai1] /Detroit Pistons/
+多倫多猛龍 多伦多猛龙 [duo1 lun2 duo1 meng3 long2] /Toronto Raptors/
+俄克拉荷馬城雷霆 俄克拉荷马城雷霆 [e2 ke4 la1 he2 ma3 cheng2 lei2 ting2] /Oklahoma City Thunder/
+菲尼克斯太陽隊 菲尼克斯太阳队 [fei1 ni2 ke4 si1 tai4 yang5 dui4] /Phoenix Suns/
+費城７６人隊 费城７６人队 [fei4 cheng2 qi1 shi2 liu4 ren2 dui4] /Philadelphia 76ers/
+華盛頓奇才 华盛顿奇才 [hua2 sheng4 dun4 qi2 cai2] /Washington Wizards/
+金州勇士 金州勇士 [jin1 zhou1 yong3 shi4] /Golden State Warriors/
+克里夫蘭騎士 克里夫兰骑士 [ke4 li3 fu1 lan2 qi2 shi4] /Cleveland Cavaliers/
+洛杉磯湖人隊 洛杉矶湖人队 [luo4 shan1 ji1 hu2 ren2 dui4] /Los Angeles Lakers/
+洛杉磯快船 洛杉矶快船 [luo4 shan1 ji1 kuai4 chuan2] /Los Angeles Clippers/
+邁阿密熱火 迈阿密热火 [mai4 a1 mi4 re4 huo3] /Miami Heat/
+孟菲斯灰熊 孟菲斯灰熊 [meng4 fei1 si1 hui1 xiong2] /Memphis Grizzlies/
+密爾沃基雄鹿 密尔沃基雄鹿 [mi4 er3 wo4 ji1 xiong2 lu4] /Milwaukee Bucks/
+明尼蘇達森林狼 明尼苏达森林狼 [ming2 ni2 su1 da2 sen1 lin2 lang2] /Minnesota Timberwolves/
+紐約尼克斯 纽约尼克斯 [niu3 yue1 ni2 ke4 si1] /New York Knicks/
+薩克拉門托國王 萨克拉门托国王 [sa4 ke4 la1 men2 tuo1 guo2 wang2] /Sacramento Kings/
+聖安東尼奧馬刺 圣安东尼奥马刺 [sheng4 an1 dong1 ni2 ao4 ma3 ci4] /San Antonio Spurs/
+夏洛特山貓 夏洛特山猫 [xia4 luo4 te4 shan1 mao1] /Charlotte Bobcats/
+新奧爾良鵜鶘 新奥尔良鹈鹕 [xin1 ao4 er3 liang2 ti2 hu2] /New Orleans Pelicans/
+休斯頓火箭 休斯顿火箭 [xiu1 si1 dun4 huo3 jian4] /Houston Rockets/
+亞特蘭大老鷹 亚特兰大老鹰 [ya4 te4 lan2 da4 lao3 ying1] /Atlanta Hawks/
+印第安納步行者隊 印第安纳步行者队 [yin4 di4 an1 na4 bu4 xing2 zhe3 dui4] /Indiana Pacers/
+猶他爵士 犹他爵士 [you2 ta1 jue2 shi4] /Utah Jazz/
+芝加哥公牛 芝加哥公牛 [zhi1 jia1 ge1 gong1 niu2] /Chicago Bulls/

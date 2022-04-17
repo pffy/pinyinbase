@@ -1,0 +1,24 @@
+# vocab-cmn-geo-cn-holidays-traditional.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+重陽節 重阳节 [chong2 yang2 jie2] /Chongyang Festival/
+光棍節 光棍节 [guang1 gun4 jie2] /Singles Day/
+國際婦女節 国际妇女节 [guo2 ji4 fu4 nuu3 jie2] /International Women's Day/
+建黨節 建党节 [jian4 dang3 jie2] /CPC Founding Day/
+建軍節 建军节 [jian4 jun1 jie2] /Army Day/
+六一兒童節 六一儿童节 [liu4 yi1 er2 tong2 jie2] /Children's Day/
+七夕 七夕 [qi1 xi1] /Double Seven Festival/
+青年節 青年节 [qing1 nian2 jie2] /Youth Day/
+元宵節 元宵节 [yuan2 xiao1 jie2] /Lantern Festival/
+植樹節 植树节 [zhi2 shu4 jie2] /Arbor Day/
+中元節 中元节 [zhong1 yuan2 jie2] /Ghost Festival/

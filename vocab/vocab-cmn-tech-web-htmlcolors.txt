@@ -1,0 +1,29 @@
+# vocab-cmn-tech-web-htmlcolors.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白色 白色 [bai2 se4] /white/
+橄欖色 橄榄色 [gan3 lan3 se4] /olive/
+黑色 黑色 [hei1 se4] /black/
+紅色 红色 [hong2 se4] /red/
+黃色 黄色 [huang2 se4] /yellow/
+灰色 灰色 [hui1 se4] /gray/
+萊姆色 莱姆色 [lai2 mu3 se4] /lime/
+藍色 蓝色 [lan2 se4] /blue/
+栗色 栗色 [li4 se4] /maroon/
+綠色 绿色 [luu4 se4] /green/
+墨綠色 墨绿色 [mo4 luu4 se4] /teal/
+品紅色 品红色 [pin3 hong2 se4] /fuchsia/
+青色 青色 [qing1 se4] /cyan/
+深藍色 深蓝色 [shen1 lan2 se4] /navy/
+銀色 银色 [yin2 se4] /silver/
+紫色 紫色 [zi3 se4] /purple/

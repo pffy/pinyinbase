@@ -1,0 +1,21 @@
+# vocab-cmn-geo-landforms.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+草原 草原 [cao3 yuan2] /grassland/
+沙漠 沙漠 [sha1 mo4] /desert/
+冰川 冰川 [bing1 chuan1] /glacier/
+火山 火山 [huo3 shan1] /volcano/
+彈坑 弹坑 [dan4 keng1] /crater/
+海洋 海洋 [hai3 yang2] /ocean/
+谷地 谷地 [gu3 di4] /valley/
+山地 山地 [shan1 di4] /mountain/

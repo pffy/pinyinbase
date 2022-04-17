@@ -1,0 +1,20 @@
+# vocab-cmn-food-milkteas.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+杏仁奶茶 杏仁奶茶 [xing4 ren2 nai3 cha2] /almond milk tea/
+焦糖奶茶 焦糖奶茶 [jiao1 tang2 nai3 cha2] /caramel milk tea/
+香芋奶茶 香芋奶茶 [xiang1 yu4 nai3 cha2] /taro milk tea/
+奶茶 奶茶 [nai3 cha2] /milk tea/
+椰香奶茶 椰香奶茶 [ye2 xiang1 nai3 cha2] /coconut milk tea/
+泰式奶茶 泰式奶茶 [tai4 shi4 nai3 cha2] /Thai iced tea/
+茉香奶茶 茉香奶茶 [mo4 xiang1 nai3 cha2] /jasmine green tea/

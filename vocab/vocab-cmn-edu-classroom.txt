@@ -1,0 +1,19 @@
+# vocab-cmn-edu-classroom.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+白板 白板 [bai2 ban3] /whiteboard/
+白板筆 白板笔 [bai2 ban3 bi3] /dry-erase marker/
+白板擦 白板擦 [bai2 ban3 ca1] /whiteboard eraser/
+粉筆 粉笔 [fen3 bi3] /chalk/
+黑板 黑板 [hei1 ban3] /blackboard/
+黑板擦 黑板擦 [hei1 ban3 ca1] /blackboard eraser/

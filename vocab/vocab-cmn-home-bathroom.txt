@@ -1,0 +1,37 @@
+# vocab-cmn-home-bathroom.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+水龍頭 水龙头 [shui3 long2 tou2] /faucet/
+水槽龍頭 水槽龙头 [shui3 cao2 long2 tou2] /sink faucet/
+藥櫃 药柜 [yao4 gui4] /medicine cabinet/
+浴室鏡 浴室镜 [yu4 shi4 jing4] /bathroom mirror/
+浴室水槽 浴室水槽 [yu4 shi4 shui3 cao2] /bathroom sink/
+浴室櫃 浴室柜 [yu4 shi4 gui4] /bathroom cabinet/
+馬桶 马桶 [ma3 tong3] /toilet/
+浴缸 浴缸 [yu4 gang1] /bathtub/
+淋浴 淋浴 [lin2 yu4] /shower/
+淋浴頭 淋浴头 [lin2 yu4 tou2] /shower head/
+淋浴龍頭 淋浴龙头 [lin2 yu4 long2 tou2] /shower faucet/
+浴簾 浴帘 [yu4 lian2] /shower curtain/
+浴室防滑墊 浴室防滑垫 [yu4 shi4 fang2 hua2 dian4] /bathroom mat/
+浴室地毯 浴室地毯 [yu4 shi4 di4 tan3] /bathroom rug/
+衛生紙 卫生纸 [wei4 sheng1 zhi3] /toilet paper/
+棉紙 棉纸 [mian2 zhi3] /tissue paper/
+肥皂盒 肥皂盒 [fei2 zao4 he2] /soap dish/
+牙刷架 牙刷架 [ya2 shua1 jia4] /toothbrush holder/
+門鏡 门镜 [men2 jing4] /door mirror/
+浴室鏡 浴室镜 [yu4 shi4 jing4] /shower mirror/
+浴巾 浴巾 [yu4 jin1] /bath towel/
+面巾 面巾 [mian4 jin1] /washcloth/
+沙灘巾 沙滩巾 [sha1 tan1 jin1] /beach towel/
+手巾 手巾 [shou3 jin1] /hand towel/

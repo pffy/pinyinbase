@@ -1,0 +1,34 @@
+# vocab-cmn-home-kitchen.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+便攜式火爐 便携式火炉 [bian4 xie2 shi4 huo3 lu2] /portable stove/
+冰盒 冰盒 [bing1 he2] /ice box/
+冰箱 冰箱 [bing1 xiang1] /refrigerator/
+冰箱 冰箱 [bing1 xiang1] /freezer/
+茶壺 茶壶 [cha2 hu2] /tea kettle/
+傳統烤箱 传统烤箱 [chuan2 tong3 kao3 xiang1] /conventional oven/
+蛋糕攪拌機 蛋糕搅拌机 [dan4 gao1 jiao3 ban4 ji1] /cake mixer/
+電茶壺 电茶壶 [dian4 cha2 hu2] /electric tea kettle/
+對流爐 对流炉 [dui4 liu2 lu2] /convection oven/
+混合器 混合器 [hun4 he2 qi4] /blender/
+火鍋灶 火锅灶 [huo3 guo1 zao4] /hotpot stove/
+烤箱 烤箱 [kao3 xiang1] /oven/
+爐頂 炉顶 [lu2 ding3] /stove top/
+爐灶範圍 炉灶范围 [lu2 zao4 fan4 wei2] /cooktop range/
+排氣扇 排气扇 [pai2 qi4 shan4] /exhaust fan/
+食品加工 食品加工 [shi2 pin3 jia1 gong1] /food processor/
+微波爐 微波炉 [wei1 bo1 lu2] /microwave oven/
+洗碗機 洗碗机 [xi3 wan3 ji1] /dishwasher/
+碗碟架 碗碟架 [wan3 die2 jia4] /dish rack/
+櫥櫃 橱柜 [chu2 gui4] /cupboards/
+蒸汽釜 蒸汽釜 [zheng1 qi4 fu3] /steam kettle/

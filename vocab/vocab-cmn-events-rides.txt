@@ -1,0 +1,15 @@
+# vocab-cmn-events-rides.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+過山車 过山车 [guo4 shan1 che1] /roller coaster/
+摩天輪 摩天轮 [mo2 tian1 lun2] /ferris wheel/

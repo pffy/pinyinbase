@@ -1,0 +1,25 @@
+# vocab-cmn-food-packaging.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+吸管 吸管 [xi1 guan3] /plastic straw/
+機械式封口機 机械式封口机 [ji1 xie4 shi4 feng1 kou3 ji1] /drink cup sealer machine/
+訂製封口膜 订制封口膜 [ding4 zhi4 feng1 kou3 mo2] /drink cup seal film/
+保鮮膜 保鲜膜 [bao3 xian1 mo2] /plastic wrap/
+塑料瓶 塑料瓶 [su4 liao4 ping2] /plastic bottle/
+塑料杯 塑料杯 [su4 liao4 bei1] /plastic cup/
+紙袋 纸袋 [zhi3 dai4] /paper bag/
+雞蛋紙箱 鸡蛋纸箱 [ji1 dan4 zhi3 xiang1] /egg carton/
+玻璃瓶 玻璃瓶 [bo1 li5 ping2] /glass bottle/
+牛奶紙盒 牛奶纸盒 [niu2 nai3 zhi3 he2] /milk carton/
+便當盒 便当盒 [bian4 dang1 he2] /bento box/
+聚苯乙烯容器 聚苯乙烯容器 [ju4 ben3 yi3 xi1 rong2 qi4] /polystyrene container/

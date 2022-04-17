@@ -1,0 +1,38 @@
+# vocab-cmn-food-cookware.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+盤子 盘子 [pan2 zi5] /pie dish/
+爆香鍋 爆香锅 [bao4 xiang1 guo1] /saute pan/
+焙燒爐 焙烧炉 [bei4 shao1 lu2] /roaster/
+比薩刀 比萨刀 [bi3 sa4 dao1] /pizza cutter/
+比薩鍋 比萨锅 [bi3 sa4 guo1] /pizza pan/
+比薩輪 比萨轮 [bi3 sa4 lun2] /pizza wheel/
+比薩石 比萨石 [bi3 sa4 shi2] /pizza stone/
+餅乾模具 饼干模具 [bing3 gan1 mu2 ju4] /cookie cutters/
+不銹鋼炊具 不锈钢炊具 [bu4 xiu4 gang1 chui1 ju4] /stainless-steel cookware/
+茶壺 茶壶 [cha2 hu2] /tea kettle/
+炒鍋 炒锅 [chao3 guo1] /fry pan/
+炒鍋 炒锅 [chao3 guo1] /wok/
+炊具 炊具 [chui1 ju4] /cookware/
+蛋糕盤 蛋糕盘 [dan4 gao1 pan2] /cake pan/
+鐺 铛 [dang1] /griddle/
+燉鍋 炖锅 [dun4 guo1] /stew pan/
+鍋架 锅架 [guo1 jia4] /pot racks/
+荷蘭烤箱 荷兰烤箱 [he2 lan2 kao3 xiang1] /dutch oven/
+煎餅模具 煎饼模具 [jian1 bing5 mu2 ju4] /pancake molds/
+煎鍋 煎锅 [jian1 guo1] /skillet/
+烤盤 烤盘 [kao3 pan2] /grill pan/
+平底鍋 平底锅 [ping2 di3 guo1] /saucepan/
+鬆餅鍋 松饼锅 [song1 bing3 guo1] /muffin pan/
+銅炊具 铜炊具 [tong2 chui1 ju4] /copper cookware/
+鑄鐵炊具 铸铁炊具 [zhu4 tie3 chui1 ju4] /cast-iron cookware/

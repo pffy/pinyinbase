@@ -1,0 +1,17 @@
+# vocab-cmn-food-starbucks.txt
+#
+# Pinyinbase
+# A truly, free, libre, and open source Chinese-English dictionary.
+#
+# Published by The Pffy Authors.
+#
+# Pinyinbase can be downloaded from:
+# https://github.com/pffy/pinyinbase
+#
+# This content is released to the PUBLIC DOMAIN.
+# http://creativecommons.org/publicdomain/zero/1.0/
+#
+星巴克 星巴克 [xing1 ba1 ke4] /Starbucks/
+星巴克咖啡公司 星巴克咖啡公司 [xing1 ba1 ke4 ka1 fei1 gong1 si1] /Starbucks Coffee Company/
+星巴克咖啡菜單 星巴克咖啡菜单 [xing1 ba1 ke4 ka1 fei1 cai4 dan1] /Starbucks coffee menu/
+星巴克烘焙菜單 星巴克烘焙菜单 [xing1 ba1 ke4 hong1 bei4 cai4 dan1] /Starbucks bakery menu/
