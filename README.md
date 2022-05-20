@@ -45,7 +45,7 @@ Pinyinbase is designed to:
   + Provide a Chinese-English dictionary set to be modified for your needs.  
   + Empower parents, teachers or clergy to specify acceptable content.
   + Help developers comply with local laws, regarding suitable content for audiences and jurisdictions.
-  + Facilitate responsive development changes with a simple build-from-source tool.
+  + Facilitate responsive development changes with a [simple build-from-source tool][gh_pbjkit].
   + Reconcile risk management priorities while limiting exposure for your project or organization.
 
 
@@ -83,6 +83,7 @@ Pinyinbase is designed to:
 
 
 [gh_search_greentea]: https://github.com/pffy/pinyinbase/search?utf8=%E2%9C%93&q=green+tea
+[gh_pbjkit]: https://github.com/pffy/pbjkit
 
 [web_cczero]: http://creativecommons.org/publicdomain/zero/1.0/
 [web_adsenserules]: https://support.google.com/adsense/answer/1348688?hl=en&vid=1-635770721350287708-1904227295&ref_topic=1271507&rd=1
