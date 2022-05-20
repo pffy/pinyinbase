@@ -15,10 +15,12 @@
 
 ### Workflow
 
+![fmo][img_pb_steps]
+
 Here is the workflow for Pinyinbase dictionary deployment:
 
   1. Create or edit vocab lists.
-  2. Collect and combine the vocab lists into an organized data source.
+  2. Collect and [combine the vocab lists][gh_pbjkit] into an organized data source.
   3. Use the Pinyinbase dictionary outfile in apps.
 
 
@@ -84,6 +86,8 @@ Pinyinbase is designed to:
 
 [gh_search_greentea]: https://github.com/pffy/pinyinbase/search?utf8=%E2%9C%93&q=green+tea
 [gh_pbjkit]: https://github.com/pffy/pbjkit
+
+[img_pb_steps]: https://raw.githubusercontent.com/pffy/b/main/png/pinyinbase-steps-300.png
 
 [web_cczero]: http://creativecommons.org/publicdomain/zero/1.0/
 [web_adsenserules]: https://support.google.com/adsense/answer/1348688?hl=en&vid=1-635770721350287708-1904227295&ref_topic=1271507&rd=1
