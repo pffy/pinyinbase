@@ -84,7 +84,7 @@ Pinyinbase is designed to:
   + https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
-The Pffy Authors &copy; 2022
+The Pffy Authors &middot; 2022
 
 [gh_search_greentea]: https://github.com/pffy/pinyinbase/search?utf8=%E2%9C%93&q=green+tea
 [gh_pbjkit]: https://github.com/pffy/pbjkit
