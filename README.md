@@ -83,7 +83,7 @@ Pinyinbase is designed to:
   + Pinyinbase is released to the PUBLIC DOMAIN.
   + https://creativecommons.org/publicdomain/zero/1.0/
 
-
+---
 [gh_search_greentea]: https://github.com/pffy/pinyinbase/search?utf8=%E2%9C%93&q=green+tea
 [gh_pbjkit]: https://github.com/pffy/pbjkit
 
