@@ -1,4 +1,6 @@
-# Pinyinbase is a truly free, libre and open source Chinese-English dictionary with bilingual glossaries in backwards-compatible CEDICT files.
+# Pinyinbase 
+
+**Pinyinbase** is a truly free, libre and open source Chinese-English dictionary compiled using bilingual glossaries in backwards-compatible CEDICT files.
 
 # Overview
 
